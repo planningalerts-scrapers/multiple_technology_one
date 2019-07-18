@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/planningalerts-scrapers/technology_one_scraper.git
-  revision: e519bf2ddda82c4bba94dfb54570e17de76ff846
+  revision: edfaa2cbb3e581b295f6821df006af381b619e77
   specs:
     technology_one_scraper (0.1.0)
       activesupport
@@ -30,9 +30,9 @@ GEM
     connection_pool (2.2.2)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
-    domain_name (0.5.20180417)
+    domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
-    hashdiff (0.4.0)
+    hashdiff (1.0.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     httpclient (2.8.3)
