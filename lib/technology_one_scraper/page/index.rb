@@ -77,7 +77,7 @@ module TechnologyOneScraper
           :details
         when "Work Commenced"
           :word_commenced
-        when "Determined Date"
+        when "Determined Date", "Date Determined"
           :determined_date
         when "Ward"
           :ward
