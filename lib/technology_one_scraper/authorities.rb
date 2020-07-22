@@ -80,7 +80,8 @@ module TechnologyOneScraper
     },
     manningham: {
       url: "https://eproclaim.manningham.vic.gov.au/eProperty",
-      period: "L28"
+      period: "L28",
+      australian_proxy: true
     },
     noosa: {
       url: "https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
