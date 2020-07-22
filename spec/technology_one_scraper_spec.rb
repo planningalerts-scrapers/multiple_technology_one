@@ -37,7 +37,7 @@ RSpec.describe TechnologyOneScraper do
       expect(results).to eq expected
     end
 
-    TechnologyOneScraper::AUTHORITIES.keys.each do |authority|
+    TechnologyOneScraper::AUTHORITIES.each_key do |authority|
       it authority do
         test_scrape_and_save(authority)
       end

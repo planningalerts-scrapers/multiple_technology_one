@@ -9,7 +9,7 @@ AllCops:
     - lib/technology_one_scraper/authority/*
 
 # Bumping max line length to something a little more reasonable
-Metrics/LineLength:
+Layout/LineLength:
   Max: 100
 
 # We prefer double quotes here and it we're making liberal use of multi-line
@@ -50,3 +50,33 @@ Metrics/ParameterLists:
 
 Metrics/PerceivedComplexity:
   Enabled: false
+
+Layout/EmptyLinesAroundAttributeAccessor:
+  Enabled: true
+
+Layout/SpaceAroundMethodCallOperator:
+  Enabled: true
+
+Lint/DeprecatedOpenSSLConstant:
+  Enabled: true
+
+Lint/RaiseException:
+  Enabled: true
+
+Lint/StructNewOverride:
+  Enabled: true
+
+Style/ExponentialNotation:
+  Enabled: true
+
+Style/HashEachMethods:
+  Enabled: true
+
+Style/HashTransformKeys:
+  Enabled: true
+
+Style/HashTransformValues:
+  Enabled: true
+
+Style/SlicingWithRange:
+  Enabled: true
