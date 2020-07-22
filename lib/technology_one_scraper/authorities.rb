@@ -46,7 +46,8 @@ module TechnologyOneScraper
     },
     mid_western: {
       url: "https://eservices.midwestern.nsw.gov.au/epropertyprod",
-      period: "L28"
+      period: "L28",
+      australian_proxy: true
     },
     hume: {
       url: "https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty",
