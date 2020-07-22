@@ -1,0 +1,818 @@
+---
+- council_reference: CUA25091
+  address: 1/21-23 Marshall Road KIRRAWEE NSW 2232
+  description: Internal fitout of existing industrial premises
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CUA25091&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0468
+  address: 72 Alkaringa Road GYMEA BAY NSW 2227
+  description: Alterations and additions to existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0468&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0469
+  address: 9 Nullabor Place YARRAWARRAH NSW 2233
+  description: Alterations and additions to existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0469&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0470
+  address: 28 Bignell Street ILLAWONG NSW 2234
+  description: Alterations and additions to an existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0470&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0471
+  address: 22-30 Brighton Street BUNDEENA NSW 2230
+  description: Additional use of existing retail premises to include food and drink
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0471&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0472
+  address: 199 Oyster Bay Road OYSTER BAY NSW 2225
+  description: Construction of an in ground swimming pool
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0472&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0473
+  address: 128 Fairview Avenue ENGADINE NSW 2233
+  description: Alterations and additions to an existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0473&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0474
+  address: 37 Raine Place BARDEN RIDGE NSW 2234
+  description: Construction of a swimming pool and spa
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0474&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0475
+  address: 20 Flinders Road CRONULLA NSW 2230
+  description: Alterations and additions to existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0475&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0476
+  address: 347B Woolooware Road BURRANEER NSW 2230
+  description: Construction of a sunroom attached to existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0476&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0477
+  address: 51 Cronulla Street CRONULLA NSW 2230
+  description: Change of use from a restaurant to a small bar
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0477&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: DA20/0478
+  address: 50 Caringbah Road CARINGBAH SOUTH NSW 2229
+  description: Demolition of an existing dwelling and garage
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0478&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA20/0479
+  address: 66 Crammond Boulevarde CARINGBAH NSW 2229
+  description: Alterations and additions to an existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0479&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA20/0480
+  address: 13 Dover Place ENGADINE NSW 2233
+  description: Construction of a new secondary dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0480&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA20/0481
+  address: 2 Kurrajong Street SUTHERLAND NSW 2232
+  description: Construction of a carport and installation of a rainwater tank
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0481&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA20/0482
+  address: 12 Molong Road GYMEA BAY NSW 2227
+  description: Alterations and additions to an existing dwelling and construction
+    of a swimming pool, cabana and carport
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0482&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA20/0483
+  address: 60 Brighton Street BUNDEENA NSW 2230
+  description: Demolition of existing structures, construction of a new principal
+    dwelling and secondary dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0483&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: DA20/0484
+  address: 7 Jane Place HEATHCOTE NSW 2233
+  description: Alterations and additions to existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0484&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA20/0485
+  address: 133 Novara Crescent JANNALI NSW 2226
+  description: Alterations and additions to an existing dwelling and construction
+    of a swimming pool
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0485&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA20/0486
+  address: 3 Rostrevor Street CRONULLA NSW 2230
+  description: Construction of an in ground swimming pool
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0486&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA20/0487
+  address: 24 Marion Street GYMEA NSW 2227
+  description: Demolition of existing structures, construction of a multi-dwelling
+    housing complex comprising of seven (7) dwellings and basement parking
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0487&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA20/0488
+  address: 34-78 Wilson Parade HEATHCOTE NSW 2233
+  description: Installation of a digital school sign
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0488&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: DA20/0489
+  address: 10-20 Torres Street KURNELL NSW 2231
+  description: Change of use and fit out of a gym
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0489&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA20/0490
+  address: 27 Achilles Road ENGADINE NSW 2233
+  description: Demolition of existing rear patio and construction of a new first floor
+    deck with roof
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0490&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA20/0491
+  address: 127 Caringbah Road CARINGBAH NSW 2229
+  description: Relocation of garbage enclosure and addition of two (2) hard-stand
+    spaces within front setback of aged care facility
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0491&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA20/0492
+  address: 14 St George Crescent SANDY POINT NSW 2172
+  description: Alterations and additions to existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0492&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA20/0493
+  address: 19 Hibiscus Close ALFORDS POINT NSW 2234
+  description: Alterations and additions to an existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0493&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA20/0494
+  address: 16 Pacific Crescent MAIANBAR NSW 2230
+  description: Alterations and additions to existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0494&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA20/0495
+  address: 6 James Close MENAI NSW 2234
+  description: Construction of a swimming pool
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0495&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA20/0496
+  address: 57 Nicholson Parade CRONULLA NSW 2230
+  description: Alterations to existing outbuilding
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0496&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA20/0497
+  address: 19 Torquay Street GREENHILLS BEACH NSW 2230
+  description: Construction of a new pool
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0497&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA20/0498
+  address: 37 Moyran Parade GRAYS POINT NSW 2232
+  description: Alterations and additions to existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0498&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA20/0499
+  address: 58 Edward Street SYLVANIA NSW 2224
+  description: Demolition of existing structures and construction of multi dwelling
+    development containing 7 units
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0499&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA20/0500
+  address: 113 Georges River Crescent OYSTER BAY NSW 2225
+  description: Extension and re-orientation to existing jetty, ramp re-orientation
+    and re-attachment of pontoon
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0500&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: DA20/0501
+  address: 18 Severn Road WORONORA NSW 2232
+  description: Alterations and additions to existing dwelling
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA20%2F0501&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: MA19/0244
+  address: 1081 Old Princes Highway ENGADINE NSW 2233
+  description: "CREATED IN ERROR S96 (AA1) Modification to DA15/1325 - Modify waste
+    management plan\r\nUSED FOR TESTING ALERTS"
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA19%2F0244&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: MA20/0195
+  address: 32 Raleigh Avenue CARINGBAH NSW 2229
+  description: S4.55(1A) modification to DA17/1537 – delete swimming pool
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0195&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: MA20/0196
+  address: 34 Gore Avenue KIRRAWEE NSW 2232
+  description: S4.55(2) Modification to DA18/0812 – Addition of floor space to first
+    floor and modify pool design
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0196&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: MA20/0197
+  address: 260 Willarong Road CARINGBAH SOUTH NSW 2229
+  description: S4.55(2) modification to DA16/1366 – changes to ridge level, floor
+    levels, windows, roof and external façade, internal layouts and addition of front
+    fence
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0197&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: MA20/0198
+  address: 284-286 Taren Point Road CARINGBAH NSW 2229
+  description: S4.55(1A) modification to DA18/1069 – amend condition 4 drainage easement
+    registration
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0198&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: MA20/0199
+  address: 25 Yellambie Street YOWIE BAY NSW 2228
+  description: S4.55(1A) modification to DA17/0408 – delete garage and pergola
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0199&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: MA20/0200
+  address: 28 Doyle Street BARDEN RIDGE NSW 2234
+  description: S4.55(1A) modification to DA19/0605 – modify retaining wall and stair
+    designs
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0200&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: MA20/0201
+  address: 123 Kangaroo Point Road KANGAROO POINT NSW 2224
+  description: Section 4.55(1A) modification of DA09/1248 Relocation of swimming pool
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0201&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: MA20/0202
+  address: 1 Marooba Place ENGADINE NSW 2233
+  description: S4.55 (2) Modification of DA04/0745 - Reduction of garage size, change
+    roof profile and footprint of dwelling and internal design changes
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0202&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: MA20/0203
+  address: 17 Meehan Place KIRRAWEE NSW 2232
+  description: S4.55(1A) modification to DA20/0097 – changes to pool surrounds and
+    retaining wall location
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0203&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: MA20/0204
+  address: 134 Port Hacking Road SYLVANIA NSW 2224
+  description: S4.55(1A) modification to DA17/0785 – modify stormwater drainage design
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0204&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: MA20/0205
+  address: 45 Sproule Road ILLAWONG NSW 2234
+  description: Section 4.55(1A) modification of DA18/1357 Relocation of swimming pool
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0205&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: MA20/0206
+  address: 20 Henry Avenue SYLVANIA NSW 2224
+  description: S4.55(1A) modification to DA05/0164 – change to deck design
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA20%2F0206&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: RDA20/0661
+  address: 8/31-33 Chapman Street GYMEA NSW 2227
+  description: Skip Bin Applications
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0661&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: RDA20/0662
+  address: 56 Spur Crescent LOFTUS NSW 2232
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0662&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: RDA20/0663
+  address: 44 Water Street CARINGBAH SOUTH NSW 2229
+  description: Dev-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0663&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: RDA20/0664
+  address: 12 Rutherford Avenue BURRANEER NSW 2230
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0664&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: RDA20/0665
+  address: 53 Woronora Crescent COMO NSW 2226
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0665&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: RDA20/0666
+  address: 17 Frederick Street MIRANDA NSW 2228
+  description: Road Opening Single Residential
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0666&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: RDA20/0667
+  address: 82 Woolooware Road WOOLOOWARE NSW 2230
+  description: Road Opening Single Residential
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0667&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: RDA20/0668
+  address: 82 Woolooware Road WOOLOOWARE NSW 2230
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0668&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: RDA20/0669
+  address: 7 Cabramatta Road WOOLOOWARE NSW 2230
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0669&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: RDA20/0670
+  address: 9 Culburra Road MIRANDA NSW 2228
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0670&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: RDA20/0671
+  address: 154 The Boulevarde CARINGBAH NSW 2229
+  description: Road Opening Multiple Dwelling and Non Residential
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0671&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: RDA20/0672
+  address: 129 Ewos Parade CRONULLA NSW 2230
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0672&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: RDA20/0673
+  address: 47 Darryl Place GYMEA BAY NSW 2227
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0673&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: RDA20/0674
+  address: 202 Caringbah Road CARINGBAH SOUTH NSW 2229
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0674&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: RDA20/0675
+  address: 1 Roker Street CRONULLA NSW 2230
+  description: Detailed Frontage Design
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0675&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: RDA20/0676
+  address: 187 Gannons Road CARINGBAH SOUTH NSW 2229
+  description: Dev-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0676&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: RDA20/0677
+  address: 51 Wyralla Road MIRANDA NSW 2228
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0677&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: RDA20/0678
+  address: 457 President Avenue KIRRAWEE NSW 2232
+  description: Road Opening Multiple Dwelling and Non Residential
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0678&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: RDA20/0679
+  address: 457 President Avenue KIRRAWEE NSW 2232
+  description: Road Opening Multiple Dwelling and Non Residential
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0679&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: RDA20/0680
+  address: 38 Rutherford Avenue BURRANEER NSW 2230
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0680&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: RDA20/0681
+  address: 55 Siandra Drive KAREELA NSW 2232
+  description: Skip Bin Applications
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0681&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: RDA20/0682
+  address: 10 Bermuda Place BURRANEER NSW 2230
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0682&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: RDA20/0683
+  address: 1 Urunga Parade MIRANDA NSW 2228
+  description: Road Opening Multiple Dwelling and Non Residential
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0683&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0684
+  address: 142 Port Hacking Road SYLVANIA NSW 2224
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0684&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0685
+  address: 46 Wilshire Avenue CRONULLA NSW 2230
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0685&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0686
+  address: 5 Bathurst Street GYMEA NSW 2227
+  description: Road Opening Single Residential
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0686&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0687
+  address: 5 Bathurst Street GYMEA NSW 2227
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0687&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0688
+  address: 14 Franklin Road CRONULLA NSW 2230
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0688&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0689
+  address: 31 Fauna Place KIRRAWEE NSW 2232
+  description: Property Alignment Levels Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0689&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0690
+  address: 14 Kalkada Avenue GYMEA BAY NSW 2227
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0690&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0691
+  address: 119 North West Arm Road GYMEA NSW 2227
+  description: Res-Access and Alignment Level Application (access from Serpentine
+    road )
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0691&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0692
+  address: 178 President Avenue MIRANDA NSW 2228
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0692&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0693
+  address: 88-90 Kiora Road MIRANDA NSW 2228
+  description: Crane / Conc. Pump Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0693&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0694
+  address: 49 Llanberis Drive MENAI NSW 2234
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0694&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: RDA20/0695
+  address: 327 Forest Road SUTHERLAND NSW 2232
+  description: Dev-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0695&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: RDA20/0696
+  address: 53 James Cook Island SYLVANIA WATERS NSW 2224
+  description: Res-Access and Alignment Level Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RDA20%2F0696&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: TP20/0379
+  address: 17 Clifford Road MIRANDA NSW 2228
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0379&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: TP20/0381
+  address: 8A Bass Street PORT HACKING NSW 2229
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0381&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: TP20/0382
+  address: 52 Mannikin Drive WORONORA HEIGHTS NSW 2233
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0382&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: TP20/0383
+  address: 4 Marshall Road KIRRAWEE NSW 2232
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0383&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: TP20/0384
+  address: 6/102-104 Kingsway WOOLOOWARE NSW 2230
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0384&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: TP20/0385
+  address: 71 Tudar Road BONNET BAY NSW 2226
+  description: Tree Application - Age pension card to remove tree
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0385&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: TP20/0386
+  address: 82 Wilson Parade HEATHCOTE NSW 2233
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0386&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: TP20/0387
+  address: 14 Aster Avenue MIRANDA NSW 2228
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0387&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: TP20/0388
+  address: 27 Allen Place MENAI NSW 2234
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0388&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: TP20/0389
+  address: 4 Thompson Street BUNDEENA NSW 2230
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0389&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: TP20/0390
+  address: 37-41 Burke Road CRONULLA NSW 2230
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0390&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: TP20/0391
+  address: 4-6 Novara Crescent COMO NSW 2226
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0391&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: TP20/0392
+  address: 226 Woolooware Road BURRANEER NSW 2230
+  description: Tree Application
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TP20%2F0392&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: eTP20/0715
+  address: 99 David Road BARDEN RIDGE NSW 2234
+  description: Remove dead tree.
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0715&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: eTP20/0716
+  address: 9 Kyogle Place GRAYS POINT NSW 2232
+  description: paperbark planted 2007 now over 2 stories high and canopy is extensively
+    overlapping cliplock roof of house. Tree is approx 3 meters from dwelling. I am
+    sole occupant and 75 yrs old so care of tree is not possible for me.
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0716&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-01'
+- council_reference: eTP20/0717
+  address: 27 Willaburra Road BURRANEER NSW 2230
+  description: Dying drop branches
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0717&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: eTP20/0718
+  address: 110 Sladden Road YARRAWARRAH NSW 2233
+  description: Tree is overhanging the road and home power lines
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0718&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: eTP20/0719
+  address: 258 Woolooware Road BURRANEER NSW 2230
+  description: Old and rotted trees with dangerous branches falling and i have two
+    young children.
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0719&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: eTP20/0720
+  address: 212 The Boulevarde MIRANDA NSW 2228
+  description: "The tree has become hazard to my property as well as my family. \r\n\r\nMore
+    than half the tree is death.\r\n\r\nThe big branched felt right where we sitting
+    area as well as when we try to hang our cloths. \r\n\r\nI have applied to remove
+    it before but it was rejected however, the tree still causing damage and even
+    hazard issue for my family now. We are very in distress about this tree. My family
+    often play around and sit at out backyard then the branched felt down. It become
+    danger to my family now."
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0720&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: eTP20/0721
+  address: 70 Peninsular Road GRAYS POINT NSW 2232
+  description: "Tree 1: Jacaranda on rear yard boundary fence has invasive roots and
+    caused expensive damage to sewer/drain pipes in the past and also more recently.\r\nTree
+    2: Large Blue Gum (?) (Eucalyptus) near the front corner of neighbour's house
+    is diseased and too large for its position.\r\nTree 3: Large Angophora on rear
+    yard boundary fence is too large for its position and the neighbour is concerned
+    it may drop a branch in a storm."
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0721&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: eTP20/0722
+  address: 55 Soldiers Road JANNALI NSW 2226
+  description: Dead
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0722&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-02'
+- council_reference: eTP20/0723
+  address: 18 Strickland Street HEATHCOTE NSW 2233
+  description: Tree appears to be dying and at risk of falling on neighbors house
+    and/or our house
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0723&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: eTP20/0724
+  address: 159 Oyster Bay Road OYSTER BAY NSW 2225
+  description: I recently bought this house and noticed that there are 3 thees that
+    cause me trouble
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0724&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: eTP20/0725
+  address: 2/47A Tara Street SYLVANIA NSW 2224
+  description: A Jacaranda tree is listing badly and has dropped several reasonably
+    large branches which are very close to the house and directly over habitable areas
+    in the back yard
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0725&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: eTP20/0726
+  address: 6A Evans Street COMO NSW 2226
+  description: Tree Removal
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0726&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-03'
+- council_reference: eTP20/0727
+  address: 12 National Avenue LOFTUS NSW 2232
+  description: Requesting removal of native Tree situated edge of front driveway.
+    Tree is starting to cause damage to front driveway and water main is directly
+    situated next to tree which has previously caused burst water pipes. Have also
+    recently found termite activity at base of tree and tree also has a lot of dead
+    branches.
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0727&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-05'
+- council_reference: eTP20/0728
+  address: 7 Tasman Street KURNELL NSW 2231
+  description: Removal of Jacaranda tree.
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0728&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-05'
+- council_reference: eTP20/0729
+  address: 3 Lara Close ILLAWONG NSW 2234
+  description: all 3 trees have diseases and falling branches that are dangerous
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0729&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: eTP20/0730
+  address: 87A Warrah Road YOWIE BAY NSW 2228
+  description: Tree Trimming
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0730&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: eTP20/0731
+  address: 19 Needlebrush Close ALFORDS POINT NSW 2234
+  description: Tree is within 10 metres to both our house and 2 neighbours, Neighbours
+    have raised concerns of the tree falling and resulting in significant damage to
+    life and property
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0731&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: eTP20/0732
+  address: 7 Mulyan Street COMO NSW 2226
+  description: To remove a tree in the backyard as we would like to install a shed.
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0732&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: eTP20/0733
+  address: 2/84 Miranda Road MIRANDA NSW 2228
+  description: A large Lilly Pilly (~12m) close to our rear boundary has over time
+    damaged a rainfall retention wall, which in turn has pushed the fence over. The
+    neighbour's townhouse is within 3m of the trunk, and was damaged during the giant
+    storm some months back when a branch broke and was blown onto their roof. I have
+    removed some of the wall so that the fence can be replaced, and it's clear that
+    as the tree grows, the tree roots will repeat the damage when the fence and wall
+    are rebuilt. I think it is necessary to remove the tree BEFORE we rebuild the
+    fence and wall. ASAP, in other words!
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0733&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: eTP20/0734
+  address: 248A Woolooware Road BURRANEER NSW 2230
+  description: Two trees on the property that need attention. It appears one is an
+    unhealthy tree, the main trunk of the tree seems to have a significant problem
+    and the other tree is just too large for the property. Its too close to the pool
+    and has caused damage in the past and is just too large for the location its currently
+    in.
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0734&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: eTP20/0735
+  address: 3 Kanning Avenue GYMEA BAY NSW 2227
+  description: The tree in question is in our backyard against our rear boundary fence,
+    is not native, is within 3m of my neighbours home, it is deciduous dropping leaves
+    into their pool, along with dropping leaves into the area of our backyard where
+    we are installing a pool.
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0735&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: eTP20/0736
+  address: 10 Woronora Crescent COMO NSW 2226
+  description: Pruning of 2 x established crepe Myrtle trees for maintenance, control
+    of debris and leaves that overhang roof, gutter and pool
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0736&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: eTP20/0737
+  address: 11 Ambyne Street WOOLOOWARE NSW 2230
+  description: Jacarandah and lLilli Pilli tree is damaging property close to house
+    and impacting on second floor roof plumbing. Currently caused roof damage and
+    internal flooding. About to uplift concrete
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0737&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: eTP20/0738
+  address: 15 Allies Road BARDEN RIDGE NSW 2234
+  description: Very dangerous tree, branches falling on top of house, pergola, shed
+    and into the backyard where young children play.
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0738&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: eTP20/0739
+  address: 79 Nicholson Parade CRONULLA NSW 2230
+  description: Tree is dying or dead maybe a hazard
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0739&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: eTP20/0740
+  address: 14 Darryl Place GYMEA BAY NSW 2227
+  description: remove 3 gum trees in front yard.
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0740&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: eTP20/0741
+  address: 111 Garnet Road GYMEA NSW 2227
+  description: "We have one remaining Scribbly Gum on the property, there were 4 others
+    but because of disease (collar rot) and other problems have been removed. We were
+    hoping to keep this last one but have now lost another 2 large branches over the
+    last year, including dropping a large branch about 30cm in diameter onto the yard
+    and roof of our eastern neighbors, and another about 40cm in diameter that fortunately
+    missed everything, we need to have it removed. We were given permission to prune
+    20% of it last year hoping to retain it, but we had a subsequent major branch
+    come down.\r\nOur property is subject to an approved DA (19/0639) and our landscaping
+    plan includes 4 new trees."
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0741&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'
+- council_reference: eTP20/0742
+  address: 31 Koonya Circuit CARINGBAH NSW 2229
+  description: The tree is dead and it poses a WHS risk in high winds
+  info_url: https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP20%2F0742&f=%24P1.ETR.APPDET.VIW&r=SSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-09'

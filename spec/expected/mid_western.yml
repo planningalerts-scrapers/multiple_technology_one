@@ -1,0 +1,160 @@
+---
+- council_reference: DA0001/2020
+  address: Mudgee Service NSW Centre 65-67 Church Street MUDGEE NSW 2850
+  description: Commercial Alterations/Additions @ Mudgee Service NSW Centre 65-67
+    Church Street MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0001%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: DA0002/2020
+  address: Mudgee Showground 11 Nicholson Street MUDGEE NSW 2850
+  description: Camping Ground @ Mudgee Showground 11 Nicholson Street MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0002%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: DA0003/2020
+  address: 3 Gawthorne Place MUDGEE NSW 2850
+  description: Residential Shed @ 3 Gawthorne Place MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0003%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: DA0004/2020
+  address: 90 Bartletts Road RYLSTONE NSW 2849
+  description: Temporary Event @ 90 Bartletts Road RYLSTONE NSW 2849
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0004%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0005/2020
+  address: 698 Bocoble Road BOCOBLE NSW 2850
+  description: Home Industry @ 698 Bocoble Road BOCOBLE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0005%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0006/2020
+  address: 142 Church Street MUDGEE NSW 2850
+  description: Change of use - Medical Centre to Office Premises @ 142 Church Street
+    MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0006%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0007/2020
+  address: 30 Robertson Street MUDGEE NSW 2850
+  description: Demolition of Dwelling @ 30 Robertson Street MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0007%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0008/2020
+  address: Oakleigh 2350 Lue Road LUE NSW 2850
+  description: Replacement Dwelling House (CONCEPT ONLY) @ 2350 Lue Road LUE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0008%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0009/2020
+  address: 156 Bruce Road MUDGEE NSW 2850
+  description: Dwelling @ 156 Bruce Road MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0009%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0010/2020
+  address: Kandos Quarry 329 Quarry Road CARWELL NSW 2849
+  description: Extractive Industry (Quarry) @ 329-331 Quarry Road KANDOS NSW 2848
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0010%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0011/2020
+  address: 80 Kemps Valley Road KAINS FLAT NSW 2850
+  description: Intensive Agriculture - Medical Cannabis Manufacturing Facility @ 80
+    Kemps Valley Road KAINS FLAT NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0011%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: DA0012/2020
+  address: 6 Rowe Street MUDGEE NSW 2850
+  description: Dwelling & Shed @ 6 Rowe Street MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0012%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: DA0295/2019
+  address: Baptist Church 153 Bruce Road MUDGEE NSW 2850
+  description: Subdivision - Torrens Title @ Baptist Church 153 Bruce Road MUDGEE
+    NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0295%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: DA0296/2019
+  address: The Bridge Complex 160 Church Street MUDGEE NSW 2850
+  description: Change of use - Retail Premises @ (Shop 3) The Bridge Complex 160 Church
+    Street MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0296%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: DA0297/2019
+  address: 18 Black Lead Lane GULGONG NSW 2852
+  description: Dwelling House & Shed @ 18 Black Lead Lane GULGONG NSW 2852
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0297%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA0298/2019
+  address: 96 Beragoo Road GRATTAI NSW 2850
+  description: Shed >150m2 @ 96 Beragoo Road GRATTAI NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0298%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA0299/2019
+  address: 116 Inglis Street MUDGEE NSW 2850
+  description: Demolition of Building @ 116 Inglis Street MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0299%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA0300/2019
+  address: Flirtation Hill Lookout & The Pines 80 Madeira Road MUDGEE NSW 2850
+  description: Tree Removal @ Water Reservoir & Public Reserve @ 37 Nicholson Street
+    & Flirtation Hill Lookout & The Pines @ 80 Madeira Road MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0300%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA0301/2019
+  address: 57 Mortimer Street MUDGEE NSW 2850
+  description: Residential Shed @ 57 Mortimer Street MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0301%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: DA0302/2019
+  address: 28 Rodgers Street KANDOS NSW 2848
+  description: Dwelling House @ 28 Rodgers Street KANDOS NSW 2848
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0302%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA0303/2019
+  address: Colonial Mecca Building 79 Market Street MUDGEE NSW 2850
+  description: Change of use and internal fit-out @ Colonial Mecca Building 79 Market
+    Street MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0303%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: DA0304/2019
+  address: 103 Wollar Road BUDGEE BUDGEE NSW 2850
+  description: Change of use - Shed to Dwelling, Dual Occupancy, Gazebo, Container
+    with Awning and Stables @ 103 Wollar Road BUDGEE BUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0304%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: DA0305/2019
+  address: 222 Camerons Road RUNNING STREAM NSW 2850
+  description: Dual Occupancy @ 222 Camerons Road RUNNING STREAM NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0305%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: DA0306/2019
+  address: 28 Rocky Waterhole Road MILROY NSW 2850
+  description: Demolition @ 28 Rocky Waterhole Road MILROY NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0306%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: DA0307/2019
+  address: 5 Costigan Court MUDGEE NSW 2850
+  description: Multi Dwelling Units and Subdivision @ 5 Costigan Court MUDGEE NSW
+    2850 and 7 Costigan Court MUDGEE NSW 2850
+  info_url: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0307%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'

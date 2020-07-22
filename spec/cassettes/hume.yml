@@ -1,0 +1,1027 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.HCC.WEBGUEST
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - ehume.hume.vic.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/7.5
+      Set-Cookie:
+      - ASP.NET_SessionId=m3uwjdvrsqbomfay5lh2lovj; path=/; HttpOnly
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Thu, 18 Jul 2019 02:05:41 GMT
+      Content-Length:
+      - '25279'
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tHume
+        City Council - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/HCC/Default.css\"
+        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
+        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
+        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.HCC.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIFD2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAggPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUYMjEvMDYvMjAxOSB0byAxOC8wNy8yMDE5ZGQCBQ8PFgQeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP////8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMjEvMDYvMjAxOSAxMjowMDowMCBBTQYGAAAAFjE4LzA3LzIwMTkgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAtkFgJmD2QWBAIBD2QWAgIBDw8WAh8ABQlHcmlkIFR5cGVkZAIDDw8WAh8IaGQWAgIBDw8WAh8ABRxObyBpbmZvcm1hdGlvbiBpcyBhdmFpbGFibGUuZGQCDg8WAh8IaGQYAwVDY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGdyZFdlYkdyaWRUYWJ1bGFyVmlldw88KwAKAQgCBGQFQGN0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRkdHZXZWJHcmlkTGlzdFZpZXcPFCsAB2RkZGRkFgACMWQFHGN0bDAwJENvbnRlbnQkbGJsU2VhcmNoRGF0ZXMPaGRXHh4grRxv8fyMRYtanqmxyhE20Q==\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"794B1E1F\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWKgKLoZnRCgK359HKDwL38+S0BQLD0Z//CAKDjpzeCAK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL/uvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAKa4Iv0BAKa4J/0BAK/g8WMCVj9FNFgAGKMt016+8LKjtei92jO\"
+        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
+        >\r\n\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Registered
+        User Login</a>\r\n                             </span>\r\n                            \r\n
+        \                    </div>\r\n                    <!-- End Login --> \r\n
+        \               \r\n                    <div id=\"logo\">\r\n\t\t\t<a href=\"http://www.hume.vic.gov.au/Homepage\"></a>\r\n\t
+        \               <div id=\"ctl00_divSkipNav\">\r\n\t                \t<a href=\"#cssTaskpaneTop\"><img
+        id=\"ctl00_imgSkipNav\" src=\"../../App_Themes/HCC/Images/Empty.gif\" alt=\"Skip
+        Navigation Section\" style=\"border-width:0px;height:0px;width:0px;\" /></a>\r\n\t
+        \               </div>\r\n\t\t\t<div id=\"cssBannerLogo\">\r\n        \t\t
+        \       <a href=\"http://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/GuestHome.aspx?r=P1.HCC.WEBGUEST&f=$P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\"><img src=\"../../App_Themes/Default/Images/Empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" /></a>\r\n\t        \t</div>\r\n
+        \                   </div>\r\n\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
+        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
+        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
+        \                       \r\n                                <div class=\"menuPanel\">\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Return
+        To Online Services Homepage</span>\r\n                                </div>\r\n
+        \                               <ul class=\"menuGroupList\">\r\n\t<li><a href=\"../GuestHome.aspx?r=P1.HCC.WEBGUEST&amp;f=$P1.EPR.GUESTHME.VIW\">Home
+        Page</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">User Information</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../User/PasswordReset.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPR.USERPASS.VIW\">Forgotten
+        Password</a></li><li><a href=\"../User/Register.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPR.REGUSER.MNT\">Register</a></li>\r\n</ul>\r\n
+        \                               <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">Online Payments</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/AnimalPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.ANIMALS.ENQ\">Animal
+        Payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.APPS.ENQ\">Application
+        Payment</a></li><li><a href=\"../ePay/DebtorPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.DEBTORS.ENQ\">Debtor
+        Payment</a></li><li><a href=\"../ePay/RegistrationPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=P1.EPY.PLUS.ENQ\">Health
+        Registration Payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.INFRINGE.ENQ\">Infringement
+        Payment</a></li><li><a href=\"../ePay/DebtorPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=P1.EPY.PRESCHOOL.ENQ\">Pre-School/Activity
+        Group Payments</a></li><li><a href=\"../ePay/RatesPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.RATES.ENQ\">Rates
+        Payment</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl04_lblMenuGroupHeader\">Planning Register</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl05_lblMenuGroupHeader\">Application Tracking</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li><li><a href=\"ApplicationsWithVariations.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.APPVARS.VIW\">Applications
+        with Variations</a></li>\r\n</ul>\r\n                                <br />\r\n
+        \                           \r\n                                </div>\r\n
+        \                           \r\n                        \r\n                    </div>\r\n
+        \                           \r\n                </div>\r\n                \r\n
+        \               <div id=\"cssTaskpaneRelatedLinks\"  class= \"cssNoPrint\">\r\n\t\t\t\t<h2><a
+        href=\"http://www.hume.vic.gov.au\"> Click here to become a registered user</a></h2>\r\n\r\n
+        \                   \r\n                        <div id=\"ctl00_RightTaskPane_tspRelatedLinks\"
+        class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related Links</div>\r\n<ul>\r\n<li><a
+        href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n
+        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
+        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
+        \                               \r\n                <div id=\"cssContent\">\r\n
+        \               <div class=\"cssContentWorkspace\">\r\n                    <a
+        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
+        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
+        \                   \r\n                    \r\n                              \r\n
+        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
+        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
+        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
+        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
+        class=\"fieldLabel\">21/06/2019 to 18/07/2019</span></span>\r\n    \r\n    <div
+        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
+        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
+        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
+        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
+        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
+        Class=\"sectionSeparator\" src=\"../../App_Themes/HCC/Images/HalfSeperator.gif\"
+        alt=\"\" style=\"height:2px;width:50%;border-width:0px;\" />\r\n            \r\n\t</div>\r\n
+        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
+        cellpadding=\"3\" rules=\"cols\" border=\"1\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
+        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
+        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
+        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
+        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
+        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">P12002.02</a></td><td>28/06/2019</td><td>USE
+        AND DEVELOPMENT OF THE LAND FOR MATERIALS RECYCLING FACILITY</td><td>Amendment
+        to Planning Permit</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">5-11
+        REO CRES CAMPBELLFIELD VIC 3061</a></td><td> MCCABE ARCHITECTS</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">P20690.01</a></td><td>4/07/2019</td><td>BUILDINGS
+        AND WORKS TO CONSTRUCT A DOUBLE STOREY DWELLING AND SWIMMING POOL IN A GREEN
+        WEDGE ZONE</td><td>Amendment to Planning Permit</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">242
+        MCGREGOR RD SUNBURY VIC 3429</a></td><td>LISA MARGARET BROWN</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">P21034.01</a></td><td>2/07/2019</td><td>TO
+        VARY COVENANTS ON THE LAND BY REMOVING ITEMS 1, 4, 5 AND 6 FROM INSTRUMENT
+        NUMBERS W46994J AND W469999S TO ALLOW DEVELOPMENT OF A SECOND DWELLING, \r\nDEVELOPMENT
+        OF A SECOND DOUBLE STOREY DWELLING ON THE LAND AND SUBDIVIDE THE LAND INTO
+        TWO LOTS</td><td>Amendment to Planning Permit</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">25
+        WALLACE DR GREENVALE VIC 3059</a></td><td> HAKAN ELEVLI\r\nELEVLI PLUS</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">P21259</a></td><td>3/07/2019</td><td>DEVELOPMENT
+        OF ONE SINGLE STOREY DWELLING (LOT 11)</td><td>Accommodation Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">11
+        ISPARTA MEWS ROXBURGH PARK VIC 3064</a></td><td> TIME ARCHITECTS PTY LTD</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">P21658.01</a></td><td>8/07/2019</td><td>DEVELOPMENT
+        OF TWO DOUBLE STOREY DWELLINGS AND ONE SINGLE STOREY DWELLING</td><td>Amendment
+        to Planning Permit</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">125
+        MELROSE DR TULLAMARINE VIC 3043</a></td><td> ROBERT TRAJKOVSKI\r\nC/- 2FORM
+        CONSULTING PTY LTD</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">P22111</a></td><td>1/07/2019</td><td>TWO
+        DOUBLE STOREY DWELLINGS ON A LOT</td><td>Accommodation Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">48
+        DISTINCTION AVE CRAIGIEBURN VIC 3064</a></td><td> PD STUDIO</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">P22159.01</a></td><td>12/07/2019</td><td>MULTI
+        LOT SUBDIVISION AND VARIATION TO RESIDENTIAL DESIGN CONTROLS</td><td>Amendment
+        to Planning Permit</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">SALESIAN
+        COLLEGE & GROUNDS 3-5 MACEDON ST SUNBURY VIC 3429</a></td><td> VILLAWOOD PROPERTIES</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">P22160.01</a></td><td>4/07/2019</td><td>MULTI-LOT
+        STAGED SUBDIVISION REDSTONE HILL ESTATE</td><td>Amendment to Planning Permit</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">675
+        SUNBURY RD SUNBURY VIC 3429</a></td><td> VIEWGRANGE PASTORAL C/- MESH PLANNING</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">P22209</a></td><td>21/06/2019</td><td>CHANGE
+        OF USE FROM WAREHOUSE TO PLACE OF WORSHIP/ASSEMBLY</td><td>Place of Assembly
+        Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">19
+        MALCOLM PL CAMPBELLFIELD VIC 3061</a></td><td> SDS DEVELOPMENTS PTY LTD</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">P22296</a></td><td>28/06/2019</td><td>DEVELOPMENT
+        OF FOUR DOUBLE STOREY DWELLINGS</td><td>Accommodation Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">11
+        PRIORSWOOD WAY SUNBURY VIC 3429</a></td><td> BENATHAN PTY LTD,  BILL JACOBS
+        PTY LTD\r\nBILL JACOBS- CBU- 3326</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">P22301</a></td><td>21/06/2019</td><td>BUILDINGS
+        AND WORKS WITHIN AN URBAN GROWTH ZONE FOR A COMMERCIAL DEVELOPMENT INCLUDING
+        A REDUCTION IN CAR PARKING REQUIREMENTS ASSOCIATED WITH THE PROPOSED LAND
+        USES (FOOD AND DRINK PREMISES AND SHOP)</td><td>Accommodation Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">176
+        ELEVATION BVD CRAIGIEBURN VIC 3064</a></td><td> CRAIGIEBURN RETAIL DEVELOPMENTS
+        PTY LTD\r\nC/- METROPOL PLANNING SOLUTIOINS PTY LTD</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">P22311</a></td><td>24/06/2019</td><td>DEVELOPMENT
+        OF TWO SINGLE STOREY DWELLINGS TO THE REAR OF THE EXISTING DWELLING</td><td>Accommodation
+        Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">12
+        MIDAS CT MEADOW HEIGHTS VIC 3048</a></td><td> PLANNING AND DESIGN PTY LTD\r\nCHINH
+        MAI</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl02','')\">P22317</a></td><td>24/06/2019</td><td>PROPOSED
+        STEEL TRANSFER STATION</td><td>Industry Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl03','')\">9-31
+        PATULLOS LANE SOMERTON VIC 3062</a></td><td> SHUBBS METAL PTY LTD</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl02','')\">P22318</a></td><td>27/06/2019</td><td>DEMOLITION
+        \ OF EXISTING DWELLING AND DEVELOPMENT OF TWO DOUBLE STOREY DWELLINGS</td><td>Accommodation
+        Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl03','')\">96
+        MITCHELL CRES MEADOW HEIGHTS VIC 3048</a></td><td> CONTEMPORARY DESIGN CONSULTANTS</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl02','')\">P22321</a></td><td>25/06/2019</td><td>DEVELOPMENT
+        OF A SINGLE STOREY DWELLING TO THE REAR OF THE EXISTING DWELLING</td><td>Accommodation
+        Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl03','')\">96
+        HANSON RD CRAIGIEBURN VIC 3064</a></td><td>SONIA SMITH</td>\r\n\t\t\t</tr><tr
+        class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"6\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><span>1</span></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$4')\">4</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"&lt;
+        Previous\" id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access
+        Key: P\" class=\"button\" />\r\n    </div>\r\n\r\n\r\n                    <div
+        class=\"clear\"></div>\r\n                    <br />\r\n                    <br
+        />\r\n                    <br />\r\n                </div>\r\n                </div>\r\n
+        \           </div>\r\n            <p></p>\r\n            <p class=\"invisible\"></p>\r\n\t\t<div
+        class=\"footerBottom\">\r\n                      <span class=\"black\">Hume
+        City Council acknowledges the Gunung-Willam-Balluk people's living culture
+        and unique role in the life of this region.</span>\r\n                      <br/><br/>\r\n
+        \                     <a class=\"blue\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright\">Copyright
+        &amp; Disclaimer</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Accessibility\"class=\"blue\">Accessibility</a>
+        | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Privacy_Statement\"class=\"blue\">Privacy</a>
+        | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Contact_Us\"class=\"blue\">Contact
+        us</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Sitemap\"class=\"blue\">Site
+        map</a> | <a href=\"http://m.hume.vic.gov.au/Home\" class=\"blue\">Mobile
+        Site</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Todays_Weather\"
+        class=\"blue\">Today's Weather</a></div>\r\n\t        <div id=\"cssBottomBar\"
+        class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">                 \r\n
+        \                   <a id=\"ctl00_hplCustomFooterLink1\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Privacy_Statement\">Privacy</a>\r\n
+        \                   <img id=\"ctl00_imgFooterSeparator1\" class=\"verticalBar\"
+        src=\"../../App_Themes/HCC/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
+        />\r\n                    <a id=\"ctl00_hplCustomFooterLink2\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright\">Copyright
+        & Disclaimer</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\"
+        class=\"verticalBar\" src=\"../../App_Themes/HCC/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink3\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Contact_Us\">Contact
+        Us</a>                       \r\n                    \r\n                </div>\r\n
+        \               <div id=\"cssBottomBarCopyright\">&copy; Technology One Limited
+        2019</div>\r\n            </div>\r\n            \r\n        </div>\r\n    \r\n\r\n<script
+        type=\"text/javascript\">\r\n//<![CDATA[\r\n$(document).ready(function ()
+        {if ($('#ctl00_valErrors').is(':visible') == true) {$('#__SCROLLPOSITIONX').val('0');$('#__SCROLLPOSITIONY').val('0');}});//]]>\r\n</script>\r\n</form>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.HCC.WEBGUEST
+    body:
+      encoding: UTF-8
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIFD2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAggPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUYMjEvMDYvMjAxOSB0byAxOC8wNy8yMDE5ZGQCBQ8PFgQeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP%2F%2F%2F%2F8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMjEvMDYvMjAxOSAxMjowMDowMCBBTQYGAAAAFjE4LzA3LzIwMTkgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAtkFgJmD2QWBAIBD2QWAgIBDw8WAh8ABQlHcmlkIFR5cGVkZAIDDw8WAh8IaGQWAgIBDw8WAh8ABRxObyBpbmZvcm1hdGlvbiBpcyBhdmFpbGFibGUuZGQCDg8WAh8IaGQYAwVDY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGdyZFdlYkdyaWRUYWJ1bGFyVmlldw88KwAKAQgCBGQFQGN0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRkdHZXZWJHcmlkTGlzdFZpZXcPFCsAB2RkZGRkFgACMWQFHGN0bDAwJENvbnRlbnQkbGJsU2VhcmNoRGF0ZXMPaGRXHh4grRxv8fyMRYtanqmxyhE20Q%3D%3D&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWKgKLoZnRCgK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAKa4Iv0BAKa4J%2F0BAK%2Fg8WMCVj9FNFgAGKMt016%2B8LKjtei92jO&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%242
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=m3uwjdvrsqbomfay5lh2lovj
+      Host:
+      - ehume.hume.vic.gov.au
+      Referer:
+      - https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.HCC.WEBGUEST
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '2572'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/7.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Thu, 18 Jul 2019 02:05:45 GMT
+      Content-Length:
+      - '24403'
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tHume
+        City Council - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/HCC/Default.css\"
+        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
+        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
+        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.HCC.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIFD2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAggPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUYMjEvMDYvMjAxOSB0byAxOC8wNy8yMDE5ZGQCBQ8PFgYeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP////8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMjEvMDYvMjAxOSAxMjowMDowMCBBTQYGAAAAFjE4LzA3LzIwMTkgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAseCVBhZ2VJbmRleAIBZBYCZg9kFgQCAQ9kFgICAQ8PFgIfBAUJR3JpZCBUeXBlZGQCAw8PFgIfAGhkFgICAQ8PFgIfBAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkAg4PFgIfAGhkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgICAgEIAgRkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAjFkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hkSpVWIaXLhgVbBjhFy+LlkM98kC0=\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"794B1E1F\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWKgKm9a3cDAK359HKDwL38+S0BQLD0Z//CAKDjpzeCAK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL/uvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Iv0BAKa4J/0BAK/g8WMCerPsWfvdL8jceIsOVC+/UrGa81e\"
+        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
+        >\r\n\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Registered
+        User Login</a>\r\n                             </span>\r\n                            \r\n
+        \                    </div>\r\n                    <!-- End Login --> \r\n
+        \               \r\n                    <div id=\"logo\">\r\n\t\t\t<a href=\"http://www.hume.vic.gov.au/Homepage\"></a>\r\n\t
+        \               <div id=\"ctl00_divSkipNav\">\r\n\t                \t<a href=\"#cssTaskpaneTop\"><img
+        id=\"ctl00_imgSkipNav\" src=\"../../App_Themes/HCC/Images/Empty.gif\" alt=\"Skip
+        Navigation Section\" style=\"border-width:0px;height:0px;width:0px;\" /></a>\r\n\t
+        \               </div>\r\n\t\t\t<div id=\"cssBannerLogo\">\r\n        \t\t
+        \       <a href=\"http://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/GuestHome.aspx?r=P1.HCC.WEBGUEST&f=$P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\"><img src=\"../../App_Themes/Default/Images/Empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" /></a>\r\n\t        \t</div>\r\n
+        \                   </div>\r\n\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
+        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
+        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
+        \                       \r\n                                <div class=\"menuPanel\">\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Return
+        To Online Services Homepage</span>\r\n                                </div>\r\n
+        \                               <ul class=\"menuGroupList\">\r\n\t<li><a href=\"../GuestHome.aspx?r=P1.HCC.WEBGUEST&amp;f=$P1.EPR.GUESTHME.VIW\">Home
+        Page</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">User Information</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../User/PasswordReset.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPR.USERPASS.VIW\">Forgotten
+        Password</a></li><li><a href=\"../User/Register.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPR.REGUSER.MNT\">Register</a></li>\r\n</ul>\r\n
+        \                               <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">Online Payments</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/AnimalPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.ANIMALS.ENQ\">Animal
+        Payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.APPS.ENQ\">Application
+        Payment</a></li><li><a href=\"../ePay/DebtorPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.DEBTORS.ENQ\">Debtor
+        Payment</a></li><li><a href=\"../ePay/RegistrationPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=P1.EPY.PLUS.ENQ\">Health
+        Registration Payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.INFRINGE.ENQ\">Infringement
+        Payment</a></li><li><a href=\"../ePay/DebtorPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=P1.EPY.PRESCHOOL.ENQ\">Pre-School/Activity
+        Group Payments</a></li><li><a href=\"../ePay/RatesPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.RATES.ENQ\">Rates
+        Payment</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl04_lblMenuGroupHeader\">Planning Register</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl05_lblMenuGroupHeader\">Application Tracking</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li><li><a href=\"ApplicationsWithVariations.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.APPVARS.VIW\">Applications
+        with Variations</a></li>\r\n</ul>\r\n                                <br />\r\n
+        \                           \r\n                                </div>\r\n
+        \                           \r\n                        \r\n                    </div>\r\n
+        \                           \r\n                </div>\r\n                \r\n
+        \               <div id=\"cssTaskpaneRelatedLinks\"  class= \"cssNoPrint\">\r\n\t\t\t\t<h2><a
+        href=\"http://www.hume.vic.gov.au\"> Click here to become a registered user</a></h2>\r\n\r\n
+        \                   \r\n                        <div id=\"ctl00_RightTaskPane_tspRelatedLinks\"
+        class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related Links</div>\r\n<ul>\r\n<li><a
+        href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n
+        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
+        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
+        \                               \r\n                <div id=\"cssContent\">\r\n
+        \               <div class=\"cssContentWorkspace\">\r\n                    <a
+        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
+        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
+        \                   \r\n                    \r\n                              \r\n
+        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
+        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
+        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
+        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
+        class=\"fieldLabel\">21/06/2019 to 18/07/2019</span></span>\r\n    \r\n    <div
+        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
+        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
+        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
+        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
+        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
+        Class=\"sectionSeparator\" src=\"../../App_Themes/HCC/Images/HalfSeperator.gif\"
+        alt=\"\" style=\"height:2px;width:50%;border-width:0px;\" />\r\n            \r\n\t</div>\r\n
+        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
+        cellpadding=\"3\" rules=\"cols\" border=\"1\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
+        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
+        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
+        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
+        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
+        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">P22323</a></td><td>25/06/2019</td><td>DEVELOPMENT
+        OF THREE DOUBLE STOREY DWELLINGS AND A NEW CROSSOVER</td><td>Accommodation
+        Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">25
+        GRAHAM ST BROADMEADOWS VIC 3047</a></td><td> FADI AND HANAN TAHA\r\nC/- FERAS
+        BUILDING DESIGN</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">P22324</a></td><td>25/06/2019</td><td>DEVELOPMENT
+        OF A DOUBLE STOREY DWELLING TO THE REAR OF THE EXISTING DWELLING</td><td>Accommodation
+        Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">8
+        ALVIE CT WESTMEADOWS VIC 3049</a></td><td> RANI KODSI\r\nC/- FERAS BUILDING
+        DESIGN</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">P22325</a></td><td>25/06/2019</td><td>PROPOSED
+        VERANDA</td><td>Accommodation Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">208/236-238
+        WATERVIEW BVD CRAIGIEBURN VIC 3064</a></td><td> INSTALL A VERANDA\r\nPAUL
+        ATKINSON DBL 24864</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">P22328</a></td><td>26/06/2019</td><td>DEVELOPMENT
+        OF THREE DOUBLE STOREY DWELLINGS</td><td>Accommodation Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">32
+        BLIBURG ST JACANA VIC 3047</a></td><td> LIDEN DESIGN GROUP</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">P22331</a></td><td>4/07/2019</td><td>EXTENSION
+        AND RENOVATIONS TO EXISTING DWELLING INCLUDING DEVELOPMENT OF A SHED AND CARPORT</td><td>Accommodation
+        Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">30
+        MANINGA PARK CT DIGGERS REST VIC 3427</a></td><td>MARIANNE TENAGLIA</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">P22332</a></td><td>4/07/2019</td><td>ALTERATIONS
+        &amp; ADDITIONS TO EXISTING MEDICAL CLINIC</td><td>Industry Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">313
+        BARRY RD CAMPBELLFIELD VIC 3061</a></td><td> CONTEMPORARY DESIGN CONSULTANTS</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">P22333</a></td><td>3/07/2019</td><td>PROPOSED
+        SHED AND CANOPY ON INDUSTRIAL SITE</td><td>Industry Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">194-200
+        NORTHBOURNE RD CAMPBELLFIELD VIC 3061</a></td><td> CIVILSTRUT DESIGN PTY LTD</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">P22334</a></td><td>28/06/2019</td><td>TWO
+        DWELLINGS</td><td>Accommodation Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">41
+        SCENERY DR CRAIGIEBURN VIC 3064</a></td><td> IBA BUILDING DESIGN</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">P22337</a></td><td>5/07/2019</td><td>DEVELOPMENT
+        OF THREE DOUBLE STOREY DWELLINGS</td><td>Accommodation Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">9
+        JANICE CT FAWKNER VIC 3060</a></td><td> TPA DESIGNS</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">P22338</a></td><td>12/07/2019</td><td>CONSTRUCT
+        A VERANDAH</td><td>Accommodation Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">6
+        BRUNSWICK CRES CRAIGIEBURN VIC 3064</a></td><td>JOHN WILLIAM CAMERON, JADE
+        VICTORIA CAMERON</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">P22340</a></td><td>5/07/2019</td><td>PROPOSED
+        DEVELOPMENT OF TWO DOUBLE STOREY DWELLINGS TO THE REAR OF THE EXISTING DWELLING</td><td>Accommodation
+        Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">4
+        RESERVE AVE CAMPBELLFIELD VIC 3061</a></td><td> TOM MOTTA BUILDING DESIGNER</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">P22349</a></td><td>8/07/2019</td><td>INSTALLATION
+        OF TOILET BLOCK</td><td>Accommodation Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">121-209
+        CAMP RD BROADMEADOWS VIC 3047</a></td><td> MRU CONSTRUCTION PTY LTD\r\nCCB-U
+        53883\r\n\r\nCARLTON NORTH VIC 3054</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl02','')\">P22368</a></td><td>17/07/2019</td><td>MAJOR
+        SPORTS AND RECREATION FACILITY</td><td>Leisure and Recreation Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl03','')\">227
+        FEEHANS RD WILDWOOD VIC 3429</a></td><td> STEVEN BRASZELL \r\nC/- WILDWOOD
+        ROCK PTY LTD</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl02','')\">P22022</a></td><td>1/07/2019</td><td>THE
+        ADDITION OF A KITCHENETTE AND FIRST FLOOR MEZZANINE OVER EXISTING BATHROOM
+        FACILITIES WITHIN A FACTORY/WAREHOUSE</td><td>Warehouse Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl03','')\">5/16-20
+        AMCOR WAY CAMPBELLFIELD VIC 3061</a></td><td>JUSTIN BEZZINA</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl02','')\">P22293</a></td><td>2/07/2019</td><td>3
+        LOT SUBDIVISION PS 832397D [SPEAR # S142080B]</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl03','')\">1/275
+        CAMP RD BROADMEADOWS VIC 3047</a></td><td> MERIDIAN LAND SURVEYORS - OWEN
+        DABELSTEIN</td>\r\n\t\t\t</tr><tr class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"6\"><table
+        border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><span>2</span></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$4')\">4</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"&lt;
+        Previous\" id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access
+        Key: P\" class=\"button\" />\r\n    </div>\r\n\r\n\r\n                    <div
+        class=\"clear\"></div>\r\n                    <br />\r\n                    <br
+        />\r\n                    <br />\r\n                </div>\r\n                </div>\r\n
+        \           </div>\r\n            <p></p>\r\n            <p class=\"invisible\"></p>\r\n\t\t<div
+        class=\"footerBottom\">\r\n                      <span class=\"black\">Hume
+        City Council acknowledges the Gunung-Willam-Balluk people's living culture
+        and unique role in the life of this region.</span>\r\n                      <br/><br/>\r\n
+        \                     <a class=\"blue\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright\">Copyright
+        &amp; Disclaimer</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Accessibility\"class=\"blue\">Accessibility</a>
+        | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Privacy_Statement\"class=\"blue\">Privacy</a>
+        | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Contact_Us\"class=\"blue\">Contact
+        us</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Sitemap\"class=\"blue\">Site
+        map</a> | <a href=\"http://m.hume.vic.gov.au/Home\" class=\"blue\">Mobile
+        Site</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Todays_Weather\"
+        class=\"blue\">Today's Weather</a></div>\r\n\t        <div id=\"cssBottomBar\"
+        class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">                 \r\n
+        \                   <a id=\"ctl00_hplCustomFooterLink1\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Privacy_Statement\">Privacy</a>\r\n
+        \                   <img id=\"ctl00_imgFooterSeparator1\" class=\"verticalBar\"
+        src=\"../../App_Themes/HCC/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
+        />\r\n                    <a id=\"ctl00_hplCustomFooterLink2\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright\">Copyright
+        & Disclaimer</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\"
+        class=\"verticalBar\" src=\"../../App_Themes/HCC/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink3\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Contact_Us\">Contact
+        Us</a>                       \r\n                    \r\n                </div>\r\n
+        \               <div id=\"cssBottomBarCopyright\">&copy; Technology One Limited
+        2019</div>\r\n            </div>\r\n            \r\n        </div>\r\n    \r\n\r\n<script
+        type=\"text/javascript\">\r\n//<![CDATA[\r\n$(document).ready(function ()
+        {if ($('#ctl00_valErrors').is(':visible') == true) {$('#__SCROLLPOSITIONX').val('0');$('#__SCROLLPOSITIONY').val('0');}});//]]>\r\n</script>\r\n</form>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.HCC.WEBGUEST
+    body:
+      encoding: UTF-8
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIFD2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAggPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUYMjEvMDYvMjAxOSB0byAxOC8wNy8yMDE5ZGQCBQ8PFgYeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP%2F%2F%2F%2F8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMjEvMDYvMjAxOSAxMjowMDowMCBBTQYGAAAAFjE4LzA3LzIwMTkgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAseCVBhZ2VJbmRleAIBZBYCZg9kFgQCAQ9kFgICAQ8PFgIfBAUJR3JpZCBUeXBlZGQCAw8PFgIfAGhkFgICAQ8PFgIfBAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkAg4PFgIfAGhkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgICAgEIAgRkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAjFkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hkSpVWIaXLhgVbBjhFy%2BLlkM98kC0%3D&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWKgKm9a3cDAK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Iv0BAKa4J%2F0BAK%2Fg8WMCerPsWfvdL8jceIsOVC%2B%2FUrGa81e&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%243
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=m3uwjdvrsqbomfay5lh2lovj
+      Host:
+      - ehume.hume.vic.gov.au
+      Referer:
+      - https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.HCC.WEBGUEST
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '2250'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/7.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Thu, 18 Jul 2019 02:05:47 GMT
+      Content-Length:
+      - '24346'
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tHume
+        City Council - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/HCC/Default.css\"
+        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
+        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
+        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.HCC.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIFD2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAggPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUYMjEvMDYvMjAxOSB0byAxOC8wNy8yMDE5ZGQCBQ8PFgYeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP////8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMjEvMDYvMjAxOSAxMjowMDowMCBBTQYGAAAAFjE4LzA3LzIwMTkgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAseCVBhZ2VJbmRleAICZBYCZg9kFgQCAQ9kFgICAQ8PFgIfBAUJR3JpZCBUeXBlZGQCAw8PFgIfAGhkFgICAQ8PFgIfBAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkAg4PFgIfAGhkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgICAgIIAgRkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAjFkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hkQjDfKVkGtm8ROWztxdsUki5WS70=\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"794B1E1F\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWKgLskv3FAwK359HKDwL38+S0BQLD0Z//CAKDjpzeCAK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL/uvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Pf0BAKa4J/0BAK/g8WMCdWojRiiOesjitPa6Kc/SQzi4IdG\"
+        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
+        >\r\n\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Registered
+        User Login</a>\r\n                             </span>\r\n                            \r\n
+        \                    </div>\r\n                    <!-- End Login --> \r\n
+        \               \r\n                    <div id=\"logo\">\r\n\t\t\t<a href=\"http://www.hume.vic.gov.au/Homepage\"></a>\r\n\t
+        \               <div id=\"ctl00_divSkipNav\">\r\n\t                \t<a href=\"#cssTaskpaneTop\"><img
+        id=\"ctl00_imgSkipNav\" src=\"../../App_Themes/HCC/Images/Empty.gif\" alt=\"Skip
+        Navigation Section\" style=\"border-width:0px;height:0px;width:0px;\" /></a>\r\n\t
+        \               </div>\r\n\t\t\t<div id=\"cssBannerLogo\">\r\n        \t\t
+        \       <a href=\"http://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/GuestHome.aspx?r=P1.HCC.WEBGUEST&f=$P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\"><img src=\"../../App_Themes/Default/Images/Empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" /></a>\r\n\t        \t</div>\r\n
+        \                   </div>\r\n\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
+        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
+        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
+        \                       \r\n                                <div class=\"menuPanel\">\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Return
+        To Online Services Homepage</span>\r\n                                </div>\r\n
+        \                               <ul class=\"menuGroupList\">\r\n\t<li><a href=\"../GuestHome.aspx?r=P1.HCC.WEBGUEST&amp;f=$P1.EPR.GUESTHME.VIW\">Home
+        Page</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">User Information</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../User/PasswordReset.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPR.USERPASS.VIW\">Forgotten
+        Password</a></li><li><a href=\"../User/Register.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPR.REGUSER.MNT\">Register</a></li>\r\n</ul>\r\n
+        \                               <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">Online Payments</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/AnimalPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.ANIMALS.ENQ\">Animal
+        Payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.APPS.ENQ\">Application
+        Payment</a></li><li><a href=\"../ePay/DebtorPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.DEBTORS.ENQ\">Debtor
+        Payment</a></li><li><a href=\"../ePay/RegistrationPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=P1.EPY.PLUS.ENQ\">Health
+        Registration Payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.INFRINGE.ENQ\">Infringement
+        Payment</a></li><li><a href=\"../ePay/DebtorPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=P1.EPY.PRESCHOOL.ENQ\">Pre-School/Activity
+        Group Payments</a></li><li><a href=\"../ePay/RatesPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.RATES.ENQ\">Rates
+        Payment</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl04_lblMenuGroupHeader\">Planning Register</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl05_lblMenuGroupHeader\">Application Tracking</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li><li><a href=\"ApplicationsWithVariations.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.APPVARS.VIW\">Applications
+        with Variations</a></li>\r\n</ul>\r\n                                <br />\r\n
+        \                           \r\n                                </div>\r\n
+        \                           \r\n                        \r\n                    </div>\r\n
+        \                           \r\n                </div>\r\n                \r\n
+        \               <div id=\"cssTaskpaneRelatedLinks\"  class= \"cssNoPrint\">\r\n\t\t\t\t<h2><a
+        href=\"http://www.hume.vic.gov.au\"> Click here to become a registered user</a></h2>\r\n\r\n
+        \                   \r\n                        <div id=\"ctl00_RightTaskPane_tspRelatedLinks\"
+        class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related Links</div>\r\n<ul>\r\n<li><a
+        href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n
+        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
+        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
+        \                               \r\n                <div id=\"cssContent\">\r\n
+        \               <div class=\"cssContentWorkspace\">\r\n                    <a
+        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
+        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
+        \                   \r\n                    \r\n                              \r\n
+        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
+        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
+        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
+        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
+        class=\"fieldLabel\">21/06/2019 to 18/07/2019</span></span>\r\n    \r\n    <div
+        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
+        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
+        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
+        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
+        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
+        Class=\"sectionSeparator\" src=\"../../App_Themes/HCC/Images/HalfSeperator.gif\"
+        alt=\"\" style=\"height:2px;width:50%;border-width:0px;\" />\r\n            \r\n\t</div>\r\n
+        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
+        cellpadding=\"3\" rules=\"cols\" border=\"1\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
+        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
+        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
+        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
+        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
+        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">P22298</a></td><td>2/07/2019</td><td>3
+        LOT SUBDIVISION PS 742957R [SPEAR # S140872A]</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">1/50
+        MALCOLM CREEK PDE CRAIGIEBURN VIC 3064</a></td><td> B R SMITH SURVEYORS</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">P22300</a></td><td>21/06/2019</td><td>2
+        LOT SUBDIVISION PS 814081K [SPEAR # S142096S]</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">JACANA
+        RESERVE 139-157 JOHNSTONE ST JACANA VIC 3047</a></td><td> BARKER MONAHAN LAND
+        SURVEYORS</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">P22313</a></td><td>27/06/2019</td><td>THREE
+        LOT SUBDIVISION AND CREATION OF EASEMENT</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">1727-1787
+        SYDNEY RD CAMPBELLFIELD VIC 3061</a></td><td> FORD MOTOR COMPANY OF AUSTRALIA
+        PTY LTD\r\nC/- BRENDAN O'LOAN - ST QUENTIN</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">P22319</a></td><td>28/06/2019</td><td>312
+        LOT SUBDIVISION AND ASSOCIATED WORKS, TO CREATE, VARY OR REMOVE EASEMENTS
+        AND TO CREATE A RESTRICTION</td><td>Un Nested Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">95
+        WATSONS RD SUNBURY VIC 3429</a></td><td> ASIA PACIFIC PROPERTY GROUP P/L</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">P22320</a></td><td>24/06/2019</td><td>BUILDINGS
+        AND WORKS FOR THE CONSTRUCTION OF EXTERNAL ACCESS STAIRS TO AN EXISTING BUILDING</td><td>Warehouse
+        Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">52-114
+        GLENELG ST COOLAROO VIC 3048</a></td><td> CIVILSTRUT DESIGN PTY LTD</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">P22326</a></td><td>24/06/2019</td><td>BUILDINGS
+        AND WORKS FOR THE CONSTRUCTION OF BATHROOM/CHANGE ROOM FACILITIES</td><td>Un
+        Nested Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">1
+        MACEDON ST SUNBURY VIC 3429</a></td><td> SALESIAN COLLEGE SUNBURY\r\nJOSHUA
+        PINK</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">P22327</a></td><td>27/06/2019</td><td>2
+        LOT SUBDIVISION PS 823757A [SPEAR S142965J]</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">14
+        BANNISTER ST JACANA VIC 3047</a></td><td> ANTHONY FORD &amp; ASSOCIATES PTY
+        LTD</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">P22329</a></td><td>26/06/2019</td><td>3
+        LOT SUBDIVISION PS 822892Y [SPEAR # S143004B]</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">13
+        ELLAM CT MEADOW HEIGHTS VIC 3048</a></td><td> PRECISION WORKS LAND SURVEYING
+        PTY LTD</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">P22330</a></td><td>27/06/2019</td><td>THE
+        ERECTION OF TWO BUSINESS IDENTIFICATION SIGNS</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">55
+        BROADMEADOWS RD TULLAMARINE VIC 3043</a></td><td>DAMIEN HOLT</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">P22335</a></td><td>1/07/2019</td><td>3
+        LOT SUBDIVISION PS 828210X [SPEAR #S143066B]</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">11-15
+        SMILEY RD BROADMEADOWS VIC 3047</a></td><td> JREDWARDS LAND SURVEYORS</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">P22341</a></td><td>5/07/2019</td><td>REMOVAL
+        OF NATIVE VEGETATION</td><td>Un Nested Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">495U
+        DONNYBROOK RD MICKLEHAM VIC 3064</a></td><td> ANNADALE DEVELOPMENT PARTNERS
+        PTY LTD</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">P22346</a></td><td>4/07/2019</td><td>3
+        LOT SUBDIVISION PS 800842P [SPEAR # S143126T</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">50
+        PARKFRONT CRES ROXBURGH PARK VIC 3064</a></td><td> MERIDIAN LAND SURVEYORS
+        PTY LTD</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl02','')\">P22347</a></td><td>8/07/2019</td><td>3
+        LOT SUBDIVISION PS 824117J [SPEAR S143413M]</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl03','')\">15
+        DECCO DR CAMPBELLFIELD VIC 3061</a></td><td> PETER RICHARDS SURVEYING</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl02','')\">P22348</a></td><td>4/07/2019</td><td>PROPOSED
+        STORAGE SHED</td><td>Un Nested Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl03','')\">855
+        MICKLEHAM RD GREENVALE VIC 3059</a></td><td> ACCOMMODATED BUILDING SOLUTIONS
+        P/L</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl02','')\">P22350</a></td><td>8/07/2019</td><td>CHANGE
+        OF USE TO SHOP (HAIRDRESSER)</td><td>Un Nested Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl03','')\">12
+        RESERVOIR DR COOLAROO VIC 3048</a></td><td>DHUHA ALMUSAWI</td>\r\n\t\t\t</tr><tr
+        class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"6\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><span>3</span></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$4')\">4</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"&lt;
+        Previous\" id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access
+        Key: P\" class=\"button\" />\r\n    </div>\r\n\r\n\r\n                    <div
+        class=\"clear\"></div>\r\n                    <br />\r\n                    <br
+        />\r\n                    <br />\r\n                </div>\r\n                </div>\r\n
+        \           </div>\r\n            <p></p>\r\n            <p class=\"invisible\"></p>\r\n\t\t<div
+        class=\"footerBottom\">\r\n                      <span class=\"black\">Hume
+        City Council acknowledges the Gunung-Willam-Balluk people's living culture
+        and unique role in the life of this region.</span>\r\n                      <br/><br/>\r\n
+        \                     <a class=\"blue\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright\">Copyright
+        &amp; Disclaimer</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Accessibility\"class=\"blue\">Accessibility</a>
+        | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Privacy_Statement\"class=\"blue\">Privacy</a>
+        | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Contact_Us\"class=\"blue\">Contact
+        us</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Sitemap\"class=\"blue\">Site
+        map</a> | <a href=\"http://m.hume.vic.gov.au/Home\" class=\"blue\">Mobile
+        Site</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Todays_Weather\"
+        class=\"blue\">Today's Weather</a></div>\r\n\t        <div id=\"cssBottomBar\"
+        class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">                 \r\n
+        \                   <a id=\"ctl00_hplCustomFooterLink1\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Privacy_Statement\">Privacy</a>\r\n
+        \                   <img id=\"ctl00_imgFooterSeparator1\" class=\"verticalBar\"
+        src=\"../../App_Themes/HCC/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
+        />\r\n                    <a id=\"ctl00_hplCustomFooterLink2\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright\">Copyright
+        & Disclaimer</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\"
+        class=\"verticalBar\" src=\"../../App_Themes/HCC/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink3\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Contact_Us\">Contact
+        Us</a>                       \r\n                    \r\n                </div>\r\n
+        \               <div id=\"cssBottomBarCopyright\">&copy; Technology One Limited
+        2019</div>\r\n            </div>\r\n            \r\n        </div>\r\n    \r\n\r\n<script
+        type=\"text/javascript\">\r\n//<![CDATA[\r\n$(document).ready(function ()
+        {if ($('#ctl00_valErrors').is(':visible') == true) {$('#__SCROLLPOSITIONX').val('0');$('#__SCROLLPOSITIONY').val('0');}});//]]>\r\n</script>\r\n</form>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.HCC.WEBGUEST
+    body:
+      encoding: UTF-8
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIFD2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAggPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUYMjEvMDYvMjAxOSB0byAxOC8wNy8yMDE5ZGQCBQ8PFgYeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP%2F%2F%2F%2F8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMjEvMDYvMjAxOSAxMjowMDowMCBBTQYGAAAAFjE4LzA3LzIwMTkgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAseCVBhZ2VJbmRleAICZBYCZg9kFgQCAQ9kFgICAQ8PFgIfBAUJR3JpZCBUeXBlZGQCAw8PFgIfAGhkFgICAQ8PFgIfBAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkAg4PFgIfAGhkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgICAgIIAgRkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAjFkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hkQjDfKVkGtm8ROWztxdsUki5WS70%3D&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWKgLskv3FAwK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Pf0BAKa4J%2F0BAK%2Fg8WMCdWojRiiOesjitPa6Kc%2FSQzi4IdG&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%244
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=m3uwjdvrsqbomfay5lh2lovj
+      Host:
+      - ehume.hume.vic.gov.au
+      Referer:
+      - https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.HCC.WEBGUEST
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '2246'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/7.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Thu, 18 Jul 2019 02:05:50 GMT
+      Content-Length:
+      - '18700'
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tHume
+        City Council - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/HCC/Default.css\"
+        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
+        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
+        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.HCC.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIFD2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAggPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUYMjEvMDYvMjAxOSB0byAxOC8wNy8yMDE5ZGQCBQ8PFgYeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP////8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMjEvMDYvMjAxOSAxMjowMDowMCBBTQYGAAAAFjE4LzA3LzIwMTkgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAseCVBhZ2VJbmRleAIDZBYCZg9kFgQCAQ9kFgICAQ8PFgIfBAUJR3JpZCBUeXBlZGQCAw8PFgIfAGhkFgICAQ8PFgIfBAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkAg4PFgIfAGhkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgICAgMIAgRkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAjFkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hks+9dqu453MGo9vaZM8j6ZlajLys=\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"794B1E1F\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWFAKd0N1yArfn0coPAvfz5LQFAsPRn/8IAoOOnN4IAr7WkaMOAu6u2fkIAuy4nukCAuShhZIFAsm45/wKAoOihZIFAui45/wKApqkhZIFAv+65/wKAsGihZIFAqa55/wKAprgg/QEAprg9/QEAprgi/QEAr+DxYwJAZdnS+Rrr4LpI0dv8pCdfFCcmII=\"
+        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
+        >\r\n\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Registered
+        User Login</a>\r\n                             </span>\r\n                            \r\n
+        \                    </div>\r\n                    <!-- End Login --> \r\n
+        \               \r\n                    <div id=\"logo\">\r\n\t\t\t<a href=\"http://www.hume.vic.gov.au/Homepage\"></a>\r\n\t
+        \               <div id=\"ctl00_divSkipNav\">\r\n\t                \t<a href=\"#cssTaskpaneTop\"><img
+        id=\"ctl00_imgSkipNav\" src=\"../../App_Themes/HCC/Images/Empty.gif\" alt=\"Skip
+        Navigation Section\" style=\"border-width:0px;height:0px;width:0px;\" /></a>\r\n\t
+        \               </div>\r\n\t\t\t<div id=\"cssBannerLogo\">\r\n        \t\t
+        \       <a href=\"http://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty/P1/GuestHome.aspx?r=P1.HCC.WEBGUEST&f=$P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\"><img src=\"../../App_Themes/Default/Images/Empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" /></a>\r\n\t        \t</div>\r\n
+        \                   </div>\r\n\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
+        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
+        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
+        \                       \r\n                                <div class=\"menuPanel\">\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Return
+        To Online Services Homepage</span>\r\n                                </div>\r\n
+        \                               <ul class=\"menuGroupList\">\r\n\t<li><a href=\"../GuestHome.aspx?r=P1.HCC.WEBGUEST&amp;f=$P1.EPR.GUESTHME.VIW\">Home
+        Page</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">User Information</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../User/PasswordReset.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPR.USERPASS.VIW\">Forgotten
+        Password</a></li><li><a href=\"../User/Register.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPR.REGUSER.MNT\">Register</a></li>\r\n</ul>\r\n
+        \                               <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">Online Payments</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/AnimalPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.ANIMALS.ENQ\">Animal
+        Payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.APPS.ENQ\">Application
+        Payment</a></li><li><a href=\"../ePay/DebtorPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.DEBTORS.ENQ\">Debtor
+        Payment</a></li><li><a href=\"../ePay/RegistrationPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=P1.EPY.PLUS.ENQ\">Health
+        Registration Payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.INFRINGE.ENQ\">Infringement
+        Payment</a></li><li><a href=\"../ePay/DebtorPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=P1.EPY.PRESCHOOL.ENQ\">Pre-School/Activity
+        Group Payments</a></li><li><a href=\"../ePay/RatesPayment.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.EPY.RATES.ENQ\">Rates
+        Payment</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl04_lblMenuGroupHeader\">Planning Register</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl05_lblMenuGroupHeader\">Application Tracking</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li><li><a href=\"ApplicationsWithVariations.aspx?r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.APPVARS.VIW\">Applications
+        with Variations</a></li>\r\n</ul>\r\n                                <br />\r\n
+        \                           \r\n                                </div>\r\n
+        \                           \r\n                        \r\n                    </div>\r\n
+        \                           \r\n                </div>\r\n                \r\n
+        \               <div id=\"cssTaskpaneRelatedLinks\"  class= \"cssNoPrint\">\r\n\t\t\t\t<h2><a
+        href=\"http://www.hume.vic.gov.au\"> Click here to become a registered user</a></h2>\r\n\r\n
+        \                   \r\n                        <div id=\"ctl00_RightTaskPane_tspRelatedLinks\"
+        class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related Links</div>\r\n<ul>\r\n<li><a
+        href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.HCC.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n
+        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
+        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
+        \                               \r\n                <div id=\"cssContent\">\r\n
+        \               <div class=\"cssContentWorkspace\">\r\n                    <a
+        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
+        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
+        \                   \r\n                    \r\n                              \r\n
+        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
+        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
+        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
+        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
+        class=\"fieldLabel\">21/06/2019 to 18/07/2019</span></span>\r\n    \r\n    <div
+        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
+        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
+        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
+        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
+        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
+        Class=\"sectionSeparator\" src=\"../../App_Themes/HCC/Images/HalfSeperator.gif\"
+        alt=\"\" style=\"height:2px;width:50%;border-width:0px;\" />\r\n            \r\n\t</div>\r\n
+        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
+        cellpadding=\"3\" rules=\"cols\" border=\"1\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
+        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
+        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
+        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
+        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
+        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">P22352</a></td><td>9/07/2019</td><td>INSTALLING
+        A NEW ROLLER DOOR</td><td>Un Nested Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">30
+        DECCO DR CAMPBELLFIELD VIC 3061</a></td><td> WORKSHOP ARCHITECTURE\r\nJACQUELINE
+        TANG</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">P22353</a></td><td>9/07/2019</td><td>REMOVAL
+        OF RESTRICTION [SPEAR # S141028S]</td><td>Un Nested Group</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">7
+        HILLCREST DR WESTMEADOWS VIC 3049</a></td><td> TAYLORS DEVELOPMENT STRATEGISTS
+        PTY LTD</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">P22357</a></td><td>10/07/2019</td><td>3
+        LOT SUBDIVISION PS 828615U [SPEAR # S142648M]</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">38
+        RIGGALL ST DALLAS VIC 3047</a></td><td> PETER RICHARDS SURVEYING</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">P22365</a></td><td>16/07/2019</td><td>3
+        LOT SUBDIVISION PS 831875X [SPEAR # S143889B]</td><td>Un Nested Group</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">1
+        TURNBERRY DR SUNBURY VIC 3429</a></td><td> BENCHMARK LAND SURVEYORS</td>\r\n\t\t\t</tr><tr
+        class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"6\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td><td><span>4</span></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"&lt;
+        Previous\" id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access
+        Key: P\" class=\"button\" />\r\n    </div>\r\n\r\n\r\n                    <div
+        class=\"clear\"></div>\r\n                    <br />\r\n                    <br
+        />\r\n                    <br />\r\n                </div>\r\n                </div>\r\n
+        \           </div>\r\n            <p></p>\r\n            <p class=\"invisible\"></p>\r\n\t\t<div
+        class=\"footerBottom\">\r\n                      <span class=\"black\">Hume
+        City Council acknowledges the Gunung-Willam-Balluk people's living culture
+        and unique role in the life of this region.</span>\r\n                      <br/><br/>\r\n
+        \                     <a class=\"blue\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright\">Copyright
+        &amp; Disclaimer</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Accessibility\"class=\"blue\">Accessibility</a>
+        | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Privacy_Statement\"class=\"blue\">Privacy</a>
+        | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Contact_Us\"class=\"blue\">Contact
+        us</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Sitemap\"class=\"blue\">Site
+        map</a> | <a href=\"http://m.hume.vic.gov.au/Home\" class=\"blue\">Mobile
+        Site</a> | <a href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Todays_Weather\"
+        class=\"blue\">Today's Weather</a></div>\r\n\t        <div id=\"cssBottomBar\"
+        class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">                 \r\n
+        \                   <a id=\"ctl00_hplCustomFooterLink1\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Privacy_Statement\">Privacy</a>\r\n
+        \                   <img id=\"ctl00_imgFooterSeparator1\" class=\"verticalBar\"
+        src=\"../../App_Themes/HCC/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
+        />\r\n                    <a id=\"ctl00_hplCustomFooterLink2\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright\">Copyright
+        & Disclaimer</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\"
+        class=\"verticalBar\" src=\"../../App_Themes/HCC/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink3\" href=\"http://www.hume.vic.gov.au/Disclaimer_Copyright/Contact_Us\">Contact
+        Us</a>                       \r\n                    \r\n                </div>\r\n
+        \               <div id=\"cssBottomBarCopyright\">&copy; Technology One Limited
+        2019</div>\r\n            </div>\r\n            \r\n        </div>\r\n    \r\n\r\n<script
+        type=\"text/javascript\">\r\n//<![CDATA[\r\n$(document).ready(function ()
+        {if ($('#ctl00_valErrors').is(':visible') == true) {$('#__SCROLLPOSITIONX').val('0');$('#__SCROLLPOSITIONY').val('0');}});//]]>\r\n</script>\r\n</form>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+recorded_with: VCR 5.0.0

@@ -7,15 +7,6 @@ GIT
       httpclient
       sqlite_magic
 
-GIT
-  remote: https://github.com/planningalerts-scrapers/technology_one_scraper.git
-  revision: 56681cae2cfe36870b8becf05e0551366081ab3f
-  specs:
-    technology_one_scraper (0.1.0)
-      activesupport
-      mechanize
-      scraperwiki
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -25,14 +16,21 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
+    ast (2.4.1)
     concurrent-ruby (1.1.6)
     connection_pool (2.2.3)
+    crack (0.4.3)
+      safe_yaml (~> 1.0.0)
+    diff-lcs (1.4.4)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
+    hashdiff (1.0.1)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     httpclient (2.8.3)
-    i18n (1.8.3)
+    i18n (1.8.4)
       concurrent-ruby (~> 1.0)
     mechanize (2.7.6)
       domain_name (~> 0.5, >= 0.5.1)
@@ -54,24 +52,70 @@ GEM
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     ntlm-http (0.1.1)
+    parallel (1.19.2)
+    parser (2.7.1.4)
+      ast (~> 2.4.1)
+    public_suffix (4.0.5)
+    rainbow (3.0.0)
+    rake (10.5.0)
+    rexml (3.2.4)
+    rspec (3.9.0)
+      rspec-core (~> 3.9.0)
+      rspec-expectations (~> 3.9.0)
+      rspec-mocks (~> 3.9.0)
+    rspec-core (3.9.2)
+      rspec-support (~> 3.9.3)
+    rspec-expectations (3.9.2)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.9.0)
+    rspec-mocks (3.9.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.9.0)
+    rspec-support (3.9.3)
+    rubocop (0.84.0)
+      parallel (~> 1.10)
+      parser (>= 2.7.0.1)
+      rainbow (>= 2.2.2, < 4.0)
+      rexml
+      rubocop-ast (>= 0.0.3)
+      ruby-progressbar (~> 1.7)
+      unicode-display_width (>= 1.4.0, < 2.0)
+    rubocop-ast (0.2.0)
+      parser (>= 2.7.0.1)
+    ruby-progressbar (1.10.1)
+    safe_yaml (1.0.5)
     sqlite3 (1.4.2)
     sqlite_magic (0.0.6)
       sqlite3
     thread_safe (0.3.6)
+    timecop (0.9.1)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.7)
+    unicode-display_width (1.7.0)
+    vcr (6.0.0)
+    webmock (3.8.3)
+      addressable (>= 2.3.6)
+      crack (>= 0.3.2)
+      hashdiff (>= 0.4.0, < 2.0.0)
     webrobots (0.1.2)
-    zeitwerk (2.3.1)
+    zeitwerk (2.4.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport
+  mechanize
+  rake (~> 10.0)
+  rspec (~> 3.0)
+  rubocop
   scraperwiki!
-  technology_one_scraper!
+  timecop
+  vcr
+  webmock
 
 RUBY VERSION
    ruby 2.5.1p57

@@ -1,0 +1,1666 @@
+---
+- council_reference: P02/0633.02
+  address: 130 Highbury Road TOOTGAROOK VIC 3941
+  description: DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P02%2F0633.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P04/1214.01
+  address: 17 Saldanna Way SORRENTO VIC 3943
+  description: DWELLING ADDITIONS - SWIMMING POOL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P04%2F1214.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P04/1524.01
+  address: 30 Glen Shian Lane MOUNT ELIZA VIC 3930
+  description: DEMOLISH EXISTING HOME AND CONSTRUCT TWO STOREY DWELLING AND POOL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P04%2F1524.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P08/0696.14
+  address: 3405 Point Nepean Road SORRENTO VIC 3943
+  description: TO CONSTRUCT EIGHT (8) DOUBLE STOREY DWELLINGS, EIGHT SWIMMING POOLS,
+    DEMOLITION OF PART OF A DWELLING, VEGETATION REMOVAL AND ASSOCIATED WORKS AND
+    APPROVAL FOR AN AMENDED DEVELOPMENT PLAN IN ACCORDANCE WITH THE ENDORSED PLANS.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P08%2F0696.14&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P08/2173.01
+  address: 4 Crest Drive ROSEBUD VIC 3939
+  description: development of dwelling extension and alterations in accordance with
+    the submitted plans.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P08%2F2173.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P08/2951.07
+  address: 75 Thompsons Lane MERRICKS VIC 3916
+  description: Addition of solar panels to endorsed plans.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P08%2F2951.07&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P09/0347.01
+  address: 37 Waterview Drive MOUNT MARTHA VIC 3934
+  description: THE DEVELOPMENT OF A DOUBLE STOREY DWELLING AND ASSOCIATED WORKS IN
+    ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P09%2F0347.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P09/0934.06
+  address: 6 Tallant Avenue SORRENTO VIC 3943
+  description: DEVELOP A DWELLING, REMOVE VEGETATION AND ASSOCIATED WORKS GENERALLY
+    IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P09%2F0934.06&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P10/0022.07
+  address: 143 Jetty Road ROSEBUD VIC 3939
+  description: DEVELOP TWO (2) DOUBLE STOREY DWELLINGS AND ASSOCIATED WORKS GENERALLY
+    IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P10%2F0022.07&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: P10/1336.05
+  address: 52 Helena Street MOUNT MARTHA VIC 3934
+  description: DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P10%2F1336.05&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P10/1639.03
+  address: 30 The Crescent TYABB VIC 3913
+  description: USE AND DEVELOPMENT OF A RESIDENTIAL AGED CARE FACILITY, CARETAKERS
+    DWELLING, FENCING, VEGETATION REMOVAL AND ASSOCIATED WORKS IN ACCORDANCE WITH
+    THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P10%2F1639.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P10/2014.01
+  address: 9 Double Creek Road FLINDERS VIC 3929
+  description: DEVELOP A DOUBLE STOREY DWELLING, GENERALLY IN ACCORDANCE WITH THE
+    SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P10%2F2014.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P11/1270.03
+  address: 31 Rendlesham Avenue MOUNT ELIZA VIC 3930
+  description: DEVELOP A DOUBLE STOREY DWELLING AND ASSOCIATED WORKS GENERALLY IN
+    ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P11%2F1270.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P11/1740.02
+  address: 27 Rankin Road HASTINGS VIC 3915
+  description: DEVELOPMENT OF TWO (2) ADDITIONAL DWELLINGS AND ASSOCIATED WORKS IN
+    ACCORDANCE WITH THE ENDORSED PLANS.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P11%2F1740.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P12/0580.01
+  address: 35 Churchill Road MOUNT MARTHA VIC 3934
+  description: DEVELOPMENT OF A DEPENDANT PERSONS UNIT AND ASSOCIATED VEGETATION REMOVAL
+    IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P12%2F0580.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P12/0720.04
+  address: 25 Rankin Road HASTINGS VIC 3915
+  description: DEVELOPMENT OF TWO (2) ADDITIONAL DWELLINGS AND ASSOCIATED WORKS IN
+    ACCORDANCE WITH THE ENDORSED PLANS.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P12%2F0720.04&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P12/0840.03
+  address: 16-18 Bath Street MORNINGTON VIC 3931
+  description: DEVELOP DWELLING ADDITIONS AND ASSOCIATED WORKS, GENERALLY IN ACCORDANCE
+    WITH THE SUBMITTED PLANS.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P12%2F0840.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P12/1550.06
+  address: 9 Sorrento Close SORRENTO VIC 3943
+  description: THE DEVELOPMENT OF A DWELLING, VEGETATION REMOVAL AND ASSOCIATED WORKS
+    IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P12%2F1550.06&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P13/0972.04
+  address: 10 Warraburra Avenue ROSEBUD VIC 3939
+  description: THE DEVELOPMENT OF A SECOND DWELLING AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P13%2F0972.04&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P13/1352.02
+  address: 233 Mornington-Tyabb Road MOOROODUC VIC 3933
+  description: THE USE AND DEVELOPMENT OF THE LAND FOR AN OUTDOOR RECREATION FACILITY
+    (CHILDRENS FARM AND ANCILLARY HALL), WITH ACCESS FROM STUMPY GULLY ROAD ALTERATION
+    TO ROAD ZONE CATEGORY 1 (RETROSPECTIVE) , CARPARKING CONSENT GENERALLY IN ACCORDANCE
+    WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P13%2F1352.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P13/1515.02
+  address: 11 Burton Street DROMANA VIC 3936
+  description: THE DEVELOPMENT OF DWELLING ADDITIONS, ALTERATIONS AND ASSOCIATED WORKS
+    IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P13%2F1515.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P13/1866.01
+  address: 4-6 Elizabeth Street RED HILL VIC 3937
+  description: THE DEVELOPMENT OF DWELLING ADDITIONS AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P13%2F1866.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P14/0546.02
+  address: 30 Craig Avenue TYABB VIC 3913
+  description: DEVELOP A SECOND DWELLING AND ASSOCIATED WORKS GENERALLY IN ACCORDANCE
+    WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F0546.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P14/0645.04
+  address: 12 Jillian Drive RYE VIC 3941
+  description: DEVELOPMENT OF A DWELLING, VEGETATION REMOVAL AND ASSOCIATED WORKS
+    IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F0645.04&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P14/1365.02
+  address: 34 Brasser Avenue DROMANA VIC 3936
+  description: USE AND DEVELOP 6 WAREHOUSES, A TAKEAWAY FOOD SHOP AND ASSOCIATED WORKS
+    GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F1365.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P14/1405.02
+  address: 1-3 Kalimna Drive MORNINGTON VIC 3931
+  description: DEVELOP A DWELLING, VEGETATION REMOVAL AND ASSOCIATED WORKS, GENERALLY
+    IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F1405.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P14/1520.04
+  address: 13 Tubbarubba Road MERRICKS NORTH VIC 3926
+  description: USE AND DEVELOPMENT OF A DWELLING AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS - EXTENSION OF TIME
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F1520.04&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P14/1908.01
+  address: 18/2 Skinner Street HASTINGS VIC 3915
+  description: DEVELOPMENT OF A THREE STOREY DWELLING AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F1908.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P14/1908.02
+  address: 18/2 Skinner Street HASTINGS VIC 3915
+  description: DEVELOPMENT OF A THREE STOREY DWELLING AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F1908.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: P14/1972.03
+  address: 1 Barkly Street MORNINGTON VIC 3931
+  description: SUBDIVIDE THE LAND INTO TWO LOTS, DEVELOP TWO DWELLINGS, VEGETATION
+    REMOVAL AND ASSOCIATED WORKS GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F1972.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: P14/2069.02
+  address: 3-23 Vantage Point Drive MOUNT MARTHA VIC 3934
+  description: THE DEVELOPMENT OF A DWELLING AND ASSOCIATED WORKS IN ACCORDANCE WITH
+    THE ENDORSED PLANS - EXTENSION OF TIME
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F2069.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P14/2070.02
+  address: 3-23 Vantage Point Drive MOUNT MARTHA VIC 3934
+  description: THE DEVELOPMENT OF A DWELLING AND ASSOCIATED WORKS IN ACCORDANCE WITH
+    THE ENDORSED PLANS - EXTENSION OF TIME
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F2070.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P14/2325.02
+  address: 47-49 Rosemore Road ROSEBUD VIC 3939
+  description: THE DEVELOPMENT OF FIVE (5) DWELLINGS ON A LOT (RETRO-FIT EXISTING
+    BUILDING), WAIVER TO THE REQUIREMENT OF CLAUSE 52.06 (CAR PARKING) TO PROVIDE
+    ONE (1) VISITOR CAR SPACE AND ASSOCIATED WORKS IN ACCORDANCE WITH THE SUBMITTED
+    PLANS.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P14%2F2325.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P15/0216.04
+  address: 3816 Point Nepean Road PORTSEA VIC 3944
+  description: DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F0216.04&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P15/0356.02
+  address: 32 Nestle Court ARTHURS SEAT VIC 3936
+  description: ALTERATIONS TO THE EXISTING DWELLING (CONVERTING THE EXISTING GARAGE
+    TO A BEDROOM) AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F0356.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P15/0474.03
+  address: 14 Cromdale Street MOUNT MARTHA VIC 3934
+  description: DEVELOP 4 DOUBLE STOREY DWELLINGS, SUBDIVIDE THE LAND INTO 4 LOTS AND
+    ASSOCIATED WORKS GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F0474.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: P15/0794.02
+  address: 35 Wilson Road BLAIRGOWRIE VIC 3942
+  description: THE DEVELOPMENT OF A DWELLING WITH ASSOCIATED EARTHWORKS, VEGETATION
+    REMOVAL AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F0794.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P15/1124.01
+  address: 20 Capri Drive MOUNT MARTHA VIC 3934
+  description: DEVELOPMENT OF A DWELLING, VEGETATION REMOVAL AND ASSOCIATED WORKS
+    IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F1124.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P15/1208.03
+  address: Criston 5 Whitehall Road FLINDERS VIC 3929
+  description: THE CONSTRUCTION OF DWELLING ADDITIONS AND ALTERATIONS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F1208.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P15/1219.02
+  address: 14 Ossett Street SORRENTO VIC 3943
+  description: DEMOLISH TWO OUTBUILDINGS, DEVELOP OUTBUILDING AND VERANDAH AND ASSOCIATED
+    WORKS, GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F1219.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P15/1349.01
+  address: 13 Graeme Street DROMANA VIC 3936
+  description: DEVELOPMENT OF TWO (2) DWELLINGS AND ASSOCIATED WORKS GENERALLY IN
+    ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F1349.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P15/1759.02
+  address: 6 Esplanade BALNARRING BEACH VIC 3926
+  description: CONSTRUCT A REPLACEMENT DWELLING, INCLUDING VEGETATION REMOVAL IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F1759.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P15/2039.02
+  address: 1920 Frankston-Flinders Road HASTINGS VIC 3915
+  description: TO DEVELOP TWO POULTRY SHEDS (NO INCREASE TO BIRD NUMBERS) AND ASSOCIATED
+    WORKS, INCLUDING VEGETATION REMOVAL, IN ACCORDANCE WITH THE ENDORSED PLANS.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F2039.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P15/2091.03
+  address: 15 Truemans Road CAPEL SOUND VIC 3940
+  description: UNIT MODIFICATIONS - UNIT 14
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F2091.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P15/2091.04
+  address: 15 Truemans Road CAPEL SOUND VIC 3940
+  description: UNIT MODIFICATIONS - UNIT 14
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F2091.04&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P15/2173.02
+  address: Westernport Hostel 80 Victoria Street HASTINGS VIC 3915
+  description: BUILDING AND WORKS ASSOCIATED WITH THE REDEVELOPMENT OF THE EXISTING
+    AGED CARE FACILITY (IN STAGES) AND ASSOCIATED WORKS INCLUDING SIGNAGE AND THE
+    REMOVAL OF NATIVE VEGETATION IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F2173.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P15/2201.03
+  address: 875 Melbourne Road SORRENTO VIC 3943
+  description: ALTERATIONS AND ADDITIONS TO THE EXISTING COTTAGE (INCLUDING PARTIAL
+    DEMOLITION) , THE DEVELOPMENT OF A DWELLING, DETACHED GARAGE, SWIMMING POOL, VEGETATION
+    REMOVAL AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P15%2F2201.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P16/0260.01
+  address: 12 Percy Street RYE VIC 3941
+  description: DEVELOPMENT OF A DWELLING, REMOVAL OF VEGETATION, AND ASSOCIATED WORKS
+    IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F0260.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P16/0390.01
+  address: 808 Melbourne Road SORRENTO VIC 3943
+  description: THE DEVELOPMENT OF A DWELLING (DOUBLE STOREY), FENCING, VEGETATION
+    REMOVAL AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F0390.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P16/0615.01
+  address: 316 Tucks Road SHOREHAM VIC 3916
+  description: THE USE AND DEVELOPMENT OF A DWELLING AND ASSOCIATED BUILDINGS AND
+    WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F0615.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: P16/0798.03
+  address: 87 Raymond Street TOOTGAROOK VIC 3941
+  description: THE DEVELOPMENT OF A TWO STOREY REPLACEMENT DWELLING, REMOVE VEGETATION,
+    AND ASSOCIATED WORKS, IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F0798.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P16/0860.06
+  address: 590 Dunns Creek Road DROMANA VIC 3936
+  description: THE USE AND DEVELOPMENT OF A DWELLING, ACCESS TO A ROAD IN A ROAD ZONE
+    CATEGORY 1, LOPPING OF VEGETATION, DEVELOPMENT OF AGRICULTURE BUILDINGS AND INFRASTRUCTURES
+    WORKS, AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F0860.06&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P16/1004.04
+  address: 67 Main Street MORNINGTON VIC 3931
+  description: REPLACE EXISTING DOORS/WINDOWS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F1004.04&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P16/1009.02
+  address: 68 Glen Shian Lane MOUNT ELIZA VIC 3930
+  description: DEVELOPMENT OF A SECOND DWELLING INCLUDING ASSOCIATED WORKS AND TWO
+    (2) LOT SUBDIVISION IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F1009.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P16/1097.01
+  address: 17 Rendlesham Avenue MOUNT ELIZA VIC 3930
+  description: DEVELOPMENT OF A DWELLING, VEGETATION REMOVAL AND ASSOCIATED WORKS
+    GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F1097.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P16/1158.01
+  address: Treehaven 53 Dandenong-Hastings Road SOMERVILLE VIC 3912
+  description: USE AND DEVELOPMENT OF THE LAND FOR A DWELLING, WHOLESALE PLANT NURSERY,
+    ALTER ACCESS TO A ROAD IN A ROAD ZONE CATEGORY 1 AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F1158.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P16/1538.03
+  address: 235 Canadian Bay Road MOUNT ELIZA VIC 3930
+  description: BUILDINGS AND WORKS TO CONSTRUCT A RESIDENTIAL AGED CARE FACILITY,
+    INCLUDING THE REMOVAL OF VEGETATION, VARIATION OF EASEMENT(S) AND REDUCTION IN
+    BICYCLE PARKING REQUIREMENTS OF CLAUSE 52.34 GENERALLY IN ACCORDANCE WITH THE
+    SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F1538.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P16/1593.01
+  address: 147A Point Leo Road RED HILL SOUTH VIC 3937
+  description: USE AND DEVELOPMENT OF A DWELLING AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F1593.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P16/1754.01
+  address: 12-14 Howard Street SHOREHAM VIC 3916
+  description: THE DEVELOPMENT OF AN OUTBUILDING (WORKSHOP AND ENSUITE) AND ASSOCIATED
+    WORKS IN ACCORDANCE WITH THE ENDORSED PLANS - EXTENSION OF TIME
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F1754.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P16/1767.03
+  address: 38 MacDonald Grove MORNINGTON VIC 3931
+  description: DEVELOP A DWELLING AND ASSOCIATED WORKS GENERALLY IN ACCORDANCE WITH
+    THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F1767.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P16/1948.03
+  address: Bshed 32 Safety Beach Foreshore Off Marine Drive SAFETY BEACH VIC 3936
+  description: REPAIRS & ALTERATIONS - EXTENSION OF TIME
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F1948.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P16/2385.02
+  address: 29 Holyrood Avenue SORRENTO VIC 3943
+  description: TWO LOT SUBDIVISION OF 29 HOLYROOD AVENUE, IN ACCORDANCE WITH THE ENDORSED
+    PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F2385.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P16/2529.01
+  address: 6 Williams Road MORNINGTON VIC 3931
+  description: DEVELOPMENT OF TWO DWELLINGS AND ASSOCIATED WORKS IN ACCORDANCE WITH
+    THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P16%2F2529.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P17/0092.01
+  address: 31 Leon Avenue ROSEBUD VIC 3939
+  description: THE DEVELOPMENT OF A SECOND DWELLING AND ALTERATIONS TO EXISTING DWELLING
+    AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F0092.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P17/0225.01
+  address: 154 Browns Road BONEO VIC 3939
+  description: TO CONTRUCT TWO BUILDINGS (RELOCATION OF EXISTING PORTABLE BUILDINGS)
+    AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F0225.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P17/0252.01
+  address: 2 Reginald Way MOUNT MARTHA VIC 3934
+  description: "DEVELOP AN OUTBUILDING AND ASSOCIATED WORKS IN ACCORDANCE WITH THE
+    ENDORSED PLANS, VARY THE RESTRICTIVE COVENANT CREATED IN TRANSFER OF LAND W928106D
+    AFFECTING CERTIFICATE OF TITLE VOLUME 10508 FOLIO 065 BY:\r\n-\tREMOVING THE WORDS
+    \"(INCLUDING OUTBUILDINGS)\" IN RESTRICTION 2; AND \r\n-\tREPLACING THE WORDS
+    “EXCEEDING 70 SQUARE METRES” WITH “EXCEEDING 110 SQUARE METRES” IN RESTRICTION
+    5."
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F0252.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P17/0286.03
+  address: 48 Kennington Road ROSEBUD VIC 3939
+  description: THE DEVELOPMENT OF A SECOND DWELLING AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F0286.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P17/0675.01
+  address: 97 Dandenong-Hastings Road SOMERVILLE VIC 3912
+  description: DEVELOPMENT OF AN AGRICULTURAL SHED AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F0675.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P17/0703.02
+  address: 8 Hawkesmeade Street BALNARRING BEACH VIC 3926
+  description: DWELLING ADDITIONS AND ALTERATIONS - EXTENSION OF TIME
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F0703.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P17/0777.02
+  address: 40 Kingfisher Avenue CAPEL SOUND VIC 3940
+  description: THE DEVELOPMENT OF TWO DWELLINGS AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F0777.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P17/0797.01
+  address: Miscellaneous Planning Applications MORNINGTON VIC 3931
+  description: VEGETATION REMOVAL ON ROAD RESERVE ADJACENT TO 167 BALNARRING BEACH
+    ROAD BALNARRING BEACH GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F0797.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P17/1011.03
+  address: 64 Old Mornington Road MOUNT ELIZA VIC 3930
+  description: DEVELOPMENT OF A SECOND DWELLING, SUBDIVISION OF THE LAND INTO TWO
+    LOTS, REMOVAL OF VEGETATION AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED
+    PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1011.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P17/1011.04
+  address: 64 Old Mornington Road MOUNT ELIZA VIC 3930
+  description: DEVELOPMENT OF A SECOND DWELLING, SUBDIVISION OF THE LAND INTO TWO
+    LOTS, REMOVAL OF VEGETATION AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED
+    PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1011.04&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P17/1025.02
+  address: 14 Talbot Grove MCCRAE VIC 3938
+  description: THE DEVELOPMENT OF TWO DWELLINGS, VEGETATION REMOVAL AND ASSOCIATED
+    WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1025.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P17/1048.01
+  address: 90 Watson Avenue DROMANA VIC 3936
+  description: DEVELOP TWO (2) DOUBLE STOREY DWELLINGS, VEGETATION REMOVAL AND ASSOCIATED
+    WORKS GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1048.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P17/1112.01
+  address: 128 Balnarring Road BALNARRING VIC 3926
+  description: DEVELOPMENT OF A SHED (HORSE ARENA) IN ACCORDANCE WITH THE ENDORSED
+    PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1112.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P17/1194.02
+  address: 20 Kilburn Grove MOUNT MARTHA VIC 3934
+  description: THE DEVELOPMENT OF DWELLING ADDITIONS, FENCE, OUTBUILDING, AND ASSOCIATED
+    WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1194.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: P17/1218.01
+  address: 16 Beverley Road MCCRAE VIC 3938
+  description: THE DEVELOPMENT OF ADDITIONS AND ALTERATIONS TO THE EXISTING DWELLING
+    AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1218.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P17/1781.01
+  address: 197A Hendersons Road HASTINGS VIC 3915
+  description: NATIVE VEGETATION REMOVAL IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1781.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P17/1806.01
+  address: 80-86 Morris Street TOOTGAROOK VIC 3941
+  description: THE DEVELOPMENT OF A SECOND DWELLING AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1806.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P17/1977.02
+  address: 17 Brewster Road RYE VIC 3941
+  description: THE DEVELOPMENT OF A DWELLING AND ASSOCIATED WORKS IN ACCORDANCE WITH
+    THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1977.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P17/1997.02
+  address: 370 Craigie Road MOUNT MARTHA VIC 3934
+  description: BUILDINGS AND WORKS ASSOCIATED WITH A PLACE OF ASSEMBLY IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F1997.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P17/2010.01
+  address: 47 Glen Shian Lane MOUNT ELIZA VIC 3930
+  description: THE DEVELOPMENT OF DWELLING ADDITIONS AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F2010.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P17/2465.01
+  address: 5 Pender Avenue MORNINGTON VIC 3931
+  description: THE DEVELOPMENT OF TWO DWELLINGS, SUBDIVISION OF THE LAND INTO TWO
+    LOTS AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P17%2F2465.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: P18/0346.01
+  address: 30 Baynes Road RED HILL SOUTH VIC 3937
+  description: THE DEVELOPMENT OF DWELLING ADDITIONS, ALTERATIONS AND ASSOCIATED WORKS
+    AND VEGETATION REMOVAL GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F0346.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: P18/0357.03
+  address: 2/424 Sandy Road ST ANDREWS BEACH VIC 3941
+  description: THE DEVELOPMENT OF A DWELLING, VEGETATION REMOVAL AND ASSOCIATED WORKS
+    IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F0357.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P18/0424.01
+  address: 55 Ellerina Road MOUNT MARTHA VIC 3934
+  description: DEVELOPMENT OF A TWO STOREY DWELLING, ADDITIONS/ALTERATIONS TO EXISTING
+    POOL ROOM, VEGETATION REMOVAL AND ASSOCIATED WORKS GENERALLY IN ACCORDANCE WITH
+    THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F0424.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P18/0429.01
+  address: 199-201 Point Nepean Road DROMANA VIC 3936
+  description: THE USE OF THE LAND FOR THE SALE AND CONSUMPTION OF LIQUOR (ASSOCIATED
+    WITH A RESTAURANT), THE DEMOLITION OF BUILDINGS, THE DEVELOPMENT OF BUILDINGS
+    AND WORKS, INCLUDING EXTERNAL ALTERATIONS, THE ERECTION AND DISPLAY OF SIGNAGE,
+    A VARIATION TO THE CAR PARKING REQUIREMENTS OF CLAUSE 52.06, A VARIATION TO THE
+    BICYCLE FACILITY REQUIREMENTS OF CLAUSE 52.34, AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F0429.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P18/1177.01
+  address: 1765 Mornington-Flinders Road FLINDERS VIC 3929
+  description: USE AND DEVELOPMENT OF A DWELLING, USE OF THE LAND FOR INTENSIVE ANIMAL
+    PRODUCTION (HORSE STUD), DEVELOPMENT OF A HORSE STABLE BUILDING, ALTERATION OF
+    ACCESS TO A ROAD ZONE, CATEGORY 1 AND ASSOCIATED WORKS GENERALLY IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F1177.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P18/1335.01
+  address: 47 Fern Grove RYE VIC 3941
+  description: THE DEVELOPMENT OF EARTH WORKS, RETAINING WALLS, FENCING AND ASSOCIATED
+    WORKS GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F1335.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P18/1427.01
+  address: 179 Palmerston Avenue DROMANA VIC 3936
+  description: DEVELOP FOUR (4) ADDITIONAL DWELLINGS, ADDITIONS TO THE EXISTING DWELLING
+    AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F1427.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P18/1846.01
+  address: 91 Kunyung Road MOUNT ELIZA VIC 3930
+  description: DEVELOPMENT OF A DWELLING IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F1846.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: P18/1876.01
+  address: 2252 Mornington-Flinders Road FLINDERS VIC 3929
+  description: WORKS FOR EXTENSIVE LANDSCAPING AND EARTHWORKS INCLUDING THE CONSTRUCTION
+    OF A DAM AND ASSOCIATED WORKS GENERALLY IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F1876.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P18/1947.01
+  address: 6 Hope Street ROSEBUD VIC 3939
+  description: DEVELOPMENT OF A SINGLE DWELLING AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F1947.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P18/2000.01
+  address: 95 Donaldsons Road RED HILL VIC 3937
+  description: DEVELOPMENT OF A REPLACEMENT DWELLING, REMOVAL OF VEGETATION AND ASSOCIATED
+    WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F2000.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: P18/2115.01
+  address: 3 Angley Rise ROSEBUD VIC 3939
+  description: DEVELOPMENT OF A DWELLING AND ASSOCIATED WORKS IN ACCORDANCE WITH THE
+    ENDORSED PLANS - RETAINING WALL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F2115.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P18/2181.01
+  address: 14 Timaru Close SORRENTO VIC 3943
+  description: DEVELOPMENT OF DWELLING ADDITIONS AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F2181.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-07'
+- council_reference: P18/2186.02
+  address: 30 Nelson Street SHOREHAM VIC 3916
+  description: DEVELOPMENT OF DWELLING ADDITIONS (DECK) AND ASSOCIATED WORKS GENERALLY
+    IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F2186.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P18/2226.02
+  address: 4-6 Monaco Parade DROMANA VIC 3936
+  description: SUBDIVIDE THE LAND INTO TWO LOTS AND ASSOCIATED WORKS IN ACCORDANCE
+    WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P18%2F2226.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P19/0125.02
+  address: 1/212 Boneo Road ROSEBUD VIC 3939
+  description: CONSTRUCT AND DISPLAY ADVERTISING SIGNAGE IN ACCORDANCE WITH THE ENDORSED
+    PLANS.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F0125.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: P19/1327
+  address: 40-42 Herbert Street MORNINGTON VIC 3931
+  description: Proposed double storey dwelling, pool and associated works.
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1327&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1330
+  address: 4 Martin Street MOUNT MARTHA VIC 3934
+  description: DOUBLE STOREY DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1330&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P19/1332
+  address: 36 Pindara Road ARTHURS SEAT VIC 3936
+  description: DEVELOPMENT OF A DWELLING, VEGETATION REMOVAL, AND ASSOCIATED WORKS
+    GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1332&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P19/1333
+  address: 65 Shoreham Road RED HILL SOUTH VIC 3937
+  description: DWELLING ADDITIONS - VERANDA/PERGOLA
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1333&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1334
+  address: 2939 Point Nepean Road BLAIRGOWRIE VIC 3942
+  description: Alterations and additions to existing dwelling
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1334&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P19/1335
+  address: 32 Hillman Avenue MCCRAE VIC 3938
+  description: 2 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1335&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P19/1336
+  address: 25 Foothills Avenue MCCRAE VIC 3938
+  description: Alterations and additions to an existing dwelling
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1336&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P19/1339
+  address: 273 High Street HASTINGS VIC 3915
+  description: New single story dwelling with garage
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1339&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P19/1340
+  address: 7 Killick Street HASTINGS VIC 3915
+  description: DEVELOPMENT OF NEW DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1340&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P19/1341
+  address: 301 Tucks Road SHOREHAM VIC 3916
+  description: DWELLING ADDITIONS INCLUDING PROPOSED STORE ROOM TO UPPER GARAGE
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1341&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P19/1342
+  address: 26 Adelaide Street MORNINGTON VIC 3931
+  description: ALTERATIONS AND ADDITIONS TO AN EXISTING DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1342&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P19/1344
+  address: 21 Elwers Road ROSEBUD VIC 3939
+  description: 5 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1344&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P19/1347
+  address: 32 Cutwater Street HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1347&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P19/1348
+  address: 16 Bellbird Road MOUNT ELIZA VIC 3930
+  description: Construction of Shed for storage of cars
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1348&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1351
+  address: 6 Hill Street SORRENTO VIC 3943
+  description: EXCAVATION AND CONSTRUCTION OF RETAINING WALLS BELOW NEW RESIDENCE
+    FOR CAR PORT
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1351&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1352
+  address: 33 Macedon Avenue DROMANA VIC 3936
+  description: 2 LOT SUBDIVISION AND 2 DWELLINGS - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1352&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P19/1353
+  address: 41-43 McAlpin Street TOOTGAROOK VIC 3941
+  description: DEVELOPMENT OF REPLACEMENT DWELLING INCLUDING VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1353&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1355
+  address: 10 Maryrose Street BLAIRGOWRIE VIC 3942
+  description: DEVELOP DWELLING ADDITIONS & ASSOCIATED WORKS GENERALLY IN ACCORDANCE
+    WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1355&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P19/1356
+  address: 37 Lugano Avenue DROMANA VIC 3936
+  description: 2 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1356&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1357
+  address: 8 Victoria Avenue BITTERN VIC 3918
+  description: DWELLING ADDITIONS - CARPORT AND SHED
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1357&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1358
+  address: 51 Grange Road RYE VIC 3941
+  description: CONSTRUCT A FRONT FENCE - VICSMART
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1358&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1360
+  address: 8 Elizabeth Street RED HILL VIC 3937
+  description: DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1360&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1361
+  address: 52 Hughes Road SORRENTO VIC 3943
+  description: DEVELOPMENT OF NEW DWELLING , VEGETATION REMOVAL & DEMOLITION OF EXISTING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1361&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P19/1362
+  address: 3756 Point Nepean Road PORTSEA VIC 3944
+  description: LIQUOR LICENSE
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1362&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P19/1364
+  address: 85 Marine Drive SAFETY BEACH VIC 3936
+  description: DEVELOPMENT OF DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1364&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1365
+  address: 46 London Bridge Road PORTSEA VIC 3944
+  description: DEVELOPMENT OF A PRACTICE FAIRWAY, TEACHING SHED & ASSOCIATED VEGETATION
+    REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1365&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: P19/1366
+  address: 15 The Loop BLAIRGOWRIE VIC 3942
+  description: VEGETATION REMOVAL IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1366&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P19/1367
+  address: 13 Jephson Street BLAIRGOWRIE VIC 3942
+  description: DEVELOP DWELLING ADDITIONS (CARPORT & RETAINING WALLS) & ASSOCIATED
+    WORKS GENERALLY IN ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1367&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: P19/1368
+  address: 66 Marine Drive SAFETY BEACH VIC 3936
+  description: 2 LOT SUBDIVISION, 2 DWELLINGS AND VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1368&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1369
+  address: 302 Myers Road MERRICKS NORTH VIC 3926
+  description: VEGETATION REMOVAL & DEVELOPMENT OF A COMMERCIAL CITRUS ORCHARD
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1369&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1371
+  address: 35 Cutwater Street HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1371&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1372
+  address: 19 Doe Street RYE VIC 3941
+  description: THE REMOVAL OF ONE (1) TREE AND ASSOCIATED WORKS IN ACCORDANCE WITH
+    THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1372&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P19/1374
+  address: 122 Coolart Road TUERONG VIC 3915
+  description: RE-SUBDIVISION INTO 2 LOTS - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1374&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1376
+  address: 988-990 Nepean Highway MORNINGTON VIC 3931
+  description: BUILDINGS AND WORKS (ASSOCIATED WITH THE USE OF THE LAND FOR COMMERCIAL)
+    IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1376&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1377
+  address: 18 Sylvan Drive ROSEBUD VIC 3939
+  description: 2 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1377&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1378
+  address: 9 Banks Street MCCRAE VIC 3938
+  description: 2 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1378&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1382
+  address: 38 Bass Street FLINDERS VIC 3929
+  description: Dwelling Additions, Decking and Detached Carport
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1382&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1383
+  address: 51 St Andrews Avenue ROSEBUD VIC 3939
+  description: DEVELOPMENT OF A FRONT FENCE AND ASSOCIATED WORKS IN ACCORDANCE WITH
+    THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1383&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1384
+  address: 2 Crawford Street MOUNT ELIZA VIC 3930
+  description: REMOVAL OF DRAINAGE EASEMENT - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1384&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P19/1385
+  address: 34 Mechanics Road RED HILL VIC 3937
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1385&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1386
+  address: 18 Balcombe Creek Close MOUNT MARTHA VIC 3934
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1386&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1387
+  address: 11 Carnoustie Grove MORNINGTON VIC 3931
+  description: DEVELOPMENT OF TWO DWELLINGS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1387&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1388
+  address: 1/18 Van Ness Avenue MORNINGTON VIC 3931
+  description: Construct/extend a front fence in residential zone
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1388&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1389
+  address: 5 Killick Street HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1389&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-07'
+- council_reference: P19/1390
+  address: 1/93 Koornalla Crescent MOUNT ELIZA VIC 3930
+  description: VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1390&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1393
+  address: 20 Rock Gardens DROMANA VIC 3936
+  description: Dwelling Additions
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1393&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P19/1395
+  address: 42 Loders Road MOOROODUC VIC 3933
+  description: CONSTRUCT CARPORT & DECK TO ONE DWELLING AND RETROSPECTIVE WORK TO
+    SECOND DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1395&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1396
+  address: 57 Ellerina Road MOUNT MARTHA VIC 3934
+  description: CONSTRUCTION OF A FRONT DECK AND WEATHERBOARD RESTORATION
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1396&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1397
+  address: 31A Governors Road CRIB POINT VIC 3919
+  description: EXTENSION ON THE EXISTING PAVILION AND DEMOLISH GRANDSTAND AND TOILET
+    BLOCK
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1397&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: P19/1398
+  address: 30A Pearce Street CRIB POINT VIC 3919
+  description: Construct/extend a front fence in residential zone
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1398&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P19/1399
+  address: 370 Nepean Highway MOUNT MARTHA VIC 3934
+  description: DEVELOPMENT OF ALFRESCO AND ASSOCIATED WORKS IN ACCORDANCE WITH THE
+    ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1399&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P19/1400
+  address: 47-51 Constantine Avenue ST ANDREWS BEACH VIC 3941
+  description: DEVELOPMENT OF SWIMMING POOL AND DECK ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1400&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1401
+  address: 430 Old Moorooduc Road TUERONG VIC 3915
+  description: Additions to existing barn and new machinery shed
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1401&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1402
+  address: 22 Bass Street FLINDERS VIC 3929
+  description: DEVELOPMENT OF DWELLING AND VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1402&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P19/1403
+  address: 9 Glenone Avenue DROMANA VIC 3936
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1403&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1404
+  address: 26 Roehampton Crescent MOUNT ELIZA VIC 3930
+  description: CONSTRUCTION OF A FRONT FENCE AND ASSOCIATED WORKS IN ACCORDANCE WITH
+    THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1404&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P19/1405
+  address: 20 Latham Street MORNINGTON VIC 3931
+  description: CHANGE USE OF LAND TO FOOD & DRINK PREMISES
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1405&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P19/1406
+  address: 1494 Stumpy Gully Road MOOROODUC VIC 3933
+  description: INCREASE EGG LAYING POULTRY
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1406&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P19/1407
+  address: 28A Milne Street CRIB POINT VIC 3919
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1407&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P19/1408
+  address: 15 Byahamee Street RYE VIC 3941
+  description: EARTHWORKS AND ASSOCIATED WORKS IN ACCORDANCE WITH THE ENDORSED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1408&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P19/1409
+  address: 46 Park Road SORRENTO VIC 3943
+  description: NEW DWELLING WITH POOL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1409&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P19/1410
+  address: Palya 3627 Point Nepean Road PORTSEA VIC 3944
+  description: 3627 Point Nepean Road Portsea - Development of Single Dwelling
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1410&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: P19/1411
+  address: 19 Arnott Street SORRENTO VIC 3943
+  description: BUILDING ADDITIONS AND ALTERATIONS AND A POOL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1411&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1412
+  address: 3 Barry Street ROSEBUD VIC 3939
+  description: 1 /3 Barry Street Rosebud - Construction of Carport
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1412&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: P19/1413
+  address: Ravinia 14 Campbells Road PORTSEA VIC 3944
+  description: DEVELOPMENT OF DWELLING ADDITIONS AND ASSOCIATED WORKS GENERALLY IN
+    ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1413&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1415
+  address: 6A Sinclair Avenue RYE VIC 3941
+  description: VARIATION OF RESTRICTION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1415&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: P19/1416
+  address: 57 Shoreham Road RED HILL SOUTH VIC 3937
+  description: 57 Shoreham Road Red Hill South - Additions to existing dwelling
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1416&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P19/1418
+  address: 99 Bungower Road SOMERVILLE VIC 3912
+  description: DEVELOPMENT OF SHED AND CARPORT
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1418&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P19/1419
+  address: 2141-2143 Point Nepean Road RYE VIC 3941
+  description: DEVELOPMENT OF SHOP ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1419&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P19/1420
+  address: 22 Cutwater Street HASTINGS VIC 3915
+  description: 22 Cutwater Street Hastings - Development of Single Dwelling
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1420&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P19/1421
+  address: 29 Marine Parade HASTINGS VIC 3915
+  description: CHANGE USE OF LAND TO PLACE OF ASSEMBLY
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1421&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P19/1423
+  address: 175 Marine Drive SAFETY BEACH VIC 3936
+  description: 175 Marine Drive Safety Beach - Re-build Top and Bottom Balcony
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1423&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: P19/1424
+  address: 39 Erang Drive MOUNT ELIZA VIC 3930
+  description: DEVELOPMENT OF A GARAGE AND ASSOCIATED WORKS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1424&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P19/1426
+  address: 28 Murray-Anderson Road ROSEBUD VIC 3939
+  description: 28 Murray-Anderson Road Rosebud - Extend an existing Outbuilding
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1426&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1427
+  address: 14 Newton Street MOUNT MARTHA VIC 3934
+  description: Dwelling additions including garage
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1427&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1430
+  address: 369 Arthurs Seat Road RED HILL VIC 3937
+  description: CARPORT
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1430&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1431
+  address: 48 Rainier Avenue DROMANA VIC 3936
+  description: Development of Second Dwelling
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1431&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1432
+  address: 24 Booker Rise BITTERN VIC 3918
+  description: Development of Dwelling
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1432&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1434
+  address: 1/48 Collins Road DROMANA VIC 3936
+  description: 3 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1434&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1435
+  address: 19 Helena Street MOUNT MARTHA VIC 3934
+  description: DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1435&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: P19/1436
+  address: 16 Barton Street BLAIRGOWRIE VIC 3942
+  description: DEVELOPMENT OF DWELLING ADDITIONS & ALTERATIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1436&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: P19/1437
+  address: 52 Collins Road DROMANA VIC 3936
+  description: 12 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1437&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1438
+  address: 91 Sandy Road FINGAL VIC 3939
+  description: VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1438&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: P19/1442
+  address: 10 Moonah Drive CAPE SCHANCK VIC 3939
+  description: DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1442&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P19/1445
+  address: 241 Arthurs Seat Road RED HILL VIC 3937
+  description: Additions and Alterations to existing dwelling
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1445&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P19/1446
+  address: 38 Callanans Road RED HILL SOUTH VIC 3937
+  description: DEVELOPMENT OF A SHED
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1446&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P19/1447
+  address: 129 Wooralla Drive MOUNT ELIZA VIC 3930
+  description: NEW DWELLING & TREE REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1447&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1448
+  address: 480 Purves Road MAIN RIDGE VIC 3928
+  description: REMOVAL OF EXISTING DAM & INSTALLATION OF NEW DAM
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1448&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1449
+  address: 54-56 Fourth Avenue ROSEBUD VIC 3939
+  description: DEVELOPMENT OF THREE DOUBLE STOREY DWELLINGS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1449&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1450
+  address: 2A Cloud Street ARTHURS SEAT VIC 3936
+  description: Development of an outbuilding and vegetation removal
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1450&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P19/1451
+  address: 4 Fifth Avenue ROSEBUD VIC 3939
+  description: DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1451&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P19/1452
+  address: Waanyarra 261 Musk Creek Road FLINDERS VIC 3929
+  description: BUILDING WORKS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1452&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P19/1453
+  address: 43 Cutwater Street HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1453&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P19/1454
+  address: 263-267 Canadian Bay Road MOUNT ELIZA VIC 3930
+  description: FOUR DWELLINGS & 4 LOT SUBDIVISION
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1454&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P19/1456
+  address: 109-111 Fifth Avenue ROSEBUD VIC 3939
+  description: 2 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1456&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P19/1457
+  address: 23 Birdrock Avenue MOUNT MARTHA VIC 3934
+  description: DEMOLITION OF EXISTING DWELLING AND DEVELOPMENT OF REPLACEMENT DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1457&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P19/1458
+  address: 19 Raymond Street TOOTGAROOK VIC 3941
+  description: Development of a replacement dwelling and associated vegetation removal
+    and works
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1458&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P19/1460
+  address: 30 Shearwater Drive MOUNT MARTHA VIC 3934
+  description: DEVELOPMENT OF DWELLING AND VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1460&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P19/1461
+  address: 2 Oxley Court SOMERS VIC 3927
+  description: CONSTRUCTION OF A SHED
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1461&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P19/1462
+  address: 23 Staughton Avenue CAPEL SOUND VIC 3940
+  description: Development of three dwellings and associated works
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1462&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P19/1463
+  address: 3 Oak Grove MOUNT ELIZA VIC 3930
+  description: CONSTRUCTION OF A GARAGE CARPORT AND SHED
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1463&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P19/1464
+  address: 9 Beauford Road RED HILL SOUTH VIC 3937
+  description: DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1464&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P19/1467
+  address: 81 Lyons Street RYE VIC 3941
+  description: CONSTRUCTION OF A BALCONY EXTENSION
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1467&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: P19/1468
+  address: 66 Bass Meadows Boulevard ST ANDREWS BEACH VIC 3941
+  description: DEVELOPMENT OF A DWELLING AND GARAGE
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1468&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P19/1469
+  address: 8 Sylvan Drive ROSEBUD VIC 3939
+  description: CONSTRUCTION OF CARPORT AND ROOFED DECK
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1469&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P19/1470
+  address: 1/8 Tangerine Court MOUNT MARTHA VIC 3934
+  description: MODIFY EXISTING PATIO AND FIT ROOF
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1470&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: P19/1476
+  address: 10 Tuerong Street RYE VIC 3941
+  description: DEVELOPMENT OF A DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1476&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P19/1477
+  address: 53 Hopetoun Avenue MOUNT MARTHA VIC 3934
+  description: DEVELOPMENT OF TWO DWELLINGS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1477&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P19/1478
+  address: 1/36 Hakea Drive MOUNT MARTHA VIC 3934
+  description: DEVELOPMENT OF FENCE AND DECK
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1478&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: P19/1479
+  address: 196 Marine Parade HASTINGS VIC 3915
+  description: DEVELOPMENT OF FOUR WAREHOUSES AND SUBDIVISION
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1479&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P19/1480
+  address: 2 Coimadai Court MORNINGTON VIC 3931
+  description: DEVELOPMENT OF ALTERATIONS AND ADDITIONS TO EXISTING DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1480&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P19/1481
+  address: 24 Ponyara Road MOUNT MARTHA VIC 3934
+  description: DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1481&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P19/1482
+  address: 2A Stokes Street FLINDERS VIC 3929
+  description: DEVELOPMENT OF A DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1482&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P19/1483
+  address: 6 Suffolk Street ROSEBUD VIC 3939
+  description: 3 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1483&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: P19/1485
+  address: 10 Dixie Close TOOTGAROOK VIC 3941
+  description: DEVELOP SPLIT LEVEL DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1485&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: P19/1486
+  address: 4-6 Edward Street HASTINGS VIC 3915
+  description: 6 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1486&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P19/1487
+  address: 1/20 Napier Street MORNINGTON VIC 3931
+  description: DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1487&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: P19/1488
+  address: 51 Rosemore Road ROSEBUD VIC 3939
+  description: 3 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1488&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P19/1489
+  address: 221 Coolart Road HASTINGS VIC 3915
+  description: PROPOSED SIX (6) KENNELS WITH FENCING AND CHANGE OF USE
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1489&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: P19/1490
+  address: 19A Spindrift Avenue FLINDERS VIC 3929
+  description: BUILDING WORKS AND VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1490&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: P19/1491
+  address: 18 Weir Street RYE VIC 3941
+  description: TWO DWELLINGS ON A LOT WITH ASSOCIATED EARTH WORKS AND VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1491&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: P19/1492
+  address: 854 Melbourne Road SORRENTO VIC 3943
+  description: DEMOLITION OF EXISTING BUILDING, CHANGE USE OF LAND AND CONSTRUCTION
+    OF A MIXED USE DEVELOPMENT
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1492&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: P19/1493
+  address: 7 Highview Court RYE VIC 3941
+  description: ADDITIONS AND ALTERATIONS TO EXISTING DWELLINGS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1493&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: P19/1495
+  address: 7 Meadow Lane MOUNT ELIZA VIC 3930
+  description: EXTEND FENCE AND VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1495&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: P19/1496
+  address: 2 Jackson Way DROMANA VIC 3936
+  description: RECTIFICATION WORKS TO THE RETAINING WALLS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1496&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P19/1497
+  address: 430 Purves Road MAIN RIDGE VIC 3928
+  description: REPLACEMENT OF SHED
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1497&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P19/1500
+  address: 19 Stringer Road BLAIRGOWRIE VIC 3942
+  description: DEVELOPMENT OF DWELLING ADDITIONS AND PARTIAL DEMOLITION OF EXISTING
+    DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1500&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: P19/1503
+  address: 19 Fusta Lane HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1503&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1504
+  address: 17 Fusta Lane HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1504&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1505
+  address: 15 Fusta Lane HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1505&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1506
+  address: 13 Fusta Lane HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1506&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1507
+  address: 11 Fusta Lane HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1507&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1508
+  address: 9 Fusta Lane HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1508&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1509
+  address: 7 Fusta Lane HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1509&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1510
+  address: 5 Fusta Lane HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1510&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1511
+  address: 6 Farey Avenue DROMANA VIC 3936
+  description: CONSTRUCTION OF A DECK
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1511&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: P19/1512
+  address: 3 Fusta Lane HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1512&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1513
+  address: 1 Fusta Lane HASTINGS VIC 3915
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1513&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1514
+  address: 394 Eastbourne Road ROSEBUD VIC 3939
+  description: DEVELOPMENT OF ADDITIONAL DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1514&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: P19/1515
+  address: 1 Fleming Street SAFETY BEACH VIC 3936
+  description: DEVELOPMENT OF DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1515&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: P19/1516
+  address: 2 Barossa Court MOUNT MARTHA VIC 3934
+  description: VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1516&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: P19/1517
+  address: 30 Nobby Street POINT LEO VIC 3916
+  description: DECK EXTENSION
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1517&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1518
+  address: 66A Elizabeth Avenue CAPEL SOUND VIC 3940
+  description: VARIATION OF RED LINE
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1518&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P19/1521
+  address: 15 Yarrayne Street RYE VIC 3941
+  description: DEVELOPMENT OF DWELLING
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1521&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: P19/1522
+  address: 6 Eliza Street BLAIRGOWRIE VIC 3942
+  description: DEVELOPMENT OF DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1522&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P19/1523
+  address: 1 Devon Street ROSEBUD VIC 3939
+  description: 2 DWELLINGS & 2 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1523&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P19/1524
+  address: 5 Kalimna Drive MORNINGTON VIC 3931
+  description: DEVELOPMENT OF EXTERNAL STAIRCASE
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1524&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P19/1529
+  address: 19 Meribil Close MOUNT ELIZA VIC 3930
+  description: VEGETATION REMOVAL
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1529&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P19/1533
+  address: 21 Russell Street TOOTGAROOK VIC 3941
+  description: DEVELOPMENT OF TWO (2) SHIPPING CONTAINERS FOR STORAGE PURPOSES
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1533&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P19/1534
+  address: 7 Frederick Street RED HILL VIC 3937
+  description: REMOVAL OF ONE OR MORE TREES
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1534&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P19/1537
+  address: 8 Gray Street MOUNT MARTHA VIC 3934
+  description: DEVELOPMENT OF DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1537&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P19/1538
+  address: 31 Tarakan Street SORRENTO VIC 3943
+  description: DEVELOPMENT OF DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1538&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: P19/1539
+  address: 9 McCallum Street HASTINGS VIC 3915
+  description: 4 LOT SUBDIVISION - SPEAR
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P19%2F1539&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-22'
+- council_reference: P97/0954.01
+  address: 23 Elizabeth Road PORTSEA VIC 3944
+  description: DWELLING ADDITIONS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P97%2F0954.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: P99/0531.41
+  address: 140 Springs Lane FINGAL VIC 3939
+  description: GEOTHERMAL SPA BASED HEALTH & RELAXATION CENTRE
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P99%2F0531.41&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: P99/1735.02
+  address: 74 Lady Nelson Drive SORRENTO VIC 3943
+  description: DEVELOPMENT OF DWELLING ADDITIONS AND ASSOCIATED WORKS GENERALLY IN
+    ACCORDANCE WITH THE SUBMITTED PLANS
+  info_url: https://epeninsula.mornpen.vic.gov.au/P1PRPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=P99%2F1735.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'

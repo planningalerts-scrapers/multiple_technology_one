@@ -1,0 +1,639 @@
+---
+- council_reference: '080/0156/19.01'
+  address: 54 Catherine Street LOWER MITCHAM SA 5062
+  description: Variation to DA 080 0156 19 - Convert Carport to Garage with Wall on
+    Eastern Rear Boundary
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0156%2F19.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: '080/0172/19'
+  address: 291 Belair Road TORRENS PARK SA 5062
+  description: Internal Dwelling Alterations and Construction of a Domestic Outbuilding
+    (Garage)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0172%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: '080/0191/19'
+  address: 2 Ritz Boulevard PASADENA SA 5042
+  description: Single Storey Detached Dwelling
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0191%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: '080/0424/19'
+  address: 526 Fullarton Road NETHERBY SA 5062
+  description: Upper Level Gym (Above Existing Studio) & Arborium (On Two Boundaries)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0424%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: '080/0564/19'
+  address: 73 Hawthorndene Drive GLENALTA SA 5052
+  description: Split Level Two Storey Detached Dwelling, Earthworks and Associated
+    Retaining
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0564%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: '080/0573/19'
+  address: 899-901 South Road CLARENCE GARDENS SA 5039
+  description: Change of Use - Fitness Centre to Doctors Surgery and Disable Toilet
+    Addition
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0573%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: '080/0583/19'
+  address: 2/93 Winston Avenue DAW PARK SA 5041
+  description: Change of Use from Shop to Consulting Rooms (Chiropractic)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0583%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: '080/0592/19'
+  address: 32 Day Avenue DAW PARK SA 5041
+  description: Dependent Relative Accommodation
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0592%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: '080/0604/19'
+  address: 13 Yalpara Street EDEN HILLS SA 5050
+  description: Detached Outbuilding (Shed)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0604%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: '080/0607/19'
+  address: 46 Penno Parade South BLACKWOOD SA 5051
+  description: Demolish Brick Garage
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0607%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: '080/0611/19'
+  address: 2 Garden Road WESTBOURNE PARK SA 5041
+  description: Enclosed Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0611%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: '080/0615/19'
+  address: 6A Kilbryde Road TORRENS PARK SA 5062
+  description: Verandah & Deck to Boundary
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0615%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: '080/0618/19'
+  address: 65 Rockville Avenue DAW PARK SA 5041
+  description: Enclosed Portico (forward of dwelling)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0618%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: '080/0626/19'
+  address: 42 Burnell Drive BELAIR SA 5052
+  description: Shed
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0626%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: '080/0627/19'
+  address: 6 Haig Street NETHERBY SA 5062
+  description: Construct Two Single Storey Semi-Detached Dwellings & Divide Land to
+    Create One(1) Additional Allotment (1:2) (Non-Complying)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0627%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: '080/0629/19'
+  address: 15 Californian Crescent GLENALTA SA 5052
+  description: Freestanding Carport (forward of dwelling)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0629%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: '080/0634/19'
+  address: 7 Winns Road BLACKWOOD SA 5051
+  description: Above Ground Swimming Pool
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0634%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: '080/0635/19'
+  address: 24 Centre Way BELAIR SA 5052
+  description: Detached Shed
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0635%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: '080/0636/19'
+  address: 46 Carrick Hill Drive SPRINGFIELD SA 5062
+  description: Re-Instatement of Queens Entry Walk
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0636%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: '080/0638/19'
+  address: 19 Lisburne Avenue MITCHAM SA 5062
+  description: Two-storey Alterations & Additions, Upper and Lower Level Deck, Spa/Swimming
+    Pool and Retaining Walls
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0638%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: '080/0640/19'
+  address: 14 Hillview Road KINGSWOOD SA 5062
+  description: Demolition All Existing Structures (Group of Units)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0640%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: '080/0641/19'
+  address: 5 Sturtbrae Crescent BELLEVUE HEIGHTS SA 5050
+  description: Swimming Pool & Safety Fence
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0641%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: '080/0643/19'
+  address: 6 Mortlock Street CLAPHAM SA 5062
+  description: Demolition All Existing Structures
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0643%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: '080/0644/19'
+  address: 8 Deane Avenue BELAIR SA 5052
+  description: Single Storey Dwelling Addition
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0644%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: '080/0645/19'
+  address: 33 Brook Street TORRENS PARK SA 5062
+  description: Attached Carport
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0645%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: '080/0646/19'
+  address: 11 Naomi Terrace PASADENA SA 5042
+  description: Remove One (1) Regulated Tree
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0646%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: '080/0647/19'
+  address: 27 Red Road BLACKWOOD SA 5051
+  description: Demolish All Existing Structures
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0647%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: '080/0648/19'
+  address: 95 Springbank Road CLAPHAM SA 5062
+  description: Fence on top of Retaining
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0648%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: '080/0649/19'
+  address: 41 Main Road BELAIR SA 5052
+  description: Swimming Pool & Safety Fence
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0649%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: '080/0650/19'
+  address: 49 Wilpena Street EDEN HILLS SA 5050
+  description: Freestanding Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0650%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: '080/0651/19'
+  address: 5 Inverloch Avenue TORRENS PARK SA 5062
+  description: Divide Land to Create One Additional Allotment (1:2)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0651%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: '080/0652/19'
+  address: 46 Lloyd Street ST MARYS SA 5042
+  description: Demolish All Existing Structures
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0652%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: '080/0653/19'
+  address: 29 Birdwood Street NETHERBY SA 5062
+  description: Filtration Equipment & Retaining Wall
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0653%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: '080/0654/19'
+  address: 15 Clifton Street HAWTHORN SA 5062
+  description: Free-standing Carport
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0654%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: '080/0655/19'
+  address: Windsor Avenue COLONEL LIGHT GARDENS SA 5041
+  description: Section 49 Application - Covered Outdoor Learning Area
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0655%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: '080/0656/19'
+  address: 15 Bellevue Drive BELLEVUE HEIGHTS SA 5050
+  description: 2 two-storey Semi-Detached Dwellings each with garage under main roof,
+    associated retaining walls and earthworks.
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0656%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: '080/0657/19'
+  address: Sturt Road BEDFORD PARK SA 5042
+  description: Internal Alterations to Sturt Building Cafeteria
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0657%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: '080/0658/19'
+  address: 25 Price Avenue LOWER MITCHAM SA 5062
+  description: Swimming Pool & Safety Fence
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0658%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: '080/0659/19'
+  address: 9 Wilpena Street EDEN HILLS SA 5050
+  description: Cover Existing Pergola
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0659%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: '080/0660/19'
+  address: 91 Blackwood Park Boulevard CRAIGBURN FARM SA 5051
+  description: Two Storey Dwelling, Garage, Portico & Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0660%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: '080/0662/19'
+  address: 36 Hannaford Road BLACKWOOD SA 5051
+  description: Carports (x 2), Verandah & Relocation of Swimming Pool Safety Barrier
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0662%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: '080/0663/19'
+  address: 37 Wonoka Street EDEN HILLS SA 5050
+  description: Verandah & Deck
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0663%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: '080/0664/19'
+  address: 28 Prince George Parade COLONEL LIGHT GARDENS SA 5041
+  description: Swimming Pool & Safety Fence
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0664%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: '080/0665/19'
+  address: 6 Symon Crescent CRAIGBURN FARM SA 5051
+  description: Two Storey Dwelling, Garage, Verandah & Portico
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0665%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: '080/0666/19'
+  address: 72 Carlisle Road WESTBOURNE PARK SA 5041
+  description: Attached Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0666%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: '080/0667/19'
+  address: 2 Penno Parade North BELAIR SA 5052
+  description: Demolish All Existing Structures
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0667%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: '080/0668/19'
+  address: 6 Mortlock Street CLAPHAM SA 5062
+  description: Create One Additional Allotment (1:2)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0668%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: '080/0669/19'
+  address: 16 Wonoka Street EDEN HILLS SA 5050
+  description: Divide Land To Create Two Additional Allotments (2:4)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0669%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: '080/0670/19'
+  address: 14 Verco Avenue LOWER MITCHAM SA 5062
+  description: Shed
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0670%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: '080/0671/19'
+  address: 27 Bermuda Way GLENALTA SA 5052
+  description: Two (2) Attached Verandahs
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0671%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: '080/0673/19'
+  address: 1-2/216 Daws Road DAW PARK SA 5041
+  description: Minor Alterations & Internal Refurbishment of Building C for SA Health
+    Older Persons Mental Health Services at Repat Health & Wellbeing Precinct
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0673%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: '080/0674/19'
+  address: 16 Wonoka Street EDEN HILLS SA 5050
+  description: Divide Land to Create Two additional Community Title Lots (1:3)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0674%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: '080/0675/19'
+  address: 11 Haig Street NETHERBY SA 5062
+  description: Front Pillar Fence
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0675%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: '080/0676/19'
+  address: 45 Richmond Avenue COLONEL LIGHT GARDENS SA 5041
+  description: Dwelling Additions, Carport and Associated Demolition
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0676%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: '080/0677/19'
+  address: 6 King Edward Avenue HAWTHORN SA 5062
+  description: Dwelling Alterations & Additions including Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0677%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: '080/0678/19'
+  address: 16 Hughes Court CRAIGBURN FARM SA 5051
+  description: Internal Alterations
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0678%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: '080/0679/19'
+  address: 11 Auricchio Avenue ST MARYS SA 5042
+  description: Fibreglass Inground Swimming Pool
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0679%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: '080/0680/19'
+  address: 27 Rothesay Avenue ST MARYS SA 5042
+  description: Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0680%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: '080/0681/19'
+  address: 32 Sylvan Way GLENALTA SA 5052
+  description: Freestanding Carport (Forward of Dwelling)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0681%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: '080/0682/19'
+  address: 44 French Street NETHERBY SA 5062
+  description: Single Storey Alterations & Additions Including Rear Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0682%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: '080/0683/19'
+  address: 15 Bellevue Drive BELLEVUE HEIGHTS SA 5050
+  description: Torrens Title Land Division - One Allotment into Two (1:2)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0683%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: '080/0684/19'
+  address: 31 Gum Grove BELAIR SA 5052
+  description: Land Division - One Allotment into Two (1:2)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0684%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: '080/0686/19'
+  address: 23-51 Carruth Road TORRENS PARK SA 5062
+  description: Demolition of Existing Storage Shed
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0686%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: '080/0687/19'
+  address: 2 Rowallan Road TORRENS PARK SA 5062
+  description: Attached Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0687%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: '080/0688/19'
+  address: Price Memorial Oval Hawthorn Crescent HAWTHORN SA 5062
+  description: Construction of a Shade/Shelter Structure on Western Boundary (Including
+    Storage) and Installation of an Artificial Turf Area on Existing Croquet Field
+    at Price Memorial Oval
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0688%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: '080/0689/19'
+  address: 61 Halsbury Avenue KINGSWOOD SA 5062
+  description: Attached Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0689%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: '080/0690/19'
+  address: 3 Crescent Avenue PANORAMA SA 5041
+  description: Two Storey Dwelling, Garage & Balcony
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0690%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: '080/0691/19'
+  address: 2A Gladys Street CLARENCE GARDENS SA 5039
+  description: Attached Verandah Between Workshop & Office
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0691%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: '080/0692/19'
+  address: 11 Heather Avenue NETHERBY SA 5062
+  description: Demolish All Existing Structures
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0692%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: '080/0693/19'
+  address: 241 Belair Road TORRENS PARK SA 5062
+  description: Demolition of Existing Structures
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0693%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: '080/0694/19'
+  address: 243 Belair Road TORRENS PARK SA 5062
+  description: Demolish All Existing Structures
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0694%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: '080/0695/19'
+  address: 2 Bedford Square COLONEL LIGHT GARDENS SA 5041
+  description: Alterations and Additions to Dwelling Including Deck at Rear
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0695%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: '080/0696/19'
+  address: 39A Lloyd Street ST MARYS SA 5042
+  description: Freestaning Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0696%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: '080/0697/19'
+  address: 4 Alta Mira Crescent BELAIR SA 5052
+  description: Alterations & Additions to Dwelling Including Upper Storey Addition
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0697%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: '080/0698/19'
+  address: 55 Kyre Avenue KINGSWOOD SA 5062
+  description: Dependent Relative Accommodation and Additions to Existing Verandah
+    and Carport
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0698%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: '080/0699/19'
+  address: 40 Barr-Smith Drive URRBRAE SA 5064
+  description: Dwelling Alterations & Additions
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0699%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: '080/0700/19'
+  address: 78 Dinwoodie Avenue CLARENCE GARDENS SA 5039
+  description: Dwelling Alterations & Additions & Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0700%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: '080/0701/19'
+  address: 91 Avenue Road CLARENCE GARDENS SA 5039
+  description: Freestanding Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0701%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: '080/0702/19'
+  address: 6 Jennifer Avenue BELLEVUE HEIGHTS SA 5050
+  description: Replacement Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0702%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: '080/0703/19'
+  address: 16 Jervois Street HAWTHORN SA 5062
+  description: Demolish All Existing Structures
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0703%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: '080/0704/19'
+  address: 42 Blackwood Park Boulevard CRAIGBURN FARM SA 5051
+  description: Single Storey Detached Dwelling with garage under main roof, associated
+    excavation, fill and retaining walls (up to 1m high).
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0704%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: '080/0705/19'
+  address: 4 Constance Street WESTBOURNE PARK SA 5041
+  description: Dwelling Addition & Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0705%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: '080/0706/19'
+  address: 5 Eli Street TORRENS PARK SA 5062
+  description: Attached Verandah
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0706%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: '080/0708/19'
+  address: 34 William Street HAWTHORN SA 5062
+  description: In Ground Swimming Pool & Pool Safety Fence
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0708%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: '080/0709/19'
+  address: 28A Bideford Avenue CLARENCE GARDENS SA 5039
+  description: Demolish All Existing Structures
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0709%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: '080/0710/19'
+  address: 5 Kyre Avenue KINGSWOOD SA 5062
+  description: Remove One Regulated Tree
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0710%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: '080/0711/19'
+  address: 30 Day Avenue DAW PARK SA 5041
+  description: Dwellings
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0711%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: '080/0713/19'
+  address: 8 Clarence Street BLACKWOOD SA 5051
+  description: Two Storey Detached Dwelling
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0713%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: '080/0714/19'
+  address: 13 Ayr Avenue TORRENS PARK SA 5062
+  description: Create One Additional Allotment (1:2)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0714%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: '080/0715/19'
+  address: 11 Maslin Street CRAIGBURN FARM SA 5051
+  description: Single Storey Detached Dwelling with garage under main roof, associated
+    excavation, fill and retaining walls (up to 1.2m high).
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0715%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: '080/0717/19'
+  address: 4 Symon Crescent CRAIGBURN FARM SA 5051
+  description: Vary DA 080/1497/2004 - Vary Condition to Allow Removal of One Regulated
+    & One Significant Tree
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0717%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: '080/0719/19'
+  address: 42 Quinlan Avenue ST MARYS SA 5042
+  description: Divide Land to Create One Additional Allotment (1:2)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0719%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: '080/0720/19'
+  address: 23 Symon Crescent CRAIGBURN FARM SA 5051
+  description: Single Storey Detached Dwelling
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0720%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: '080/0722/19'
+  address: 12 Dudley Avenue DAW PARK SA 5041
+  description: Demolish All Existing Structures
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0722%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: '080/0724/19'
+  address: 215 Belair Road TORRENS PARK SA 5062
+  description: Demolish All Existing Structures and Construct 2 Two Storey Group Dwellings
+    & One Single Storey Group Dwelling
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0724%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: '080/0725/19'
+  address: 58 Gladys Street CLARENCE GARDENS SA 5039
+  description: Remove Two (2) Regulated Trees
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0725%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: '080/0726/19'
+  address: 20 Wattle Avenue LOWER MITCHAM SA 5062
+  description: Verandah (Retrospective)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0726%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: '080/0728/19'
+  address: 23 Monmouth Road WESTBOURNE PARK SA 5041
+  description: Boundary Re-Alignment (2:2)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0728%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: '080/0729/19'
+  address: 55 Murray Street LOWER MITCHAM SA 5062
+  description: Garage on Boundaries
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0729%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: '080/0731/19'
+  address: 23-51 Carruth Road TORRENS PARK SA 5062
+  description: Disability Access Ramps (Torrens House Administration Building)
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0731%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: '080/0733/19'
+  address: 25 Argyll Walk BELLEVUE HEIGHTS SA 5050
+  description: Vary DA 080/0744/1998 to Divide Land - Variation to Condition of Approval
+    To Allow for the Removal of Three (3) Eucalyptus microcarpa
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0733%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: '080/0742/19'
+  address: 5 Abercrombie Street CLARENCE GARDENS SA 5039
+  description: Dwelling Addition
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0742%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: '080/0752/18.01'
+  address: 16A Argyll Walk BELLEVUE HEIGHTS SA 5050
+  description: 'Vary DA 080/0752/18 To Construct a Single Storey Detached Dwelling
+    with Garage on Boundary, Associated Retaining Walls and Earthworks: (STAGE 1:
+    sewer connection, retaining walls, earth works, footing (full engineer report
+    except steel beams and columns). STAGE 2: steel frame wall and roof design and
+    full documentation) - New Fill area & Batter Slope at Backyard'
+  info_url: https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=080%2F0752%2F18.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'

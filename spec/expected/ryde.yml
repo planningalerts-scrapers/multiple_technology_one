@@ -1,0 +1,370 @@
+---
+- council_reference: APL2019/0006
+  address: 43 Thompson St GLADESVILLE NSW 2111
+  description: Section 8.3 application for review of determination of LDA2018/0480
+    which proposed a dual occupancy development and strata subdivision, This application
+    was refused by Council and the applicant has requested that Council review this
+    determination.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=APL2019%2F0006&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: LDA2019/0177
+  address: 17-19 Ryedale Rd WEST RYDE NSW 2114
+  description: Fitout and use as a dental surgery signage.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0177&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: LDA2019/0178
+  address: 4 Champion Rd TENNYSON POINT NSW 2111
+  description: New two storey dwelling.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0178&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: LDA2019/0179
+  address: 11 Norma Ave EASTWOOD NSW 2122
+  description: New Carport and roof over existing patio
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0179&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: LDA2019/0180
+  address: 27 Wood St EASTWOOD NSW 2122
+  description: Alterations and additions to dwelling including a new deck and roof.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0180&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: LDA2019/0181
+  address: 2A Hinkler Ave RYDE NSW 2112
+  description: Torrens Title Subdivision of existing Dual Occupancy (attached)
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0181&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: LDA2019/0182
+  address: 13 Charles St RYDE NSW 2112
+  description: Demolition of existing building and construction of a two storey dwelling
+    house
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0182&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: LDA2019/0183
+  address: 14 Payten St PUTNEY NSW 2112
+  description: Two storey dwelling and in ground swimming pool.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0183&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: LDA2019/0184
+  address: 499 Victoria Rd RYDE NSW 2112
+  description: Proposed Signage
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0184&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: LDA2019/0185
+  address: 24 Donnelly St PUTNEY NSW 2112
+  description: Construct a double carport
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0185&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: LDA2019/0186
+  address: 1/190-192 Princes St PUTNEY NSW 2112
+  description: New swimming pool and associated fencing within front setback area
+    of dwelling
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0186&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: LDA2019/0187
+  address: 16 Cooper St MARSFIELD NSW 2122
+  description: Additions and alterations to dwelling
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0187&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: LDA2019/0188
+  address: 24 Richmond St DENISTONE EAST NSW 2112
+  description: Dual Occupancy (attached) and Strata Subdivision
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0188&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: LDA2019/0189
+  address: 144-148 Cox's Rd NORTH RYDE NSW 2113
+  description: Alterations & additions to the existing building to accommodate 135
+    place child care centre on the first floor. The hours of operation are between
+    6:30am and 7:00pm Monday to Friday. The development also involves a change of
+    use of tenancy 5 and 7 on the ground floor to office, increasing in parking from
+    56 to 58 spaces, 2 business identification signs and strata subdivision.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0189&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: LDA2019/0190
+  address: 3 Pate Ave EAST RYDE NSW 2113
+  description: To demolish and construct a dual occupancy attached
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0190&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: LDA2019/0191
+  address: 8 Osgathorpe Rd GLADESVILLE NSW 2111
+  description: Strata Subdivision of existing dual occupancy (attached)
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0191&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: LDA2019/0192
+  address: 18 Moss St WEST RYDE NSW 2114
+  description: Strata Subdivision of Dual occupancy attached.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0192&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: LDA2019/0193
+  address: 9 Bennett St WEST RYDE NSW 2114
+  description: New Two Storey Dwelling.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0193&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: LDA2019/0194
+  address: 11 Lumsdaine Ave EAST RYDE NSW 2113
+  description: Demolition, New two storey dual occupancy (attached) and strata title
+    subdivision.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0194&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: LDA2019/0195
+  address: 459 Victoria Rd GLADESVILLE NSW 2111
+  description: Change of use of part of existing car wash premises for sale of motor
+    vehicle.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0195&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: LDA2019/0196
+  address: 46 David Ave NORTH RYDE NSW 2113
+  description: Torrens Title subdivision of existing dual occupancy (attached).
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0196&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: LDA2019/0197
+  address: 10 Pile St GLADESVILLE NSW 2111
+  description: New secondary dwelling on top of existing carport.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0197&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: LDA2019/0198
+  address: 42 Ryedale Rd DENISTONE NSW 2114
+  description: Alterations and additions to dwelling including ground floor extension
+    to the front and rear, first floor addition and new terrace, pergola and pool
+    to the rear.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0198&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: LDA2019/0199
+  address: 15 Halifax St MACQUARIE PARK NSW 2113
+  description: Fitout of supermarket & liquor store & alterations to shop fitout
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0199&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: LDA2019/0200
+  address: 15 Morvan St DENISTONE WEST NSW 2114
+  description: Torrens Title Subdivision of Dual Occupancy Attached
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0200&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: LDA2019/0201
+  address: 21 Lumsdaine Ave EAST RYDE NSW 2113
+  description: Two storey dwelling
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0201&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: LDA2019/0202
+  address: 6 Woorang St EASTWOOD NSW 2122
+  description: Torrens title subdivision of existing dual occupancy (attached)
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0202&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: LDA2019/0203
+  address: 26 Osborne Ave PUTNEY NSW 2112
+  description: Dual occupancy attached
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0203&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: LDA2019/0204
+  address: 39 Hollis Ave DENISTONE EAST NSW 2112
+  description: Proposed demolition of existing dwelling and construction of dual occupancy
+    (attached)
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0204&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: LDA2019/0205
+  address: 1011 Victoria Rd WEST RYDE NSW 2114
+  description: Change of operating hours to 24 hours a day for the existing gym and
+    one business identification sign facing Graf Avenue.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0205&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: LDA2019/0206
+  address: 45 Rowe St EASTWOOD NSW 2122
+  description: Change of hours 7am to 10pm Monday to Sunday
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0206&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: LDA2019/0207
+  address: 25 Pellisier Rd PUTNEY NSW 2112
+  description: Two lot Torrens Subdivision
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDA2019%2F0207&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: MOD2019/0085
+  address: 112 Talavera Rd MACQUARIE PARK NSW 2113
+  description: Section 4.55(1A) application to modify condition 31 relating to tree
+    removal.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0085&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: MOD2019/0086
+  address: 16 Cecil St DENISTONE EAST NSW 2112
+  description: Section 4.55(1A) application to modify the approved dual occupancy
+    with changes to the roof over the alfresco area to colourbond sheets and a skillion
+    and the addition of a brick wall to the alfresco area on the side boundaries.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0086&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: MOD2019/0087
+  address: 99 Elliott Ave EAST RYDE NSW 2113
+  description: Section 4.55(2) to modify the approved dual occupancy by enclosing
+    the originally recessed walls on the side façades, repositioning the rear lounge
+    walls on the ground floor, extending the first floor inner front façade and changes
+    to the windows.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0087&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: MOD2019/0088
+  address: 1 Glen St EASTWOOD NSW 2122
+  description: Section 4.55(1A) to amend condition 34 and delete conditions 35 & 105
+    relating to public domain works.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0088&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: MOD2019/0089
+  address: 723-731 Victoria Rd RYDE NSW 2112
+  description: Modification under S4.55(1A) to vary condition 69 under MOD2017/85
+    regarding stormwater connection
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0089&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: MOD2019/0090
+  address: 6 Bass St PUTNEY NSW 2112
+  description: "Section 4.55(1A) application to approve DA for alterations and additions
+    to the dwelling. The changes include:\r\ni) Modification of landscaping and retaining
+    walls\r\nii) Reduction in size of balcony on ground floor & changes to roof over\r\niii)
+    Increase in the height of the floor to ceiling but no change to the overall height\r\niv)
+    Other internal changes"
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0090&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: MOD2019/0091
+  address: 17 Tyrell St GLADESVILLE NSW 2111
+  description: Ground and first floor additions to the existing dwelling
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0091&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: MOD2019/0092
+  address: 38 Jopling St NORTH RYDE NSW 2113
+  description: S4.55 (1A) to remove condition 26 & 68 of LDA2016/0075
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0092&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: MOD2019/0093
+  address: 6 Eltham St GLADESVILLE NSW 2111
+  description: "Section 4.55(1A) to modify the approved dual occupancy as follows:
+    \r\n•\tInternal layout changes to units 1 & 2\r\n•\tRelocation of the deck and
+    swimming pool of unit 2\r\n•\tRelocation of unit 2 garage to align with unit 1
+    garage\r\n•\tProvision of a balcony on the first floor of unit 2\r\n•\tChanges
+    to the windows within units 1 & 2"
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0093&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: MOD2019/0094
+  address: 12 Putney Pde PUTNEY NSW 2112
+  description: "Section 4.55(2) to modify approved dwelling as follows: \r\n•\tplant
+    room added to approved basement level \r\n•\tnew subfloor added proposing plant
+    and storage areas\r\n•\tpool relocated\r\n•\tmodification to layout and extension
+    to floor space & terraces on ground and first floors\r\n•\tassociated changes
+    to the elevations"
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0094&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: MOD2019/0095
+  address: 45 Tennyson Rd GLADESVILLE NSW 2111
+  description: Section 4.55(2) modification to approved dual occupancy by reducing
+    the balcony size, introduction of parapets and changes to external finishes.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0095&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: MOD2019/0096
+  address: 2 Punt Rd GLADESVILLE NSW 2111
+  description: Section 4.55 (1) application to delete Condition 78(c) which was imposed
+    by error.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0096&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: MOD2019/0097
+  address: 6 Eden Park Dr MACQUARIE PARK NSW 2113
+  description: Section 4.55 (1a) modify consent & extend trading hours from 8:30am
+    to 6:30pm to 8:30am to 10:30pm Monday to Sunday.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0097&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: MOD2019/0098
+  address: 14 Bellamy Ave EASTWOOD NSW 2122
+  description: Proposed Section 4.55 (1A) modification to approved dual occupancy.
+    The modification proposed changes to the approved roof.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0098&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: MOD2019/0099
+  address: 14 Bellamy Ave EASTWOOD NSW 2122
+  description: Proposed Section 4.55 (1A) to approved dual occupancy. The modification
+    proposed changes to the approved roof.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0099&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: MOD2019/0100
+  address: 50 Waterloo Rd MACQUARIE PARK NSW 2113
+  description: Modification of a fitout to form a dental surgery
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0100&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: MOD2019/0101
+  address: 30 Dora St MARSFIELD NSW 2122
+  description: 'Section 87 Modification: Low pitch gable roof approved.'
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0101&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: MOD2019/0102
+  address: 6 Stewart St EASTWOOD NSW 2122
+  description: Section 4.55 application proposing a modification to the development
+    consent for the construction of a two storey dwelling. The modification proposes
+    the removal of a tree at the rear of the house.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0102&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: MOD2019/0103
+  address: 400-426 Victoria Rd GLADESVILLE NSW 2111
+  description: Section 4.55(1A) application to modify a number of consent conditions
+    and addition of a new condition.
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0103&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: MOD2019/0104
+  address: 8 Delmar Pde GLADESVILLE NSW 2111
+  description: 'Modification to: Alteration & Addition to the existing Dwelling- CDP2019/0114'
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0104&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: MOD2019/0105
+  address: 47 Lovell Rd DENISTONE EAST NSW 2112
+  description: 'Section 4.55 (1A) application to modify consent involving: 1. Installation
+    of air conditioning to Buiding - J 2. Relocation of pedestrian gate at Block -
+    R, 3. Consolidation of solar panel to northern roof of Block - J'
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0105&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: MOD2019/0106
+  address: 186 Pittwater Rd GLADESVILLE NSW 2111
+  description: Section 4.55 (1) a plan number was omitted from the conditions of consent
+  info_url: https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019%2F0106&f=%24P1.ETR.APPDET.VIW&r=COR.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'

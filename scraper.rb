@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
-Bundler.require
+
+$LOAD_PATH << "./lib"
+
+require "technology_one_scraper"
 
 def scrape(authorities)
   exceptions = {}

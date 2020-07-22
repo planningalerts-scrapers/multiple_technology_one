@@ -1,0 +1,52 @@
+AllCops:
+  Exclude:
+    - bin/*
+    # This is a temporary dumping ground for authority specific
+    # code that we're probably just initially copying across from
+    # other scrapers. So, we don't care about the formatting and style
+    # initially.
+    # TODO: Remove this once we've removed all the code from here
+    - lib/technology_one_scraper/authority/*
+
+# Bumping max line length to something a little more reasonable
+Metrics/LineLength:
+  Max: 100
+
+# We prefer double quotes here and it we're making liberal use of multi-line
+# strings so it makes sense to enforce those to be consistent oo
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+  ConsistentQuotesInMultiline: true
+
+# This one I disagree with. Putting seperators in large numbers makes sense
+# in some circumstances but in others (an example id in a database table)
+# it's just nonsensical. Also, I think this one might also be a bit US centric.
+Style/NumericLiterals:
+  Enabled: false
+
+# Disable a bunch of metrics to do with code complexity. These as are all
+# a bit hard-nosed. Maybe after we've done a pass with Code Climate we
+# can revisit these
+Metrics/AbcSize:
+  Enabled: false
+
+Metrics/BlockLength:
+  Enabled: false
+
+Metrics/ClassLength:
+  Enabled: false
+
+Metrics/CyclomaticComplexity:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Metrics/ModuleLength:
+  Enabled: false
+
+Metrics/ParameterLists:
+  Enabled: false
+
+Metrics/PerceivedComplexity:
+  Enabled: false

@@ -1,0 +1,947 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://eproclaim.manningham.vic.gov.au/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - eproclaim.manningham.vic.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      Set-Cookie:
+      - ASP.NET_SessionId=wmex5q3kdyggwz55e4g5aa55; path=/; HttpOnly
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Mon, 01 Jul 2019 07:10:09 GMT
+      Content-Length:
+      - '31070'
+      X-Cache:
+      - MISS from localhost
+      X-Cache-Lookup:
+      - MISS from localhost:80
+      Via:
+      - 1.0 localhost (squid/3.1.6)
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html lang=\"en\"
+        xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><link href=\"https://fonts.googleapis.com/css?family=Open+Sans\"
+        rel=\"stylesheet\" /><title>\r\n\tManningham City Council - Submitted Last
+        28 Days\r\n</title>\r\n<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n
+        \ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n
+        \ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n
+        \ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n
+        \ ga('create', 'UA-42682328-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n<link
+        href=\"../../App_Themes/Manningham/Default.css\" type=\"text/css\" rel=\"stylesheet\"
+        /></head>\r\n<body>\r\n\r\n<noscript class=\"noscript\">\r\n   <div id=\"noscriptDiv\">\r\n
+        \  JavaScript must be enabled in order to use the Manningham City eServices
+        website.<br/>Please enable JavaScript in your web browser and refresh this
+        page to continue.\r\n   </div>\r\n</noscript>\r\n\r\n<script type=\"text/javascript\"
+        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
+        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwAFugU8cD5SZXZpZXcgUGxhbm5pbmcgQXBwbGljYXRpb24gZGF0YSBiZWxvdy4gUmVjb3JkcyBhcmUgc29ydGVkIGJ5IGxvZGdlbWVudCBkYXRlIGFzIGRlZmF1bHQsIGhvd2V2ZXIgZGF0YSBjYW4gYmUgc29ydGVkIGJhc2VkIG9uIGFueSBvZiB0aGUgYmVsb3cgY29sdW1ucyAtIFNpbXBseSBjbGljayBvbiB0aGUgcmVsZXZhbnQgY29sdW1uIGhlYWRpbmcgIHRvIHRvZ2dsZSBhc2NlbmRpbmcgb3IgZGVzY2VuZGluZyBzb3J0IG9yZGVyLjwvcD4NCjxwPlByb2plY3QgdHlwZXMgbGlzdGVkIGFzICdNYWpvcicgY2FuIGJlIGRpc3BsYXllZCBlYXNpbHkgYnkgc29ydGluZyBvbiB0aGUgJ1Byb2plY3QgVHlwZScuPC9wPg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KaWYgKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9SaWdodFRhc2tQYW5lX3RzcFJlbGF0ZWRMaW5rcycpLmlubmVySFRNTC5sZW5ndGggPiAwKSB7DQogICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX1JpZ2h0VGFza1BhbmVfdHNwUmVsYXRlZExpbmtzJykuaW5uZXJIVE1MID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX1JpZ2h0VGFza1BhbmVfdHNwUmVsYXRlZExpbmtzJykuaW5uZXJIVE1MLnJlcGxhY2UoJ1JlbGF0ZWQgTGlua3MnLCdQbGFubmluZyBBcHBsaWNhdGlvbiBTaG9ydGN1dHMnKTsNCn0NCjwvc2NyaXB0PmRkAgMPZBYEAgIPDxYCHwAFDFNlYXJjaCBEYXRlc2RkAgMPDxYCHwAFGDA0LzA2LzIwMTkgdG8gMDEvMDcvMjAxOWRkAgUPDxYEHghHcmlkVHlwZQUMRVRSQUNLU0VBUkNIHhBHcmlkQ3JpdGVyaWFMaXN0Mu0EAAEAAAD/////AQAAAAAAAAAMAgAAAFBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAnAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEsIFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAACdUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhW10CAAAACAgJAwAAAAEAAAABAAAABwMAAAAAAQAAAAQAAAAEJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWECAAAACQQAAAANAwUEAAAAJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEFAAAAB21zVmFsdWUIbXNWYWx1ZTIObXNPcGVyYXRvckNvZGUKbXNDb2x1bW5JZA5tc1Byb3BlcnR5TmFtZQEBAQEBAgAAAAYFAAAAFjA0LzA2LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYwMS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALZBYCZg9kFgQCAQ9kFgICAQ8PFgIfAAUJR3JpZCBUeXBlZGQCAw8PFgIfCGhkFgICAQ8PFgIfAAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgEIAgNkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAkJkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hk89XSFYEvTIRMt8jGxzdvAArEdv8=\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"C1608850\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWKgLhyOi1CAK359HKDwL38+S0BQLD0Z//CAKDjpzeCALurtn5CAKO0+W9AQLv16uWDQL/iqOnDwKei6OnDwK1jaOnDwLci6OnDwL7i6OnDwKajKOnDwKhiqOnDwLIiKOnDwK5jLfiDgLgirfiDgL/irfiDgKei7fiDgK1jbfiDgLci7fiDgL7i7fiDgKajLfiDgKhirfiDgLIiLfiDgK5jNuvBALgituvBAL/ituvBAKei9uvBAK1jduvBALci9uvBAL7i9uvBAKajNuvBAKhituvBALIiNuvBAK5jI/sDwLgio/sDwKa4Pf0BAKa4Iv0BAK/g8WMCQKjmJfRCoFvkUZUX/RyaSCcd3AuC318E6Du\"
+        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
+        >\t\t\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
+        \                               \r\n                             </span>\r\n
+        \                           \r\n                     </div>\r\n                    <!--
+        End Login -->            \r\n                <div id=\"cssBannerLogo\">\r\n\t\t\t\t\t<div
+        id=\"cssBannerLogoSub\">\r\n<!--\r\n<table class=\"MCCBannerT\">\r\n  <tr
+        class =\"MCCBannerTr\">\r\n    <th class=\"MCCBannerThL\">\t\t\t\t\t\t<a href=\"https://eproclaim.manningham.vic.gov.au/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\">\r\n\t\t\t\t\t\t\t<img src=\"../../App_Themes/Default/Images/Empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n\t\t\t\t\t\t</a></th>\r\n
+        \   <th id=\"MCCBannerTh1\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/your-council\">Your<br>Council</a></div></th>\r\n
+        \   <th id=\"MCCBannerTh2\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/community-services\">Community<br>Services</a></div></th>\r\n
+        \   <th id=\"MCCBannerTh3\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/our-environment\">Our<br>Environment</a></div></th>\r\n
+        \   <th id=\"MCCBannerTh4\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/planning-and-development\">Planning
+        &amp;<br>Development</a></div></th>\r\n    <th id=\"MCCBannerTh5\" class=\"MCCBannerTh\"><div
+        class=\"MCCBannerThB\"><a href=\"http://www.manningham.vic.gov.au/things-to-do\">Things<br>To
+        Do</a></div></th>\r\n  </tr>\r\n  <tr class =\"MCCBannerTr\">\r\n    <td class=\"MCCBannerTdL\"></td>\r\n
+        \   <td id=\"MCCBannerTd1\" class=\"MCCBannerTd\"></td>\r\n    <td id=\"MCCBannerTd2\"
+        class=\"MCCBannerTd\"></td>\r\n    <td id=\"MCCBannerTd3\" class=\"MCCBannerTd\"></td>\r\n
+        \   <td id=\"MCCBannerTd4\" class=\"MCCBannerTd\"></td>\r\n    <td id=\"MCCBannerTd5\"
+        class=\"MCCBannerTd\"></td>\r\n  </tr>\r\n</table>\r\n -->            \r\n\t\t\t\t\t</div>\r\n
+        \               </div>\t\r\n            </div>\r\n\t    <div id=\"cssBannerLine\"></div>\r\n
+        \           <div class=\"clear\"></div>\r\n            <div id=\"cssContentArea\">\r\n
+        \               <div id=\"cssTaskpane\"  class = \"cssNoPrint\">\r\n                    \r\n
+        \                   <div>\r\n                        \r\n                                <div
+        class=\"menuPanel\">\r\n                            \r\n                                <div
+        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Online
+        Applications</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ShoppingCart/ShoppingCart.aspx?r=P1.WEBGUEST&amp;f=%24P1.PAY.CART.VIW\">Shopping
+        Cart</a></li><li><a href=\"../eSubmit/SubmitApplication.aspx?r=P1.WEBGUEST&amp;f=%24P1.ESB.SUBMTAPP.VIW\">Submit
+        an Application</a></li>\r\n</ul>\r\n                                <br />\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Online
+        Payments</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/AnimalPayment.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPY.ANIMALS.ENQ\">Animal
+        Payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPY.APPS.ENQ\">Application
+        Payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPY.INFRINGE.ENQ\">Infringement
+        Payment</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">User Information</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../User/PasswordReset.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.USERPASS.VIW\">Forgotten
+        Password</a></li><li><a href=\"../Home.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.HOME.VIW\">Home
+        Page</a></li><li><a href=\"../User/Register.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.REGUSER.MNT\">Register</a></li>\r\n</ul>\r\n
+        \                               <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl04_lblMenuGroupHeader\">Planning Applications
+        Portal</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../PublicNotices/AllPublicNotices.aspx?r=P1.WEBGUEST&amp;f=P1.ESB.MCCALLAP.ENQ\">Applications
+        Currently Advertised</a></li><li><a href=\"https://eproclaim.manningham.vic.gov.au/eProperty/P1/eTrack/eTrackApplicationSearch.aspx?f=P1.ETR.SEARCHMCC.ENQ&amp;Custom=Yes&amp;ApplicationId=P\">All
+        Planning Applications</a></li><li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=P1.ETR.SEARCHMCC.ENQ\">Planning
+        Application Search</a></li>\r\n</ul>\r\n                                <br
+        />\r\n                            \r\n                                <div
+        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl05_lblMenuGroupHeader\">Parking
+        Permits</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../eSubmit/ParkingPermitApplication.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPP.PERMIT.MNT\">Apply
+        for a Parking Permit</a></li>\r\n</ul>\r\n                                <br
+        />\r\n                            \r\n                                </div>\r\n
+        \                           \r\n                        \r\n                    </div>\r\n
+        \                      \r\n\t\t\t\t\t\r\n                <div id=\"cssTaskpaneRelatedLinks\"
+        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
+        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
+        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n
+        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
+        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n\t\t\t\t\t\r\n
+        \               </div>\r\n                \r\n\r\n                                \r\n
+        \               <div id=\"cssContent\">\r\n                <div class=\"cssContentWorkspace\">\r\n
+        \                   <a id=\"cssContentTop\"></a>\r\n                    \r\n
+        \                       <h1 id=\"ctl00_Header_h1PageTitle\">Submitted Last
+        28 Days</h1>\r\n                    \r\n                    \r\n                    \r\n
+        \                             \r\n                    \r\n    \r\n    <span
+        id=\"ctl00_Content_cusETrackApplicationSearchResults\" style=\"display:inline-block;width:100%;\"><p>Review
+        Planning Application data below. Records are sorted by lodgement date as default,
+        however data can be sorted based on any of the below columns - Simply click
+        on the relevant column heading  to toggle ascending or descending sort order.</p>\r\n<p>Project
+        types listed as 'Major' can be displayed easily by sorting on the 'Project
+        Type'.</p>\r\n<script type=\"text/javascript\">\r\nif (document.getElementById('ctl00_RightTaskPane_tspRelatedLinks').innerHTML.length
+        > 0) {\r\n    document.getElementById('ctl00_RightTaskPane_tspRelatedLinks').innerHTML
+        = document.getElementById('ctl00_RightTaskPane_tspRelatedLinks').innerHTML.replace('Related
+        Links','Planning Application Shortcuts');\r\n}\r\n</script></span>\r\n    <br
+        />\r\n    \r\n    <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span
+        id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\" class=\"fieldLabel\">Search
+        Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\" class=\"fieldLabel\">04/06/2019
+        to 01/07/2019</span></span>\r\n    \r\n    <div id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n
+        \   \r\n    \r\n    \r\n            \r\n \r\n            \r\n\r\n            <div>\r\n\t\t<table
+        class=\"grid\" cellspacing=\"0\" cellpadding=\"3\" border=\"0\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">ID</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodged</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Address</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Decision')\">Status</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Text15')\">Project
+        Type</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl01','')\">PLN19/0316</a></td><td>28/06/2019</td><td>2
+        lot subdivision (SPEAR S142897P)</td><td>17 Glenview Road DONCASTER EAST VIC
+        3109</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl01','')\">PLN19/0315</a></td><td>28/06/2019</td><td>2
+        Lot subdivision</td><td>2 Aranga Crescent DONVALE VIC 3111</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl01','')\">PLN19/0306</a></td><td>27/06/2019</td><td>Alterations
+        and additions to the existing dwelling by the addition of a carport</td><td>22
+        Homestead Road WONGA PARK VIC 3115</td><td>Ready to Report</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl01','')\">PLN19/0312</a></td><td>26/06/2019</td><td>Construction
+        of a freestanding, colorbond garage with gable roof.</td><td>8 Pambara Court
+        DONVALE VIC 3111</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl01','')\">PLN19/0310</a></td><td>26/06/2019</td><td>5
+        lot subdivision (SPEAR S 142980T)</td><td>2 Zerbe Avenue DONCASTER EAST VIC
+        3109</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl01','')\">PVN19/0072</a></td><td>26/06/2019</td><td>Construction
+        of a steel veranda.</td><td>2/27 Tullamore Avenue DONCASTER VIC 3108</td><td>No
+        Permit Required</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl01','')\">PVN19/0071</a></td><td>26/06/2019</td><td>Two
+        Lot Subdivision</td><td>78 Tristania Street DONCASTER EAST VIC 3109</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl01','')\">PVN19/0070</a></td><td>25/06/2019</td><td>2
+        (Two) Lot Subdivision</td><td>14 Hawk Street DONCASTER EAST VIC 3109</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl01','')\">PLN19/0302</a></td><td>24/06/2019</td><td>Construction
+        of two, two-storey dwellings</td><td>20 Canara Street DONCASTER EAST VIC 3109</td><td>Preliminary
+        Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl01','')\">PLN19/0305</a></td><td>21/06/2019</td><td>One
+        hundred and twenty (120) Lot Subdivision</td><td>600 Doncaster Road DONCASTER
+        VIC 3108</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl01','')\">PVN19/0069</a></td><td>21/06/2019</td><td>Two
+        Lot Subdivision</td><td>10 Meredith Avenue TEMPLESTOWE VIC 3106</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl01','')\">PLN19/0301</a></td><td>21/06/2019</td><td>Buildings
+        and works associated with a two storey office extension above an existing
+        shop and a reduction to the required car parking rate.</td><td>Tunstall Square
+        Shopping Centre 16 Tunstall Square DONCASTER EAST VIC 3109</td><td>Preliminary
+        Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl01','')\">PLA19/0065</a></td><td>21/06/2019</td><td>Use
+        and development of a multi-storey building for the purpose of food and drink
+        premises/shop/office and dwellings, and a reduction in the standard car parking
+        requirements</td><td>9-11 Williamsons Road DONCASTER VIC 3108</td><td>Permit</td><td>Pending</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl01','')\">PLN19/0304</a></td><td>20/06/2019</td><td>4
+        lot subdivision and certification and removal of easement (SPEAR S 141557E)</td><td>1-2
+        Gardenview Court TEMPLESTOWE VIC 3106</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl01','')\">PLN19/0303</a></td><td>20/06/2019</td><td>Construction
+        of two, two-storey dwellings</td><td>16 Greendale Road DONCASTER EAST VIC
+        3109</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl17$ctl01','')\">PLN19/0226</a></td><td>19/06/2019</td><td>Construction
+        of a three-storey apartment building comprising 34 dwellings, plus basement
+        car parking and the creation and alteration to a road in a Road Zone, Category
+        1</td><td>969 Doncaster Road DONCASTER EAST VIC 3109</td><td>Further Information
+        Required</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl18$ctl01','')\">PVN19/0068</a></td><td>19/06/2019</td><td>Two
+        (2) Lot Subdivision</td><td>61 Morello Circle DONCASTER EAST VIC 3109</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl19$ctl01','')\">PLA19/0063</a></td><td>19/06/2019</td><td>Amendment
+        to Planning Permit PLN18/0436 (issued for Buildings and works to the existing
+        dwelling) by plan changes showing reconstruction of building rather than retention</td><td>48
+        Pine Ridge DONVALE VIC 3111</td><td>Ready to Report</td><td>Pending</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl20$ctl01','')\">PLA19/0064</a></td><td>18/06/2019</td><td>Amendment
+        to Planning Permit PL17/027512 (Issued for construction of two, two-storey
+        dwellings, one with an associated basement garage) by amending plans to show
+        the removal of the basement level</td><td>27 Winters Way DONCASTER VIC 3108</td><td>Preliminary
+        Assessment</td><td>Pending</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl21$ctl01','')\">PLN19/0300</a></td><td>18/06/2019</td><td>Construction
+        of double-storey dwelling, plus semi-basement level, plus pool.</td><td>85-89
+        Serpells Road TEMPLESTOWE VIC 3106</td><td>Further Information Required</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl22$ctl01','')\">PLN19/0299</a></td><td>18/06/2019</td><td>The
+        construction of two double-storey dwellings (side by side arrangement)</td><td>35
+        Scarlet Ash Drive TEMPLESTOWE LOWER VIC 3107</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl23$ctl01','')\">PLN19/0294</a></td><td>18/06/2019</td><td>Construction
+        of two dwellings (one two storey and one three storey) and two lot subdivision</td><td>56
+        Caroline Drive TEMPLESTOWE LOWER VIC 3107</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl24$ctl01','')\">PLN19/0290</a></td><td>18/06/2019</td><td>Removal
+        of restrictive covenant (C252454) from the land (requiring brick or brick
+        veneer construction)</td><td>39 Ada Street DONCASTER VIC 3108</td><td>Advertising</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl25$ctl01','')\">PLN19/0296</a></td><td>18/06/2019</td><td>Building
+        and works for the construction of a dwelling and vegetation removal</td><td>22
+        Tacoma Street PARK ORCHARDS VIC 3114</td><td>Further Information Required</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl26$ctl01','')\">PLN19/0297</a></td><td>17/06/2019</td><td>Construction
+        of three double-storey dwellings</td><td>28 Calderwood Street BULLEEN VIC
+        3105</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl27$ctl01','')\">PLA19/0060</a></td><td>17/06/2019</td><td>Amended
+        Planning Permit PLN18/0383 (issued for Construction of two, two-storey dwellings)
+        through increasing the finished floor level of Dwelling 2.</td><td>22 Dunoon
+        Street DONCASTER VIC 3108</td><td>Advertising</td><td>Pending</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl28$ctl01','')\">PLN19/0295</a></td><td>17/06/2019</td><td>Construction
+        of two, two-storey dwellings (side by side configuration)</td><td>140 Tunstall
+        Road DONVALE VIC 3111</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl29$ctl01','')\">PLN19/0292</a></td><td>17/06/2019</td><td>Construction
+        of three, two-storey dwellings</td><td>95 Hodgson Street TEMPLESTOWE LOWER
+        VIC 3107</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl30$ctl01','')\">PLN19/0293</a></td><td>17/06/2019</td><td>Construction
+        of two, two storey dwellings</td><td>14 Langford Crescent DONVALE VIC 3111</td><td>Preliminary
+        Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl31$ctl01','')\">PLN19/0287</a></td><td>17/06/2019</td><td>Variation
+        of restrictive covenant contained in transfer No. B555214 applicable to Lot
+        17 on LP54142 (8312/036) by replacing the words &quot;of other than brick
+        or brick veneer&quot; with the words &quot;with externals walls constructed
+        substantially of brick, brick veneer or lightweight rendered materials&quot;.</td><td>30
+        Winters Way DONCASTER VIC 3108</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"6\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><span>1</span></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"Previous\"
+        id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access Key: P\" class=\"LeftArrowButton\"
+        />\r\n    </div>\r\n\r\n\r\n                    <div class=\"clear\"></div>\r\n
+        \                   <br />\r\n                    <br />\r\n                    <br
+        />\r\n                </div>\r\n                </div>\r\n            </div>\r\n
+        \           <p></p>\r\n            <p class=\"invisible\"></p>\r\n            <div
+        id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">
+        \                \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
+        accesskey=\"V\" title=\"Access Key: V\" href=\"http://www.manningham.vic.gov.au\"
+        target=\"_self\">MCC Web Site</a>\r\n                    <img id=\"ctl00_imgFooterSeparator1\"
+        class=\"verticalBar\" src=\"../../App_Themes/Manningham/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink2\" accesskey=\"T\" title=\"Access Key: T\"
+        href=\"https://eproclaim.manningham.vic.gov.au/eProperty/ManninghamPDF/Terms_and_Conditions.pdf\"
+        target=\"_self\">Terms of Use</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\"
+        class=\"verticalBar\" src=\"../../App_Themes/Manningham/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink3\" accesskey=\"U\" title=\"Access Key: U\"
+        href=\"mailto:manningham@manningham.vic.gov.au\" target=\"_self\">Contact
+        Us</a>                       \r\n                    <span id=\"ctl00_MobileLink\">\r\n
+        \                       <img id=\"ctl00_Image1\" class=\"verticalBar\" src=\"../../App_Themes/Manningham/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                        <a
+        id=\"ctl00_hplMobileView\" href=\"javascript:__doPostBack('ctl00$hplMobileView','')\">Mobile
+        View</a>                       \r\n                    </span>\r\n                </div>\r\n
+        \               <div id=\"cssBottomBarCopyright\"><!-- &copy; Technology One
+        Limited 2019 -->&nbsp;</div>\r\n            </div>\r\n            \r\n        </div>\r\n
+        \   \r\n\r\n<script type=\"text/javascript\">\r\n//<![CDATA[\r\n$(document).ready(function
+        () {if ($('#ctl00_valErrors').is(':visible') == true) {$('#__SCROLLPOSITIONX').val('0');$('#__SCROLLPOSITIONY').val('0');}});//]]>\r\n</script>\r\n</form>\r\n<!--
+        Begin reference to MCC specific JS controls (DESKTOP) -->\r\n<script src=\"../../App_Themes/Manningham/mcc-MasterCustom.js\"></script>\r\n<!--
+        End reference... -->\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://eproclaim.manningham.vic.gov.au/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: UTF-8
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwAFugU8cD5SZXZpZXcgUGxhbm5pbmcgQXBwbGljYXRpb24gZGF0YSBiZWxvdy4gUmVjb3JkcyBhcmUgc29ydGVkIGJ5IGxvZGdlbWVudCBkYXRlIGFzIGRlZmF1bHQsIGhvd2V2ZXIgZGF0YSBjYW4gYmUgc29ydGVkIGJhc2VkIG9uIGFueSBvZiB0aGUgYmVsb3cgY29sdW1ucyAtIFNpbXBseSBjbGljayBvbiB0aGUgcmVsZXZhbnQgY29sdW1uIGhlYWRpbmcgIHRvIHRvZ2dsZSBhc2NlbmRpbmcgb3IgZGVzY2VuZGluZyBzb3J0IG9yZGVyLjwvcD4NCjxwPlByb2plY3QgdHlwZXMgbGlzdGVkIGFzICdNYWpvcicgY2FuIGJlIGRpc3BsYXllZCBlYXNpbHkgYnkgc29ydGluZyBvbiB0aGUgJ1Byb2plY3QgVHlwZScuPC9wPg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KaWYgKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9SaWdodFRhc2tQYW5lX3RzcFJlbGF0ZWRMaW5rcycpLmlubmVySFRNTC5sZW5ndGggPiAwKSB7DQogICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX1JpZ2h0VGFza1BhbmVfdHNwUmVsYXRlZExpbmtzJykuaW5uZXJIVE1MID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX1JpZ2h0VGFza1BhbmVfdHNwUmVsYXRlZExpbmtzJykuaW5uZXJIVE1MLnJlcGxhY2UoJ1JlbGF0ZWQgTGlua3MnLCdQbGFubmluZyBBcHBsaWNhdGlvbiBTaG9ydGN1dHMnKTsNCn0NCjwvc2NyaXB0PmRkAgMPZBYEAgIPDxYCHwAFDFNlYXJjaCBEYXRlc2RkAgMPDxYCHwAFGDA0LzA2LzIwMTkgdG8gMDEvMDcvMjAxOWRkAgUPDxYEHghHcmlkVHlwZQUMRVRSQUNLU0VBUkNIHhBHcmlkQ3JpdGVyaWFMaXN0Mu0EAAEAAAD%2F%2F%2F%2F%2FAQAAAAAAAAAMAgAAAFBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAnAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEsIFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAACdUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhW10CAAAACAgJAwAAAAEAAAABAAAABwMAAAAAAQAAAAQAAAAEJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWECAAAACQQAAAANAwUEAAAAJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEFAAAAB21zVmFsdWUIbXNWYWx1ZTIObXNPcGVyYXRvckNvZGUKbXNDb2x1bW5JZA5tc1Byb3BlcnR5TmFtZQEBAQEBAgAAAAYFAAAAFjA0LzA2LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYwMS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALZBYCZg9kFgQCAQ9kFgICAQ8PFgIfAAUJR3JpZCBUeXBlZGQCAw8PFgIfCGhkFgICAQ8PFgIfAAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgEIAgNkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAkJkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hk89XSFYEvTIRMt8jGxzdvAArEdv8%3D&__VIEWSTATEGENERATOR=C1608850&__EVENTVALIDATION=%2FwEWKgLhyOi1CAK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCALurtn5CAKO0%2BW9AQLv16uWDQL%2FiqOnDwKei6OnDwK1jaOnDwLci6OnDwL7i6OnDwKajKOnDwKhiqOnDwLIiKOnDwK5jLfiDgLgirfiDgL%2FirfiDgKei7fiDgK1jbfiDgLci7fiDgL7i7fiDgKajLfiDgKhirfiDgLIiLfiDgK5jNuvBALgituvBAL%2FituvBAKei9uvBAK1jduvBALci9uvBAL7i9uvBAKajNuvBAKhituvBALIiNuvBAK5jI%2FsDwLgio%2FsDwKa4Pf0BAKa4Iv0BAK%2Fg8WMCQKjmJfRCoFvkUZUX%2FRyaSCcd3AuC318E6Du&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%242
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=wmex5q3kdyggwz55e4g5aa55
+      Host:
+      - eproclaim.manningham.vic.gov.au
+      Referer:
+      - https://eproclaim.manningham.vic.gov.au/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '3492'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Mon, 01 Jul 2019 07:10:11 GMT
+      Content-Length:
+      - '32125'
+      X-Cache:
+      - MISS from localhost
+      X-Cache-Lookup:
+      - MISS from localhost:80
+      Via:
+      - 1.0 localhost (squid/3.1.6)
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html lang=\"en\"
+        xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><link href=\"https://fonts.googleapis.com/css?family=Open+Sans\"
+        rel=\"stylesheet\" /><title>\r\n\tManningham City Council - Submitted Last
+        28 Days\r\n</title>\r\n<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n
+        \ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n
+        \ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n
+        \ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n
+        \ ga('create', 'UA-42682328-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n<link
+        href=\"../../App_Themes/Manningham/Default.css\" type=\"text/css\" rel=\"stylesheet\"
+        /></head>\r\n<body>\r\n\r\n<noscript class=\"noscript\">\r\n   <div id=\"noscriptDiv\">\r\n
+        \  JavaScript must be enabled in order to use the Manningham City eServices
+        website.<br/>Please enable JavaScript in your web browser and refresh this
+        page to continue.\r\n   </div>\r\n</noscript>\r\n\r\n<script type=\"text/javascript\"
+        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
+        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0BboFPHA+UmV2aWV3IFBsYW5uaW5nIEFwcGxpY2F0aW9uIGRhdGEgYmVsb3cuIFJlY29yZHMgYXJlIHNvcnRlZCBieSBsb2RnZW1lbnQgZGF0ZSBhcyBkZWZhdWx0LCBob3dldmVyIGRhdGEgY2FuIGJlIHNvcnRlZCBiYXNlZCBvbiBhbnkgb2YgdGhlIGJlbG93IGNvbHVtbnMgLSBTaW1wbHkgY2xpY2sgb24gdGhlIHJlbGV2YW50IGNvbHVtbiBoZWFkaW5nICB0byB0b2dnbGUgYXNjZW5kaW5nIG9yIGRlc2NlbmRpbmcgc29ydCBvcmRlci48L3A+DQo8cD5Qcm9qZWN0IHR5cGVzIGxpc3RlZCBhcyAnTWFqb3InIGNhbiBiZSBkaXNwbGF5ZWQgZWFzaWx5IGJ5IHNvcnRpbmcgb24gdGhlICdQcm9qZWN0IFR5cGUnLjwvcD4NCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCmlmIChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfUmlnaHRUYXNrUGFuZV90c3BSZWxhdGVkTGlua3MnKS5pbm5lckhUTUwubGVuZ3RoID4gMCkgew0KICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9SaWdodFRhc2tQYW5lX3RzcFJlbGF0ZWRMaW5rcycpLmlubmVySFRNTCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9SaWdodFRhc2tQYW5lX3RzcFJlbGF0ZWRMaW5rcycpLmlubmVySFRNTC5yZXBsYWNlKCdSZWxhdGVkIExpbmtzJywnUGxhbm5pbmcgQXBwbGljYXRpb24gU2hvcnRjdXRzJyk7DQp9DQo8L3NjcmlwdD5kZAIDDw8WAh4IRWRpdE1vZGVoZBYEAgIPDxYCHwQFDFNlYXJjaCBEYXRlc2RkAgMPDxYCHwQFGDA0LzA2LzIwMTkgdG8gMDEvMDcvMjAxOWRkAgUPDxYGHghHcmlkVHlwZQUMRVRSQUNLU0VBUkNIHhBHcmlkQ3JpdGVyaWFMaXN0Mu0EAAEAAAD/////AQAAAAAAAAAMAgAAAFBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAnAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEsIFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAACdUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhW10CAAAACAgJAwAAAAEAAAABAAAABwMAAAAAAQAAAAQAAAAEJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWECAAAACQQAAAANAwUEAAAAJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEFAAAAB21zVmFsdWUIbXNWYWx1ZTIObXNPcGVyYXRvckNvZGUKbXNDb2x1bW5JZA5tc1Byb3BlcnR5TmFtZQEBAQEBAgAAAAYFAAAAFjA0LzA2LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYwMS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCAWQWAmYPZBYEAgEPZBYCAgEPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgIBCAIDZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAJCZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZEMoNAtZSYO8/J2LMoHXXgVV20In\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"C1608850\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWKgLI3e2uAgK359HKDwL38+S0BQLD0Z//CAKDjpzeCALurtn5CAKO0+W9AQLv16uWDQL/iqOnDwKei6OnDwK1jaOnDwLci6OnDwL7i6OnDwKajKOnDwKhiqOnDwLIiKOnDwK5jLfiDgLgirfiDgL/irfiDgKei7fiDgK1jbfiDgLci7fiDgL7i7fiDgKajLfiDgKhirfiDgLIiLfiDgK5jNuvBALgituvBAL/ituvBAKei9uvBAK1jduvBALci9uvBAL7i9uvBAKajNuvBAKhituvBALIiNuvBAK5jI/sDwLgio/sDwKa4IP0BAKa4Iv0BAK/g8WMCQKjmJfRCnpLZ/LEff1u0yvSxWYOpKlVD3GJ\"
+        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
+        >\t\t\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
+        \                               \r\n                             </span>\r\n
+        \                           \r\n                     </div>\r\n                    <!--
+        End Login -->            \r\n                <div id=\"cssBannerLogo\">\r\n\t\t\t\t\t<div
+        id=\"cssBannerLogoSub\">\r\n<!--\r\n<table class=\"MCCBannerT\">\r\n  <tr
+        class =\"MCCBannerTr\">\r\n    <th class=\"MCCBannerThL\">\t\t\t\t\t\t<a href=\"https://eproclaim.manningham.vic.gov.au/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\">\r\n\t\t\t\t\t\t\t<img src=\"../../App_Themes/Default/Images/Empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n\t\t\t\t\t\t</a></th>\r\n
+        \   <th id=\"MCCBannerTh1\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/your-council\">Your<br>Council</a></div></th>\r\n
+        \   <th id=\"MCCBannerTh2\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/community-services\">Community<br>Services</a></div></th>\r\n
+        \   <th id=\"MCCBannerTh3\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/our-environment\">Our<br>Environment</a></div></th>\r\n
+        \   <th id=\"MCCBannerTh4\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/planning-and-development\">Planning
+        &amp;<br>Development</a></div></th>\r\n    <th id=\"MCCBannerTh5\" class=\"MCCBannerTh\"><div
+        class=\"MCCBannerThB\"><a href=\"http://www.manningham.vic.gov.au/things-to-do\">Things<br>To
+        Do</a></div></th>\r\n  </tr>\r\n  <tr class =\"MCCBannerTr\">\r\n    <td class=\"MCCBannerTdL\"></td>\r\n
+        \   <td id=\"MCCBannerTd1\" class=\"MCCBannerTd\"></td>\r\n    <td id=\"MCCBannerTd2\"
+        class=\"MCCBannerTd\"></td>\r\n    <td id=\"MCCBannerTd3\" class=\"MCCBannerTd\"></td>\r\n
+        \   <td id=\"MCCBannerTd4\" class=\"MCCBannerTd\"></td>\r\n    <td id=\"MCCBannerTd5\"
+        class=\"MCCBannerTd\"></td>\r\n  </tr>\r\n</table>\r\n -->            \r\n\t\t\t\t\t</div>\r\n
+        \               </div>\t\r\n            </div>\r\n\t    <div id=\"cssBannerLine\"></div>\r\n
+        \           <div class=\"clear\"></div>\r\n            <div id=\"cssContentArea\">\r\n
+        \               <div id=\"cssTaskpane\"  class = \"cssNoPrint\">\r\n                    \r\n
+        \                   <div>\r\n                        \r\n                                <div
+        class=\"menuPanel\">\r\n                            \r\n                                <div
+        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Online
+        Applications</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ShoppingCart/ShoppingCart.aspx?r=P1.WEBGUEST&amp;f=%24P1.PAY.CART.VIW\">Shopping
+        Cart</a></li><li><a href=\"../eSubmit/SubmitApplication.aspx?r=P1.WEBGUEST&amp;f=%24P1.ESB.SUBMTAPP.VIW\">Submit
+        an Application</a></li>\r\n</ul>\r\n                                <br />\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Online
+        Payments</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/AnimalPayment.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPY.ANIMALS.ENQ\">Animal
+        Payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPY.APPS.ENQ\">Application
+        Payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPY.INFRINGE.ENQ\">Infringement
+        Payment</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">User Information</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../User/PasswordReset.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.USERPASS.VIW\">Forgotten
+        Password</a></li><li><a href=\"../Home.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.HOME.VIW\">Home
+        Page</a></li><li><a href=\"../User/Register.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.REGUSER.MNT\">Register</a></li>\r\n</ul>\r\n
+        \                               <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl04_lblMenuGroupHeader\">Planning Applications
+        Portal</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../PublicNotices/AllPublicNotices.aspx?r=P1.WEBGUEST&amp;f=P1.ESB.MCCALLAP.ENQ\">Applications
+        Currently Advertised</a></li><li><a href=\"https://eproclaim.manningham.vic.gov.au/eProperty/P1/eTrack/eTrackApplicationSearch.aspx?f=P1.ETR.SEARCHMCC.ENQ&amp;Custom=Yes&amp;ApplicationId=P\">All
+        Planning Applications</a></li><li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=P1.ETR.SEARCHMCC.ENQ\">Planning
+        Application Search</a></li>\r\n</ul>\r\n                                <br
+        />\r\n                            \r\n                                <div
+        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl05_lblMenuGroupHeader\">Parking
+        Permits</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../eSubmit/ParkingPermitApplication.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPP.PERMIT.MNT\">Apply
+        for a Parking Permit</a></li>\r\n</ul>\r\n                                <br
+        />\r\n                            \r\n                                </div>\r\n
+        \                           \r\n                        \r\n                    </div>\r\n
+        \                      \r\n\t\t\t\t\t\r\n                <div id=\"cssTaskpaneRelatedLinks\"
+        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
+        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
+        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n
+        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
+        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n\t\t\t\t\t\r\n
+        \               </div>\r\n                \r\n\r\n                                \r\n
+        \               <div id=\"cssContent\">\r\n                <div class=\"cssContentWorkspace\">\r\n
+        \                   <a id=\"cssContentTop\"></a>\r\n                    \r\n
+        \                       <h1 id=\"ctl00_Header_h1PageTitle\">Submitted Last
+        28 Days</h1>\r\n                    \r\n                    \r\n                    \r\n
+        \                             \r\n                    \r\n    \r\n    <span
+        id=\"ctl00_Content_cusETrackApplicationSearchResults\" style=\"display:inline-block;width:100%;\"><p>Review
+        Planning Application data below. Records are sorted by lodgement date as default,
+        however data can be sorted based on any of the below columns - Simply click
+        on the relevant column heading  to toggle ascending or descending sort order.</p>\r\n<p>Project
+        types listed as 'Major' can be displayed easily by sorting on the 'Project
+        Type'.</p>\r\n<script type=\"text/javascript\">\r\nif (document.getElementById('ctl00_RightTaskPane_tspRelatedLinks').innerHTML.length
+        > 0) {\r\n    document.getElementById('ctl00_RightTaskPane_tspRelatedLinks').innerHTML
+        = document.getElementById('ctl00_RightTaskPane_tspRelatedLinks').innerHTML.replace('Related
+        Links','Planning Application Shortcuts');\r\n}\r\n</script></span>\r\n    <br
+        />\r\n    \r\n    <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span
+        id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\" class=\"fieldLabel\">Search
+        Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\" class=\"fieldLabel\">04/06/2019
+        to 01/07/2019</span></span>\r\n    \r\n    <div id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n
+        \   \r\n    \r\n    \r\n            \r\n \r\n            \r\n\r\n            <div>\r\n\t\t<table
+        class=\"grid\" cellspacing=\"0\" cellpadding=\"3\" border=\"0\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">ID</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodged</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Address</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Decision')\">Status</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Text15')\">Project
+        Type</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl01','')\">PVN19/0067</a></td><td>14/06/2019</td><td>Installation
+        of Spa and safety barriers</td><td>350 Yarra Road WONGA PARK VIC 3115</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl01','')\">PVN19/0066</a></td><td>14/06/2019</td><td>2
+        lot subdivision and certification (SPEAR S142269E)</td><td>14 Heysham Way
+        TEMPLESTOWE VIC 3106</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl01','')\">PLN19/0291</a></td><td>14/06/2019</td><td>Removal
+        of three Pine trees</td><td>137 Glenvale Road DONVALE VIC 3111</td><td>Preliminary
+        Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl01','')\">PVN19/0065</a></td><td>14/06/2019</td><td>2
+        lot subdivision and certification (SPEAR S142268J)</td><td>12 Heysham Way
+        TEMPLESTOWE VIC 3106</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl01','')\">PLN19/0284</a></td><td>14/06/2019</td><td>Removal
+        of 11 Pinus radiata (Monterey Pine) trees and stump along front boundary of
+        property.</td><td>2-4 Granard Avenue PARK ORCHARDS VIC 3114</td><td>Advertising</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl01','')\">PLN19/0289</a></td><td>13/06/2019</td><td>Drilling
+        of seven environmental soil bores in Yarra Flats Parklands, Bulleen, for the
+        purposes of investigations for North East Link.</td><td>6-8 Manningham Road
+        West BULLEEN VIC 3105</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl01','')\">PLN19/0288</a></td><td>13/06/2019</td><td>Building
+        and works for a new retaining wall and boundary fence at rear of property.</td><td>52
+        Hillcroft Drive TEMPLESTOWE VIC 3106</td><td>Further Information Required</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl01','')\">PLN19/0286</a></td><td>13/06/2019</td><td>12
+        lot subdivision (SPEAR S140631A)</td><td>166 Blackburn Road DONCASTER EAST
+        VIC 3109</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl01','')\">PLN19/0285</a></td><td>13/06/2019</td><td>3
+        lot subdivision (SPEAR S142167A)</td><td>1 Myrtle Court DONCASTER EAST VIC
+        3109</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl01','')\">PLN19/0259</a></td><td>13/06/2019</td><td>Construction
+        of a new dwelling and removal of one tree in the Environmental Significance
+        Overlay (ESO4) and Bushfire Management Overlay (BMO)</td><td>38 Heads Road
+        DONVALE VIC 3111</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl01','')\">PLN19/0261</a></td><td>13/06/2019</td><td>The
+        removal of two eucalyptus trees and the lopping two trees</td><td>10 Mopoke
+        Hill Road WARRANDYTE VIC 3113</td><td>Further Information Required</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl01','')\">PLA19/0061</a></td><td>12/06/2019</td><td>Construction
+        of two, two-storey dwellings</td><td>34 Sandra Street BULLEEN VIC 3105</td><td>Further
+        Information Required</td><td>Pending</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl01','')\">PLN19/0283</a></td><td>12/06/2019</td><td>This
+        request is for approval of earthworks (retrospective) carried out to remove
+        dirt and rock from the eastern side of an exisiting 10 x 7 metre shed, build
+        up a level parking area to the south end of the shed, and to grade a CFA compliant
+        access path on the western side of the shed.\r\n\r\nThe works required a extension
+        of the previous cut and scrap from the original build of the shed in the 1970s,
+        and levelling works.\r\n\r\nThe total material moved was 4 metres and all
+        soils have been retained on the property.\r\n\r\nThe flat hard standing areas
+        will be covered in a crushed rock and the track will have a gravel base to
+        improve all weather traction, while not impeding water flow to adjacent plants
+        and ground cover.\r\n\r\nAreas will be landscaped post earthworks. Open areas
+        will be topsoiled and seeded with local grasses common to the Warrandyte area.
+        \ Slopes will be planted with a ground cover of grevillea bronze rambler.</td><td>23
+        Hillcrest Road WARRANDYTE SOUTH VIC 3134</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl01','')\">PLN19/0282</a></td><td>12/06/2019</td><td>Construction
+        of two, two-storey dwellings</td><td>2 Amberley Court BULLEEN VIC 3105</td><td>Preliminary
+        Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl01','')\">PLA19/0055</a></td><td>12/06/2019</td><td>Amendment
+        Permit PL16/026492 (issued for construction of four dwellings and associated
+        basement car parking) by varying the internal layouts and external appearance
+        of the dwellings.</td><td>17 Ascot Street DONCASTER EAST VIC 3109</td><td>Preliminary
+        Assessment</td><td>Pending</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl17$ctl01','')\">PLN19/0281</a></td><td>11/06/2019</td><td>Construction
+        of two, two-storey dwellings and the creation and alteration of access to
+        a road in a Road Zone, Category 1</td><td>369 Thompsons Road TEMPLESTOWE LOWER
+        VIC 3107</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl18$ctl01','')\">PLN19/0279</a></td><td>11/06/2019</td><td>Subdivision
+        of land, removal of native vegetation and creation of a restriction (Stage
+        6B)</td><td>Tullamore Doncaster 463-535 Doncaster Road DONCASTER VIC 3108</td><td>Preliminary
+        Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl19$ctl01','')\">PLN19/0280</a></td><td>10/06/2019</td><td>Construction
+        of two, two-storey dwellings</td><td>11 Meryl Street DONCASTER EAST VIC 3109</td><td>Further
+        Information Required</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl20$ctl01','')\">PLA19/0059</a></td><td>07/06/2019</td><td>Amendment
+        to Planning Permit PLN19/0156 (issued for Buildings and works for alterations
+        and additions to the existing dwelling, driveway and front fence) by alterations
+        to the dwelling and driveway including the construction of a garage and verandah</td><td>115
+        Brysons Road WARRANDYTE SOUTH VIC 3134</td><td>Permit</td><td>Pending</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl21$ctl01','')\">PLA19/0058</a></td><td>07/06/2019</td><td>Amendment
+        to Planning Permit PL11/022557 (issued for the construction of two four-storey
+        buildings comprising apartments above two levels basement car parking) by
+        amending plans to show the removal of all planter boxes from various top level
+        apartments</td><td>164-166 Manningham Road BULLEEN VIC 3105</td><td>Advertising</td><td>Pending</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl22$ctl01','')\">PLN19/0278</a></td><td>07/06/2019</td><td>Use
+        of land for Agriculture (hobby farm)</td><td>339-347 Yarra Road WONGA PARK
+        VIC 3115</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl23$ctl01','')\">PLN19/0277</a></td><td>07/06/2019</td><td>Four
+        (4) Lot Subdivision</td><td>741 Elgar Road DONCASTER VIC 3108</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl24$ctl01','')\">PLA19/0057</a></td><td>07/06/2019</td><td>Amendment
+        to Planning Permit PLN18/0661 (issued for buildings and works comprising the
+        construction of a single-storey dwelling, rainwater tank and associated vegetation
+        removal and lopping) by altering the development to include an additional
+        rainwater tank, studio, a built up perimeter path and additional vegetation
+        removal (partly due to the creation to the legal point of discharge).</td><td>65-67
+        McGowans Road DONVALE VIC 3111</td><td>Preliminary Assessment</td><td>Pending</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl25$ctl01','')\">PLN19/0265</a></td><td>07/06/2019</td><td>Construction
+        of two, two-storey dwellings</td><td>3 Larkspur Avenue DONCASTER VIC 3108</td><td>Preliminary
+        Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl26$ctl01','')\">PLN19/0275</a></td><td>06/06/2019</td><td>Two
+        (2) Lot Subdivision</td><td>104 Manningham Road BULLEEN VIC 3105</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl27$ctl01','')\">PLN19/0274</a></td><td>06/06/2019</td><td>Use
+        and development of the land for a child care centre and alteration of access
+        to a road in a Road Zone, Category 1</td><td>70 Tram Road DONCASTER VIC 3108</td><td>Further
+        Information Required</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl28$ctl01','')\">PLN19/0273</a></td><td>05/06/2019</td><td>Buildings
+        and works for the construction of a deck associated with the existing dwelling</td><td>75
+        Morello Circle DONCASTER EAST VIC 3109</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl29$ctl01','')\">PVN19/0062</a></td><td>05/06/2019</td><td>2
+        Lot Subdivision (SPEAR S141721J)</td><td>7 Corsican Avenue DONCASTER EAST
+        VIC 3109</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl30$ctl01','')\">PVN19/0061</a></td><td>05/06/2019</td><td>2
+        Lot Subdivision (SPEAR S141911A)</td><td>2 Callistemon Court DONCASTER EAST
+        VIC 3109</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl31$ctl01','')\">PLA19/0056</a></td><td>05/06/2019</td><td>Amendment
+        to Planning Permit PL17/027440 (issued for Construction of two, two-storey
+        dwellings) by alterations including changes to increase the north setback
+        at first floor level, decrease the west side setback of the garage wall to
+        Dwelling 1, changes to first floor finish from timber battens to steel cladding,
+        removal of balconies, removal of first floor courtyards and changes to the
+        garage doors</td><td>29 Clauscen Street TEMPLESTOWE LOWER VIC 3107</td><td>Further
+        Information Required</td><td>Pending</td>\r\n\t\t\t</tr><tr class=\"pagerRow\">\r\n\t\t\t\t<td
+        colspan=\"6\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><span>2</span></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"Previous\"
+        id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access Key: P\" class=\"LeftArrowButton\"
+        />\r\n    </div>\r\n\r\n\r\n                    <div class=\"clear\"></div>\r\n
+        \                   <br />\r\n                    <br />\r\n                    <br
+        />\r\n                </div>\r\n                </div>\r\n            </div>\r\n
+        \           <p></p>\r\n            <p class=\"invisible\"></p>\r\n            <div
+        id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">
+        \                \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
+        accesskey=\"V\" title=\"Access Key: V\" href=\"http://www.manningham.vic.gov.au\"
+        target=\"_self\">MCC Web Site</a>\r\n                    <img id=\"ctl00_imgFooterSeparator1\"
+        class=\"verticalBar\" src=\"../../App_Themes/Manningham/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink2\" accesskey=\"T\" title=\"Access Key: T\"
+        href=\"https://eproclaim.manningham.vic.gov.au/eProperty/ManninghamPDF/Terms_and_Conditions.pdf\"
+        target=\"_self\">Terms of Use</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\"
+        class=\"verticalBar\" src=\"../../App_Themes/Manningham/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink3\" accesskey=\"U\" title=\"Access Key: U\"
+        href=\"mailto:manningham@manningham.vic.gov.au\" target=\"_self\">Contact
+        Us</a>                       \r\n                    <span id=\"ctl00_MobileLink\">\r\n
+        \                       <img id=\"ctl00_Image1\" class=\"verticalBar\" src=\"../../App_Themes/Manningham/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                        <a
+        id=\"ctl00_hplMobileView\" href=\"javascript:__doPostBack('ctl00$hplMobileView','')\">Mobile
+        View</a>                       \r\n                    </span>\r\n                </div>\r\n
+        \               <div id=\"cssBottomBarCopyright\"><!-- &copy; Technology One
+        Limited 2019 -->&nbsp;</div>\r\n            </div>\r\n            \r\n        </div>\r\n
+        \   \r\n\r\n<script type=\"text/javascript\">\r\n//<![CDATA[\r\n$(document).ready(function
+        () {if ($('#ctl00_valErrors').is(':visible') == true) {$('#__SCROLLPOSITIONX').val('0');$('#__SCROLLPOSITIONY').val('0');}});//]]>\r\n</script>\r\n</form>\r\n<!--
+        Begin reference to MCC specific JS controls (DESKTOP) -->\r\n<script src=\"../../App_Themes/Manningham/mcc-MasterCustom.js\"></script>\r\n<!--
+        End reference... -->\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://eproclaim.manningham.vic.gov.au/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: UTF-8
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0BboFPHA%2BUmV2aWV3IFBsYW5uaW5nIEFwcGxpY2F0aW9uIGRhdGEgYmVsb3cuIFJlY29yZHMgYXJlIHNvcnRlZCBieSBsb2RnZW1lbnQgZGF0ZSBhcyBkZWZhdWx0LCBob3dldmVyIGRhdGEgY2FuIGJlIHNvcnRlZCBiYXNlZCBvbiBhbnkgb2YgdGhlIGJlbG93IGNvbHVtbnMgLSBTaW1wbHkgY2xpY2sgb24gdGhlIHJlbGV2YW50IGNvbHVtbiBoZWFkaW5nICB0byB0b2dnbGUgYXNjZW5kaW5nIG9yIGRlc2NlbmRpbmcgc29ydCBvcmRlci48L3A%2BDQo8cD5Qcm9qZWN0IHR5cGVzIGxpc3RlZCBhcyAnTWFqb3InIGNhbiBiZSBkaXNwbGF5ZWQgZWFzaWx5IGJ5IHNvcnRpbmcgb24gdGhlICdQcm9qZWN0IFR5cGUnLjwvcD4NCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCmlmIChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfUmlnaHRUYXNrUGFuZV90c3BSZWxhdGVkTGlua3MnKS5pbm5lckhUTUwubGVuZ3RoID4gMCkgew0KICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9SaWdodFRhc2tQYW5lX3RzcFJlbGF0ZWRMaW5rcycpLmlubmVySFRNTCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9SaWdodFRhc2tQYW5lX3RzcFJlbGF0ZWRMaW5rcycpLmlubmVySFRNTC5yZXBsYWNlKCdSZWxhdGVkIExpbmtzJywnUGxhbm5pbmcgQXBwbGljYXRpb24gU2hvcnRjdXRzJyk7DQp9DQo8L3NjcmlwdD5kZAIDDw8WAh4IRWRpdE1vZGVoZBYEAgIPDxYCHwQFDFNlYXJjaCBEYXRlc2RkAgMPDxYCHwQFGDA0LzA2LzIwMTkgdG8gMDEvMDcvMjAxOWRkAgUPDxYGHghHcmlkVHlwZQUMRVRSQUNLU0VBUkNIHhBHcmlkQ3JpdGVyaWFMaXN0Mu0EAAEAAAD%2F%2F%2F%2F%2FAQAAAAAAAAAMAgAAAFBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAnAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEsIFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAACdUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhW10CAAAACAgJAwAAAAEAAAABAAAABwMAAAAAAQAAAAQAAAAEJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWECAAAACQQAAAANAwUEAAAAJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEFAAAAB21zVmFsdWUIbXNWYWx1ZTIObXNPcGVyYXRvckNvZGUKbXNDb2x1bW5JZA5tc1Byb3BlcnR5TmFtZQEBAQEBAgAAAAYFAAAAFjA0LzA2LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYwMS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCAWQWAmYPZBYEAgEPZBYCAgEPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgIBCAIDZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAJCZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZEMoNAtZSYO8%2FJ2LMoHXXgVV20In&__VIEWSTATEGENERATOR=C1608850&__EVENTVALIDATION=%2FwEWKgLI3e2uAgK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCALurtn5CAKO0%2BW9AQLv16uWDQL%2FiqOnDwKei6OnDwK1jaOnDwLci6OnDwL7i6OnDwKajKOnDwKhiqOnDwLIiKOnDwK5jLfiDgLgirfiDgL%2FirfiDgKei7fiDgK1jbfiDgLci7fiDgL7i7fiDgKajLfiDgKhirfiDgLIiLfiDgK5jNuvBALgituvBAL%2FituvBAKei9uvBAK1jduvBALci9uvBAL7i9uvBAKajNuvBAKhituvBALIiNuvBAK5jI%2FsDwLgio%2FsDwKa4IP0BAKa4Iv0BAK%2Fg8WMCQKjmJfRCnpLZ%2FLEff1u0yvSxWYOpKlVD3GJ&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%243
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=wmex5q3kdyggwz55e4g5aa55
+      Host:
+      - eproclaim.manningham.vic.gov.au
+      Referer:
+      - https://eproclaim.manningham.vic.gov.au/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '3172'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Mon, 01 Jul 2019 07:10:12 GMT
+      Content-Length:
+      - '21974'
+      X-Cache:
+      - MISS from localhost
+      X-Cache-Lookup:
+      - MISS from localhost:80
+      Via:
+      - 1.0 localhost (squid/3.1.6)
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html lang=\"en\"
+        xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><link href=\"https://fonts.googleapis.com/css?family=Open+Sans\"
+        rel=\"stylesheet\" /><title>\r\n\tManningham City Council - Submitted Last
+        28 Days\r\n</title>\r\n<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n
+        \ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n
+        \ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n
+        \ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n
+        \ ga('create', 'UA-42682328-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n<link
+        href=\"../../App_Themes/Manningham/Default.css\" type=\"text/css\" rel=\"stylesheet\"
+        /></head>\r\n<body>\r\n\r\n<noscript class=\"noscript\">\r\n   <div id=\"noscriptDiv\">\r\n
+        \  JavaScript must be enabled in order to use the Manningham City eServices
+        website.<br/>Please enable JavaScript in your web browser and refresh this
+        page to continue.\r\n   </div>\r\n</noscript>\r\n\r\n<script type=\"text/javascript\"
+        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
+        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0BboFPHA+UmV2aWV3IFBsYW5uaW5nIEFwcGxpY2F0aW9uIGRhdGEgYmVsb3cuIFJlY29yZHMgYXJlIHNvcnRlZCBieSBsb2RnZW1lbnQgZGF0ZSBhcyBkZWZhdWx0LCBob3dldmVyIGRhdGEgY2FuIGJlIHNvcnRlZCBiYXNlZCBvbiBhbnkgb2YgdGhlIGJlbG93IGNvbHVtbnMgLSBTaW1wbHkgY2xpY2sgb24gdGhlIHJlbGV2YW50IGNvbHVtbiBoZWFkaW5nICB0byB0b2dnbGUgYXNjZW5kaW5nIG9yIGRlc2NlbmRpbmcgc29ydCBvcmRlci48L3A+DQo8cD5Qcm9qZWN0IHR5cGVzIGxpc3RlZCBhcyAnTWFqb3InIGNhbiBiZSBkaXNwbGF5ZWQgZWFzaWx5IGJ5IHNvcnRpbmcgb24gdGhlICdQcm9qZWN0IFR5cGUnLjwvcD4NCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCmlmIChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfUmlnaHRUYXNrUGFuZV90c3BSZWxhdGVkTGlua3MnKS5pbm5lckhUTUwubGVuZ3RoID4gMCkgew0KICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9SaWdodFRhc2tQYW5lX3RzcFJlbGF0ZWRMaW5rcycpLmlubmVySFRNTCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9SaWdodFRhc2tQYW5lX3RzcFJlbGF0ZWRMaW5rcycpLmlubmVySFRNTC5yZXBsYWNlKCdSZWxhdGVkIExpbmtzJywnUGxhbm5pbmcgQXBwbGljYXRpb24gU2hvcnRjdXRzJyk7DQp9DQo8L3NjcmlwdD5kZAIDDw8WAh4IRWRpdE1vZGVoZBYEAgIPDxYCHwQFDFNlYXJjaCBEYXRlc2RkAgMPDxYCHwQFGDA0LzA2LzIwMTkgdG8gMDEvMDcvMjAxOWRkAgUPDxYGHghHcmlkVHlwZQUMRVRSQUNLU0VBUkNIHhBHcmlkQ3JpdGVyaWFMaXN0Mu0EAAEAAAD/////AQAAAAAAAAAMAgAAAFBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAnAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEsIFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAACdUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhW10CAAAACAgJAwAAAAEAAAABAAAABwMAAAAAAQAAAAQAAAAEJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWECAAAACQQAAAANAwUEAAAAJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEFAAAAB21zVmFsdWUIbXNWYWx1ZTIObXNPcGVyYXRvckNvZGUKbXNDb2x1bW5JZA5tc1Byb3BlcnR5TmFtZQEBAQEBAgAAAAYFAAAAFjA0LzA2LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYwMS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCAmQWAmYPZBYEAgEPZBYCAgEPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgICCAIDZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAJCZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZGcuonivl9PrsWjbxMB7Vf4ynivJ\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"C1608850\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWEgK8+478CwK359HKDwL38+S0BQLD0Z//CAKDjpzeCALurtn5CAKO0+W9AQLv16uWDQL/iqOnDwKei6OnDwK1jaOnDwLci6OnDwL7i6OnDwKajKOnDwKa4IP0BAKa4Pf0BAK/g8WMCQKjmJfRCs4xPh24QwHxLwyJCQRcD2YKQK/p\"
+        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
+        >\t\t\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
+        \                               \r\n                             </span>\r\n
+        \                           \r\n                     </div>\r\n                    <!--
+        End Login -->            \r\n                <div id=\"cssBannerLogo\">\r\n\t\t\t\t\t<div
+        id=\"cssBannerLogoSub\">\r\n<!--\r\n<table class=\"MCCBannerT\">\r\n  <tr
+        class =\"MCCBannerTr\">\r\n    <th class=\"MCCBannerThL\">\t\t\t\t\t\t<a href=\"https://eproclaim.manningham.vic.gov.au/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\">\r\n\t\t\t\t\t\t\t<img src=\"../../App_Themes/Default/Images/Empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n\t\t\t\t\t\t</a></th>\r\n
+        \   <th id=\"MCCBannerTh1\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/your-council\">Your<br>Council</a></div></th>\r\n
+        \   <th id=\"MCCBannerTh2\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/community-services\">Community<br>Services</a></div></th>\r\n
+        \   <th id=\"MCCBannerTh3\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/our-environment\">Our<br>Environment</a></div></th>\r\n
+        \   <th id=\"MCCBannerTh4\" class=\"MCCBannerTh\"><div class=\"MCCBannerThB\"><a
+        href=\"http://www.manningham.vic.gov.au/planning-and-development\">Planning
+        &amp;<br>Development</a></div></th>\r\n    <th id=\"MCCBannerTh5\" class=\"MCCBannerTh\"><div
+        class=\"MCCBannerThB\"><a href=\"http://www.manningham.vic.gov.au/things-to-do\">Things<br>To
+        Do</a></div></th>\r\n  </tr>\r\n  <tr class =\"MCCBannerTr\">\r\n    <td class=\"MCCBannerTdL\"></td>\r\n
+        \   <td id=\"MCCBannerTd1\" class=\"MCCBannerTd\"></td>\r\n    <td id=\"MCCBannerTd2\"
+        class=\"MCCBannerTd\"></td>\r\n    <td id=\"MCCBannerTd3\" class=\"MCCBannerTd\"></td>\r\n
+        \   <td id=\"MCCBannerTd4\" class=\"MCCBannerTd\"></td>\r\n    <td id=\"MCCBannerTd5\"
+        class=\"MCCBannerTd\"></td>\r\n  </tr>\r\n</table>\r\n -->            \r\n\t\t\t\t\t</div>\r\n
+        \               </div>\t\r\n            </div>\r\n\t    <div id=\"cssBannerLine\"></div>\r\n
+        \           <div class=\"clear\"></div>\r\n            <div id=\"cssContentArea\">\r\n
+        \               <div id=\"cssTaskpane\"  class = \"cssNoPrint\">\r\n                    \r\n
+        \                   <div>\r\n                        \r\n                                <div
+        class=\"menuPanel\">\r\n                            \r\n                                <div
+        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Online
+        Applications</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ShoppingCart/ShoppingCart.aspx?r=P1.WEBGUEST&amp;f=%24P1.PAY.CART.VIW\">Shopping
+        Cart</a></li><li><a href=\"../eSubmit/SubmitApplication.aspx?r=P1.WEBGUEST&amp;f=%24P1.ESB.SUBMTAPP.VIW\">Submit
+        an Application</a></li>\r\n</ul>\r\n                                <br />\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Online
+        Payments</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/AnimalPayment.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPY.ANIMALS.ENQ\">Animal
+        Payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPY.APPS.ENQ\">Application
+        Payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPY.INFRINGE.ENQ\">Infringement
+        Payment</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">User Information</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../User/PasswordReset.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.USERPASS.VIW\">Forgotten
+        Password</a></li><li><a href=\"../Home.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.HOME.VIW\">Home
+        Page</a></li><li><a href=\"../User/Register.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.REGUSER.MNT\">Register</a></li>\r\n</ul>\r\n
+        \                               <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl04_lblMenuGroupHeader\">Planning Applications
+        Portal</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../PublicNotices/AllPublicNotices.aspx?r=P1.WEBGUEST&amp;f=P1.ESB.MCCALLAP.ENQ\">Applications
+        Currently Advertised</a></li><li><a href=\"https://eproclaim.manningham.vic.gov.au/eProperty/P1/eTrack/eTrackApplicationSearch.aspx?f=P1.ETR.SEARCHMCC.ENQ&amp;Custom=Yes&amp;ApplicationId=P\">All
+        Planning Applications</a></li><li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=P1.ETR.SEARCHMCC.ENQ\">Planning
+        Application Search</a></li>\r\n</ul>\r\n                                <br
+        />\r\n                            \r\n                                <div
+        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl05_lblMenuGroupHeader\">Parking
+        Permits</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../eSubmit/ParkingPermitApplication.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPP.PERMIT.MNT\">Apply
+        for a Parking Permit</a></li>\r\n</ul>\r\n                                <br
+        />\r\n                            \r\n                                </div>\r\n
+        \                           \r\n                        \r\n                    </div>\r\n
+        \                      \r\n\t\t\t\t\t\r\n                <div id=\"cssTaskpaneRelatedLinks\"
+        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
+        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
+        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n
+        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
+        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n\t\t\t\t\t\r\n
+        \               </div>\r\n                \r\n\r\n                                \r\n
+        \               <div id=\"cssContent\">\r\n                <div class=\"cssContentWorkspace\">\r\n
+        \                   <a id=\"cssContentTop\"></a>\r\n                    \r\n
+        \                       <h1 id=\"ctl00_Header_h1PageTitle\">Submitted Last
+        28 Days</h1>\r\n                    \r\n                    \r\n                    \r\n
+        \                             \r\n                    \r\n    \r\n    <span
+        id=\"ctl00_Content_cusETrackApplicationSearchResults\" style=\"display:inline-block;width:100%;\"><p>Review
+        Planning Application data below. Records are sorted by lodgement date as default,
+        however data can be sorted based on any of the below columns - Simply click
+        on the relevant column heading  to toggle ascending or descending sort order.</p>\r\n<p>Project
+        types listed as 'Major' can be displayed easily by sorting on the 'Project
+        Type'.</p>\r\n<script type=\"text/javascript\">\r\nif (document.getElementById('ctl00_RightTaskPane_tspRelatedLinks').innerHTML.length
+        > 0) {\r\n    document.getElementById('ctl00_RightTaskPane_tspRelatedLinks').innerHTML
+        = document.getElementById('ctl00_RightTaskPane_tspRelatedLinks').innerHTML.replace('Related
+        Links','Planning Application Shortcuts');\r\n}\r\n</script></span>\r\n    <br
+        />\r\n    \r\n    <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span
+        id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\" class=\"fieldLabel\">Search
+        Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\" class=\"fieldLabel\">04/06/2019
+        to 01/07/2019</span></span>\r\n    \r\n    <div id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n
+        \   \r\n    \r\n    \r\n            \r\n \r\n            \r\n\r\n            <div>\r\n\t\t<table
+        class=\"grid\" cellspacing=\"0\" cellpadding=\"3\" border=\"0\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">ID</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodged</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Address</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Decision')\">Status</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Text15')\">Project
+        Type</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl01','')\">PLN19/0258</a></td><td>05/06/2019</td><td>Buildings
+        and works for the construction of cricket practice facilities associated with
+        the existing education centre and associated vegetation removal</td><td>Carey
+        Grammar School 169-173 Bulleen Road BULLEEN VIC 3105</td><td>Ready to Report</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl01','')\">PLN19/0272</a></td><td>04/06/2019</td><td>Construction
+        of two, two-storey dwellings</td><td>86 Greenridge Avenue TEMPLESTOWE VIC
+        3106</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl01','')\">PVN19/0060</a></td><td>04/06/2019</td><td>Construction
+        and put up for display a business identification sign</td><td>12/1020 Doncaster
+        Road DONCASTER EAST VIC 3109</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl01','')\">PLN19/0260</a></td><td>04/06/2019</td><td>Partial
+        demolition of the existing building, use and development of the land for a
+        child care centre, reduction of the standard car parking requirement and the
+        construction and put up for display a floodlit business identification sign</td><td>134-136
+        Atkinson Street TEMPLESTOWE VIC 3106</td><td>Preliminary Assessment</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl01','')\">PLA19/0054</a></td><td>04/06/2019</td><td>Amendment
+        to Planning Permit PL08/019982 (issued for a Forty-six (46) lot subdivision
+        including a public reserve, the creation of a common property accessway and
+        drainage works, the removal of native vegetation, the creation and removal
+        of easements and the construction of dwellings in accordance with the endorsed
+        plans and subject to the following conditions) by alterations to the development
+        for 10 dwellings at Lots 18 and 19 (Nos. 12 and 14) including a reduction
+        to the setback to the southern boundary, deletion of a visitor car space and
+        alterations to levels</td><td>12 Red Hill Terrace DONCASTER EAST VIC 3109</td><td>Preliminary
+        Assessment</td><td>Pending</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl01','')\">PLN19/0271</a></td><td>04/06/2019</td><td>Two
+        (2) Lot Subdivision</td><td>1 Correa Court DONCASTER EAST VIC 3109</td><td>Permit</td><td>&nbsp;</td>\r\n\t\t\t</tr><tr
+        class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"6\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><span>3</span></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"Previous\"
+        id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access Key: P\" class=\"LeftArrowButton\"
+        />\r\n    </div>\r\n\r\n\r\n                    <div class=\"clear\"></div>\r\n
+        \                   <br />\r\n                    <br />\r\n                    <br
+        />\r\n                </div>\r\n                </div>\r\n            </div>\r\n
+        \           <p></p>\r\n            <p class=\"invisible\"></p>\r\n            <div
+        id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">
+        \                \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
+        accesskey=\"V\" title=\"Access Key: V\" href=\"http://www.manningham.vic.gov.au\"
+        target=\"_self\">MCC Web Site</a>\r\n                    <img id=\"ctl00_imgFooterSeparator1\"
+        class=\"verticalBar\" src=\"../../App_Themes/Manningham/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink2\" accesskey=\"T\" title=\"Access Key: T\"
+        href=\"https://eproclaim.manningham.vic.gov.au/eProperty/ManninghamPDF/Terms_and_Conditions.pdf\"
+        target=\"_self\">Terms of Use</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\"
+        class=\"verticalBar\" src=\"../../App_Themes/Manningham/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink3\" accesskey=\"U\" title=\"Access Key: U\"
+        href=\"mailto:manningham@manningham.vic.gov.au\" target=\"_self\">Contact
+        Us</a>                       \r\n                    <span id=\"ctl00_MobileLink\">\r\n
+        \                       <img id=\"ctl00_Image1\" class=\"verticalBar\" src=\"../../App_Themes/Manningham/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                        <a
+        id=\"ctl00_hplMobileView\" href=\"javascript:__doPostBack('ctl00$hplMobileView','')\">Mobile
+        View</a>                       \r\n                    </span>\r\n                </div>\r\n
+        \               <div id=\"cssBottomBarCopyright\"><!-- &copy; Technology One
+        Limited 2019 -->&nbsp;</div>\r\n            </div>\r\n            \r\n        </div>\r\n
+        \   \r\n\r\n<script type=\"text/javascript\">\r\n//<![CDATA[\r\n$(document).ready(function
+        () {if ($('#ctl00_valErrors').is(':visible') == true) {$('#__SCROLLPOSITIONX').val('0');$('#__SCROLLPOSITIONY').val('0');}});//]]>\r\n</script>\r\n</form>\r\n<!--
+        Begin reference to MCC specific JS controls (DESKTOP) -->\r\n<script src=\"../../App_Themes/Manningham/mcc-MasterCustom.js\"></script>\r\n<!--
+        End reference... -->\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+recorded_with: VCR 5.0.0

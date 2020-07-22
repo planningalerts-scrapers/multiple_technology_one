@@ -1,0 +1,550 @@
+---
+- council_reference: CC.2019.1001
+  address: 43 Kearns Parade CARWOOLA NSW 2620
+  description: Shed
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: CC.2019.1005
+  address: 10 Borough Ridge GOOGONG NSW 2620
+  description: New Dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1005&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CC.2019.1007
+  address: 34 Bendora Avenue CRESTWOOD NSW 2620
+  description: Alts and Adds
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1007&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: CC.2019.1008
+  address: 243 Bidges Road SUTTON NSW 2620
+  description: Dwelling Extensions - Alts and Adds
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1008&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: CC.2019.1009
+  address: 106 Newington Road BYWONG NSW 2621
+  description: Swimming Pool
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: CC.2019.1010
+  address: 45 Brooks Road BYWONG NSW 2621
+  description: Convert Existing Shed to Home Gym & Study with Bathroom
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CC.2019.1011
+  address: 187 Cooke Drive GOOGONG NSW 2620
+  description: Pergola
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CC.2019.1012
+  address: Works Depot 100 Ellendon Street BUNGENDORE NSW 2621
+  description: Alterations and Additions to Bungendore Depot
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CC.2019.1013
+  address: 101 Halloran Drive JERRABOMBERRA NSW 2619
+  description: Double Carport
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1013&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CC.2019.1014
+  address: 1598 Captains Flat Road CARWOOLA NSW 2620
+  description: Shed with attached Carport
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: CC.2019.1015
+  address: 93 Monaro Station Road ROYALLA NSW 2620
+  description: Swimming Pool
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: CC.2019.1016
+  address: 26 Halloran Drive JERRABOMBERRA NSW 2619
+  description: Dwelling Alterations and Additions
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1016&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: CC.2019.1018
+  address: 49 High Street QUEANBEYAN EAST NSW 2620
+  description: Replace existing ramp with new compliant ramp and modify front foyer
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: CC.2019.1020
+  address: 108 Weatherstone Circuit GOOGONG NSW 2620
+  description: new single storey residence
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-07'
+- council_reference: CC.2019.1021
+  address: 13 Elrington Street BRAIDWOOD NSW 2622
+  description: Residential - Single new dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: CC.2019.1022
+  address: 159 Harts Road KRAWARREE NSW 2622
+  description: Swimming Pool
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1022&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: CC.2019.1023
+  address: 80 Uriarra Road CRESTWOOD NSW 2620
+  description: New Secondary Dwelling - Dual Occupancy
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1023&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: CC.2019.1024
+  address: 37 Poplar Crescent JERRABOMBERRA NSW 2619
+  description: Alfesco area and Deck
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: CC.2019.1025
+  address: 545 Urila Road URILA NSW 2620
+  description: Two Sheds
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: CC.2019.1026
+  address: 885 Mount Fairy Road MOUNT FAIRY NSW 2580
+  description: Farm Shed
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1026&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: CC.2019.1027
+  address: 29/9 Coral Drive JERRABOMBERRA NSW 2619
+  description: Patio
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2019.1027&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: CCP.2019.1000
+  address: 13 McPherson Street GOOGONG NSW 2620
+  description: Erection of a dwelling house
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCP.2019.1000&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CCP.2019.1001
+  address: 48 Atkinson Street QUEANBEYAN EAST NSW 2620
+  description: Multi dwelling housing involving demolition of existing buildings,
+    erection of 4 x 2 storey townhouses and strata subdivision
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCP.2019.1001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CCP.2019.1002
+  address: 33 Underhill Street GOOGONG NSW 2620
+  description: Erection of a dwelling house
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCP.2019.1002&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CCP.2019.1003
+  address: 27 Montague Place GOOGONG NSW 2620
+  description: Swimming pool
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCP.2019.1003&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CDC.2019.1000
+  address: 11 Geebung Place QUEANBEYAN EAST NSW 2620
+  description: Alterations
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC.2019.1000&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: CDC.2019.1001
+  address: Letchworth Community Centre 28 Miller Street QUEANBEYAN WEST NSW 2620
+  description: Install Solar System
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC.2019.1001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: DA.2018.018
+  address: 1744 Bungendore Road BYWONG NSW 2621
+  description: Extension of Existing Shed
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2018.018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA.2019.079
+  address: 122 Harriott Road BYWONG NSW 2621
+  description: Residential Alterations & Additions
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.079&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA.2019.081
+  address: 188 Radcliffe Circuit CARWOOLA NSW 2620
+  description: Internal alterations pergola and shed
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.081&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA.2019.095
+  address: 124 Hickey Road SUTTON NSW 2620
+  description: Swimming Pool, Shade Structures and Carport
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.095&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA.2019.1019
+  address: 9 Maslin Place BUNGENDORE NSW 2621
+  description: New residence
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: DA.2019.1020
+  address: 13 Stornaway Road QUEANBEYAN NSW 2620
+  description: Demolition of existing dwelling and construction of Residential Flat
+    Building (14 dwellings)
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: DA.2019.1021
+  address: 26 Cassidy Street QUEANBEYAN WEST NSW 2620
+  description: 2 Lot Subdivision
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: DA.2019.1022
+  address: 34 Bendora Avenue CRESTWOOD NSW 2620
+  description: Alts and Adds
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1022&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA.2019.1023
+  address: 5 O'Neill Place BUNGENDORE NSW 2621
+  description: Alterations and Additions to garage/shed
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1023&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA.2019.1024
+  address: 243 Bidges Road SUTTON NSW 2620
+  description: Dwelling Extensions - Alts and Adds
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA.2019.1025
+  address: 103 Woodfield Road SUTTON NSW 2620
+  description: Four Lot Subdivision
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA.2019.1026
+  address: 9 Chinnery Close BUNGENDORE NSW 2621
+  description: New Dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1026&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA.2019.1027
+  address: 2 Goiser Loop GOOGONG NSW 2620
+  description: New single dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1027&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA.2019.1028
+  address: 11 Solus Street BRAIDWOOD NSW 2622
+  description: Two Lot Subdivision and Dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1028&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA.2019.1029
+  address: 93 Erskine Loop GOOGONG NSW 2620
+  description: New single dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1029&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA.2019.1030
+  address: 95 Erskine Loop GOOGONG NSW 2620
+  description: New single dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1030&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA.2019.1031
+  address: 45 Brooks Road BYWONG NSW 2621
+  description: Convert Existing Shed to Home Gym & Study with Bathroom
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1031&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA.2019.1032
+  address: 21 King Street BUNGENDORE NSW 2621
+  description: Shed
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1032&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA.2019.1033
+  address: 187 Cooke Drive GOOGONG NSW 2620
+  description: Pergola
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1033&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA.2019.1034
+  address: 101 Halloran Drive JERRABOMBERRA NSW 2619
+  description: Double Carport
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1034&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: DA.2019.1035
+  address: 3 Westwood Circuit BUNGENDORE NSW 2621
+  description: Patio Roof
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1035&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: DA.2019.1036
+  address: 11 Coachwood Avenue JERRABOMBERRA NSW 2619
+  description: Two Patios
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1036&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: DA.2019.1037
+  address: 1598 Captains Flat Road CARWOOLA NSW 2620
+  description: Shed with attached Carport
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1037&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: DA.2019.1038
+  address: 93 Monaro Station Road ROYALLA NSW 2620
+  description: Swimming Pool
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1038&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: DA.2019.1039
+  address: 26 Halloran Drive JERRABOMBERRA NSW 2619
+  description: Dwelling Alterations and Additions
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1039&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: DA.2019.1040
+  address: 11 Courtney Street GOOGONG NSW 2620
+  description: single dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1040&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: DA.2019.1041
+  address: 23 McPherson Street GOOGONG NSW 2620
+  description: Erection of a Dwelling House
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1041&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: DA.2019.1042
+  address: 243 Bidges Road SUTTON NSW 2620
+  description: Residential Alts and Adds
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1042&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: DA.2019.1043
+  address: 12 Cantle Place KARABAR NSW 2620
+  description: Deck and pergola
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1043&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: DA.2019.1044
+  address: 18 Cleaver Street GOOGONG NSW 2620
+  description: Construction of two storey dwelling with attached garage.
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1044&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: DA.2019.1046
+  address: 1 McPherson Street GOOGONG NSW 2620
+  description: Googong Dwelling - Two Storey
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1046&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: DA.2019.1047
+  address: 40 Mecca Lane BUNGENDORE NSW 2621
+  description: Three Bay Shed
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1047&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: DA.2019.1048
+  address: 79 The Mountain Road BUNGENDORE NSW 2621
+  description: New Garage, Shed and Carport
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1048&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: DA.2019.1049
+  address: 108 Weatherstone Circuit GOOGONG NSW 2620
+  description: New single storey Residence
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1049&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-07'
+- council_reference: DA.2019.1050
+  address: 11 Gardiner Street GOOGONG NSW 2620
+  description: New 4 Bedroom Dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1050&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: DA.2019.1051
+  address: 18 Cameron Road QUEANBEYAN NSW 2620
+  description: Dwelling alterations and additions
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1051&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: DA.2019.1052
+  address: 410 Royalla Drive ROYALLA NSW 2620
+  description: Patio
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1052&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: DA.2019.1053
+  address: 67 Daniel Lane FORBES CREEK NSW 2621
+  description: Fill over 600mm & Tennis Court Lighting
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1053&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: DA.2019.1054
+  address: 80 Uriarra Road CRESTWOOD NSW 2620
+  description: New Secondary Dwelling - Dual Occupancy
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1054&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: DA.2019.1055
+  address: 876 Boro Road BORO NSW 2622
+  description: Manufactured Dwelling and Shed
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1055&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: DA.2019.1056
+  address: 37 Poplar Crescent JERRABOMBERRA NSW 2619
+  description: Alfesco area and Deck
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1056&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: DA.2019.1057
+  address: 545 Urila Road URILA NSW 2620
+  description: Two Sheds
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1057&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: DA.2019.1058
+  address: 885 Mount Fairy Road MOUNT FAIRY NSW 2580
+  description: Farm Shed
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1058&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: DA.2019.1059
+  address: 156 Mount Pleasant Drive GOOGONG NSW 2620
+  description: Dwelling with detached secondary dwelling.
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1059&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: DA.2019.1060
+  address: 980 Majors Creek Mountain Road ARALUEN NSW 2622
+  description: Commercial Building with Attached Dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1060&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: DA.2019.1061
+  address: 29/9 Coral Drive JERRABOMBERRA NSW 2619
+  description: Patio
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1061&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: DA.2019.1062
+  address: 662 Taylors Creek Road TARAGO NSW 2580
+  description: Single new Dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1062&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: DA.2019.1063
+  address: 36 Aurora Avenue QUEANBEYAN EAST NSW 2620
+  description: Fuel tank and stormwater drainage
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1063&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: DA.2019.1064
+  address: 31 McGowan Crescent GOOGONG NSW 2620
+  description: New Dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2019.1064&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: OCC.2019.0067
+  address: 11 Underhill Street GOOGONG NSW 2620
+  description: Erection of a dwelling house
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0067&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: OCC.2019.0068
+  address: 8 McLean Street GOOGONG NSW 2620
+  description: Erection of a dwelling house
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0068&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: OCC.2019.0069
+  address: 10 Woodger Parade KARABAR NSW 2620
+  description: Alterations and additions to existing dwelling
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0069&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: OCC.2019.0070
+  address: 569 Royalla Drive ROYALLA NSW 2620
+  description: Swimming pool
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0070&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: OCC.2019.0071
+  address: 1 Shillington Avenue GOOGONG NSW 2620
+  description: Pergola
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0071&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: OCC.2019.0072
+  address: 18 Carver Street GOOGONG NSW 2620
+  description: Erection of a dwelling house
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0072&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: OCC.2019.0073
+  address: 5/7 River Drive KARABAR NSW 2620
+  description: Renovations including new wet area and the conversion of laundry to
+    powder room
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: OCC.2019.0074
+  address: Proposed RFS 11 Foxlow Street CAPTAINS FLAT NSW 2623
+  description: Captains Flat RFS Shed
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0074&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: OCC.2019.0075
+  address: 149 Gorman Drive GOOGONG NSW 2620
+  description: Erection of a Dwelling House
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: OCC.2019.0076
+  address: 59 Ellendon Street BUNGENDORE NSW 2621
+  description: Change of Use, Relocate Carpark and Gazebo
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0076&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: OCC.2019.0077
+  address: Wombat Flat 147 North Black Range Fire Trail MULLOON NSW 2622
+  description: Council
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0077&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: OCC.2019.0078
+  address: 12 Sunset Place GOOGONG NSW 2620
+  description: Erection of a Dwelling House and Attached Garage
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0078&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: OCC.2019.0079
+  address: 4 Considine Close GREENLEIGH NSW 2620
+  description: Dwelling Alterations and Additions
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0079&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: OCC.2019.0080
+  address: 4 Banks Street GOOGONG NSW 2620
+  description: Erection of a dwelling house
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0080&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: OCC.2019.0081
+  address: 275 Crawford Street QUEANBEYAN NSW 2620
+  description: OTHER - SHADE SAIL
+  info_url: https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OCC.2019.0081&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'

@@ -1,0 +1,80 @@
+---
+- council_reference: PP2019/065
+  address: 41 Bailey Street TIMBOON VIC 3268
+  description: Buildings and Works Associated with a Place of Assembly (Timboon Mens
+    Shed) - New Verandah
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F065&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: PP2019/066
+  address: 500 Digneys Bridge Road TIMBOON VIC 3268
+  description: Two Lot Subdivision (Excision of Dwelling)
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F066&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: PP2019/067
+  address: 270 Koallah-Pomborneit Road POMBORNEIT VIC 3260
+  description: Use and Development of Land for a Dwelling and Outbuilding and Removal
+    of Vegetation
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F067&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: PP2019/068
+  address: 1175 Foxhow Road LESLIE MANOR VIC 3260
+  description: Buildings and Works to Extend Existing Emergency Services Facility
+    (Leslie Manor Fire Station)
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F068&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: PP2019/069
+  address: 620 Eddington Road BOOKAAR VIC 3260
+  description: Use and Development of Land for a Dwelling (Farm Workers' Accommodation)
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F069&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: PP2019/070
+  address: Old Geelong Road SKIBO VIC 3260
+  description: Buildings and Works Associated with Utility Installation (Camperdown
+    Biosolids Treatment Facility) and Removal of Native Vegetation
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F070&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: PP2019/071
+  address: 228 Manifold Street CAMPERDOWN VIC 3260
+  description: Buildings and Works for the Redevelopment of an Existing Hotel, Demolition
+    and External Additions and Alterations
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F071&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: PP2019/072
+  address: 43 Bond Street TIMBOON VIC 3268
+  description: Buildings and Works for Construction of a Storage Shed
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F072&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: PP2019/073
+  address: 20 Newfield Lane NEWFIELD VIC 3268
+  description: Buildings and Works for Construction of a Machinery Shed (at a Reduced
+    Set Back)
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F073&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: PP2019/074
+  address: 6-8 Church Street CAMPERDOWN VIC 3260
+  description: Change of Use from Commercial to Residential
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F074&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: PP2019/075
+  address: 761 Rokewood-Skipton Road SKIPTON VIC 3361
+  description: Buildings and Works Associated with a Vehicle Crossover
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F075&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: PP2019/076
+  address: 2621 Cobden-Port Campbell Road PORT CAMPBELL VIC 3269
+  description: Use and Development of the Land for the Purpose of a Group Accommodation
+    Building
+  info_url: https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PP2019%2F076&f=%24P1.ETR.APPDET.VIW&r=CSC.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'

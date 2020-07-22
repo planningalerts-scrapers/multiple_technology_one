@@ -1,2 +1,5 @@
 # Ignore output of scraper
 data.sqlite
+
+# rspec failure tracking
+.rspec_status

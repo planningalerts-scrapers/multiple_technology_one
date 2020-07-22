@@ -1,0 +1,640 @@
+---
+- council_reference: CC0002/20
+  address: 38 Cresswick Parade DALMENY NSW 2546
+  description: 140022.1.M3 - Alterations and additions to dwelling and detached garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0002%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: CC0003/20
+  address: 121 Annetts Parade MOSSY POINT NSW 2537
+  description: 190048.1 - Dwelling & Decks & Carport
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0003%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: CC0004/20
+  address: 41 Beachside Boulevard TOMAKIN NSW 2537
+  description: CC19/123 - Dwelling House & Swimming Pool
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0004%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: CC0005/20
+  address: 210 Percy Davis Drive MORUYA NSW 2537
+  description: 180099.1.M1 - Dwelling & Roofed Verandah & Solid Fuel Heater
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0005%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: CC0006/20
+  address: 38 Cresswick Parade DALMENY NSW 2546
+  description: 140022.1.M3 - Alterations & Additions to Dwelling & Attached Garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0006%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: CC0007/20
+  address: 7510 Princes Highway NAROOMA NSW 2546
+  description: 180067.1 - Dwelling & Roofed Verandah & Shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0007%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-03'
+- council_reference: CC0008/20
+  address: 117 Bruce Cameron Drive MORUYA NSW 2537
+  description: 2019/053 - Stage 1 Aircraft Maintenance Facility/Office
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0008%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: CC0009/20
+  address: Law Lane MOGO NSW 2536
+  description: CC190141 - Telecommunications Facility
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0009%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: CC0010/20
+  address: 43 Coronation Drive BROULEE NSW 2537
+  description: CC19/126 - Storage Shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0010%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: CC0011/20
+  address: 7 George Bass Drive BATEHAVEN NSW 2536
+  description: CC19/127 - Addition of Deck and Detached Garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0011%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: CC0012/20
+  address: 107 Litchfield Crescent LONG BEACH NSW 2536
+  description: CC19/129 - Dwelling, Solid Fuel Heater & Swimming Pool
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0012%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: CC0013/20
+  address: 257 Princes Highway NAROOMA NSW 2546
+  description: CC190027.1 - Alterations & Additions to Dwelling & Carports & Decks
+    & Garage/Workshop
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0013%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: CC0014/20
+  address: 56 Bondi Street TUROSS HEAD NSW 2537
+  description: CC19/128 - Dwelling House
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0014%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: CC0015/20
+  address: 41 Grandfathers Gully Road LILLI PILLI NSW 2536
+  description: CC19/130 - Dwelling House
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0015%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: CC0016/20
+  address: 48 Ocean Avenue SURF BEACH NSW 2536
+  description: CC2019/054 - Alterations & Additions
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0016%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: CC0017/20
+  address: Dwyers Creek Road MORUYA NSW 2537
+  description: CC19/131 - Dwelling House & Shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0017%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: CC0018/20
+  address: 16 John Reilly Street DALMENY NSW 2546
+  description: CC NSW20190511 - Demolition of existing unapproved carport and construction
+    of new deck and roof over existing deck
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0018%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: CC0019/20
+  address: 42 Wentworth Avenue SUNSHINE BAY NSW 2536
+  description: CC1019/19 - Construct a new dwelling
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0019%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: CC0020/20
+  address: 92 Princes Highway BODALLA NSW 2545
+  description: CC2018/081 - Storage/Home workshop shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0020%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: CC0021/20
+  address: 32 Gould Street TUROSS HEAD NSW 2537
+  description: CC19/133 - Detached Garage and Carport
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0021%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: CC0022/20
+  address: 15 Pleasant Place TUROSS HEAD NSW 2537
+  description: CC19/132 - Carport
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0022%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: CC0023/20
+  address: 12 Woolabar Drive BROULEE NSW 2537
+  description: CC19/136 - Dual Occupancy
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0023%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: CC0024/20
+  address: 77 Bavarde Avenue BATEMANS BAY NSW 2536
+  description: CC19/137 - New Garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0024%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: CC0025/20
+  address: 8 Dr King Close MORUYA NSW 2537
+  description: CC19/135 - Dwelling House
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0025%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: CC0026/20
+  address: 107 Banyandah Street SOUTH DURRAS NSW 2536
+  description: CC190064.1 - Retaining Walls
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0026%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: CC0027/20
+  address: 25 Shorthorn Close MORUYA NSW 2537
+  description: CC190058.1 - Dwelling & Garage & Workshop & Roofed Deck & Retaining
+    Wall
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0027%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: CC0028/20
+  address: 47 Sunset Boulevard KIANGA NSW 2546
+  description: CC190006.1.M1 Dwelling & deck & garage & workshop & retaining walls
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0028%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: CC0029/20
+  address: 6 Annies Lane ROSEDALE NSW 2536
+  description: CC19/139 - Dwelling house and shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0029%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: CC0030/20
+  address: 3 Bimbimbie Road JEREMADRA NSW 2536
+  description: CC19/141 - Dwelling and Detached Garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0030%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: CC0031/20
+  address: 18 Smith Street BROULEE NSW 2537
+  description: CC2019/064 - Alterations and Additions
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0031%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: CC0032/20
+  address: 5 Akin Place TOMAKIN NSW 2537
+  description: CC190062.1 - Shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0032%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: CC0033/20
+  address: 6 South Street BATEMANS BAY NSW 2536
+  description: CC19/142 - Garage, Carport and Footings for Studio
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0033%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: CC0034/20
+  address: 13 Miller Avenue ROSEDALE NSW 2536
+  description: CC19/140 - Alterations & Additions to Dwelling
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0034%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: CC0035/20
+  address: 22 Karoo Crescent MALUA BAY NSW 2536
+  description: CC19/143 - Open deck extensions to dwelling
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0035%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: CC0036/20
+  address: 26 Binalong Street DALMENY NSW 2546
+  description: CC19/144 - Alterations and additions to existing dwelling
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0036%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: CC0037/20
+  address: 16 Anchor Lane MORUYA HEADS NSW 2537
+  description: cc/9041001 - Dwelling Addition - Attached Patios
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0037%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: CC0038/20
+  address: 8 Gibraltar Way LONG BEACH NSW 2536
+  description: CC19/146 - Awning addition to dwelling
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0038%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: CC0039/20
+  address: 28 Marlin Street TUROSS HEAD NSW 2537
+  description: CC19/149 - Additions to dwelling
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0039%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: CC0040/20
+  address: 4 Dawarra Street TOMAKIN NSW 2537
+  description: CC190052.1 - Dwelling, garage and roofed patios
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0040%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: CC0041/20
+  address: 29 Waterson Drive SURF BEACH NSW 2536
+  description: BCA Classification 10(a) and 1(a) - 109/19/01
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0041%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: CC5001/20
+  address: 8 Parks Parade TOMAKIN NSW 2537
+  description: Demolition of existing garage and construction of new garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC5001%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: CC5002/20
+  address: 4 Pendula Place MALONEYS BEACH NSW 2536
+  description: Garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC5002%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: CC5003/20
+  address: 22 Cors Parade NORTH BATEMANS BAY NSW 2536
+  description: Garage and machinery shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC5003%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: CC5004/20
+  address: 41 Maulbrooks Road JEREMADRA NSW 2536
+  description: Dwelling House
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC5004%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: CC5005/20
+  address: 2A-2B Hazel Road MORUYA HEADS NSW 2537
+  description: Laundry addition
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC5005%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: CC5006/20
+  address: 31 Banyandah Street SOUTH DURRAS NSW 2536
+  description: New Fire Engine garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC5006%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: CC5007/20
+  address: 50 Litchfield Crescent LONG BEACH NSW 2536
+  description: Dwelling house
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC5007%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: CC5008/20
+  address: Banksia Grove MALUA BAY NSW 2536
+  description: Retaining wall
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC5008%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: DA0001/20
+  address: 89 Vulcan Street MORUYA NSW 2537
+  description: "2 - Residential Single Dwelling - TEST APPLICATION\r\n**Test charge
+    $1.00 has been receipted & GL-posted.\r\n**Further $1.00 raised for testing ePay."
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0001%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0002/20
+  address: 8 Parks Parade TOMAKIN NSW 2537
+  description: Demolition of existing garage and construction of new detached garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0002%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: DA0003/20
+  address: 31 Woolabar Drive BROULEE NSW 2537
+  description: Dwelling house
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0003%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: DA0004/20
+  address: 41A Barker Parade NAROOMA NSW 2546
+  description: Community facility
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0004%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0005/20
+  address: 4 Pendula Place MALONEYS BEACH NSW 2536
+  description: Demolition of existing carport and erection of attached garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0005%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: DA0006/20
+  address: 22 Cors Parade NORTH BATEMANS BAY NSW 2536
+  description: Garage and machinery shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0006%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: DA0007/20
+  address: Runnyford Road RUNNYFORD NSW 2536
+  description: Dwelling house
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0007%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: DA0008/20
+  address: 41 Maulbrooks Road JEREMADRA NSW 2536
+  description: Dwelling house
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0008%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: DA0009/20
+  address: 1 Kingston Place TOMAKIN NSW 2537
+  description: Use of existing unapproved garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0009%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: DA0010/20
+  address: 2A-2B Hazel Road MORUYA HEADS NSW 2537
+  description: Alterations and Additions
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0010%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-05'
+- council_reference: DA0011/20
+  address: Veitch Street MOGO NSW 2536
+  description: Earthworks - Relocation of fill from Lot 28 to Lots 25, 26 and 27
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0011%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: DA0012/20
+  address: 203 Annetts Parade MOSSY POINT NSW 2537
+  description: Alterations and additions to existing and Carport
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0012%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0013/20
+  address: 16 Yarragee Road MORUYA NSW 2537
+  description: Storage shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0013%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0014/20
+  address: 13 Wattlebird Way MALUA BAY NSW 2536
+  description: Dwelling house and retaining walls
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0014%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0015/20
+  address: 60 Heath Street BROULEE NSW 2537
+  description: Use of existing unapproved alterations
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0015%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0016/20
+  address: 18-20 Montague Street NAROOMA NSW 2546
+  description: Inground Fibreglass Swimming Pool
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0016%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: DA0017/20
+  address: 31 Banyandah Street SOUTH DURRAS NSW 2536
+  description: New Fire Engine garage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0017%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: DA0018/20
+  address: 5 Oceanview Way TOMAKIN NSW 2537
+  description: Dwelling house,
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0018%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-09'
+- council_reference: DA0019/20
+  address: 11-13 Shorthorn Close MORUYA NSW 2537
+  description: Multi Unit Development and 4 lot Torrens Title subdivision
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0019%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: DA0020/20
+  address: 13 Courtenay Crescent LONG BEACH NSW 2536
+  description: Dwelling House and
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0020%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: DA0021/20
+  address: 58 Yaccaba Drive MORUYA NSW 2537
+  description: Dwelling, detached garage and carports and solid fuel heater
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0021%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-11'
+- council_reference: DA0022/20
+  address: 32 Fauna Avenue LONG BEACH NSW 2536
+  description: Front deck addition
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0022%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: DA0023/20
+  address: 36 Pyang Avenue MALUA BAY NSW 2536
+  description: Entry Portico onto existing dwelling
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0023%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: DA0024/20
+  address: 10 Cantlay Street TURLINJAH NSW 2537
+  description: Alterations and additions to dwelling house and new in ground swimming
+    pool
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0024%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: DA0025/20
+  address: 38 Fishermans Crescent NORTH NAROOMA NSW 2546
+  description: Dwelling House, retaining walls & SFH
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0025%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: DA0026/20
+  address: 58 Bay Road LONG BEACH NSW 2536
+  description: Use of existing unapproved alterations and additions to dwelling house
+    and proposed alts and adds
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0026%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: DA0027/20
+  address: 8 Cooks Crescent ROSEDALE NSW 2536
+  description: Dwelling alterations and additions
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0027%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: DA0028/20
+  address: 32A Heath Street BROULEE NSW 2537
+  description: Use of existing unapproved alterations to dwelling and proposed alterations
+    and additions
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0028%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: DA0029/20
+  address: 18 Michener Court LONG BEACH NSW 2536
+  description: Deck extension
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0029%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: DA0030/20
+  address: 77 The River Road NELLIGEN NSW 2536
+  description: Use of existing unapproved detached garage and patio roof
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0030%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: DA0031/20
+  address: 25 Yabbarra Drive DALMENY NSW 2546
+  description: Dwelling
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0031%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-16'
+- council_reference: DA0032/20
+  address: 50 Litchfield Crescent LONG BEACH NSW 2536
+  description: Dwelling house
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0032%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: DA0033/20
+  address: 1A Herarde Street BATEMANS BAY NSW 2536
+  description: Installation of temporary exhibition suite for sales agents
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0033%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'
+- council_reference: DA0034/20
+  address: 6 Bellbird Drive MALUA BAY NSW 2536
+  description: Dwelling house and retaining wall
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0034%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: DA0035/20
+  address: 72 Sylvan Street MALUA BAY NSW 2536
+  description: Inground pool
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0035%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: DA0036/20
+  address: 117 Woodlands Drive NAROOMA NSW 2546
+  description: Boat storage
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0036%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: DA0037/20
+  address: 25 Trafalgar Road TUROSS HEAD NSW 2537
+  description: Deck addition
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0037%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: DA0038/20
+  address: 160 Percy Davis Drive MORUYA NSW 2537
+  description: Additions to dwelling & existing shed and new shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0038%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: DA0039/20
+  address: 6 First Street SOUTH DURRAS NSW 2536
+  description: Detached garage and new driveway
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0039%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: DA0040/20
+  address: 13 Cowper Street NELLIGEN NSW 2536
+  description: New Carport
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0040%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: DA0041/20
+  address: 44-46 Veitch Street MOGO NSW 2536
+  description: Garage & storage shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0041%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: DA0042/20
+  address: 518 Dunns Creek Road MALUA BAY NSW 2536
+  description: Dwelling and solid fuel heater
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0042%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: DA0043/20
+  address: 9 Bodalla Road POTATO POINT NSW 2545
+  description: Use of existing unapproved verandah and new roof over verandah
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0043%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: DA0044/20
+  address: 135 Litchfield Crescent LONG BEACH NSW 2536
+  description: Dwelling house, secondary dwelling and garden shed
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0044%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: DA0045/20
+  address: Clyde Road NORTH BATEMANS BAY NSW 2536
+  description: Attached Dual Occupancy
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0045%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: DA0046/20
+  address: 51 Kylie Crescent BATEMANS BAY NSW 2536
+  description: Add plant nursery to existing business
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0046%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: DA0047/20
+  address: 6-8 Cranbrook Road BATEMANS BAY NSW 2536
+  description: Industrial Unit
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0047%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-24'
+- council_reference: DA0048/20
+  address: 26 Craddock Road TUROSS HEAD NSW 2537
+  description: Retrospective Approval for 2 Existing Decks
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0048%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: DA0049/20
+  address: 54 Clarke Street BROULEE NSW 2537
+  description: additions and alterations
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0049%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-25'
+- council_reference: DA0050/20
+  address: 5 Clarence Street LONG BEACH NSW 2536
+  description: Dwelling & retaining walls
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0050%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: DA0051/20
+  address: 41 Skipjack Reach TUROSS HEAD NSW 2537
+  description: Alterations and additions to dwelling house and proposed Secondary
+    Dwelling
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0051%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: DA0052/20
+  address: 35 Beach Road BATEMANS BAY NSW 2536
+  description: Addition to dwelling
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0052%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: DA0053/20
+  address: 9 Tarourga Place DALMENY NSW 2546
+  description: Dwelling creating Dual Occupancy - Deferred Commencement
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0053%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-26'
+- council_reference: MDA0001/20
+  address: 38 Princes Highway NAROOMA NSW 2546
+  description: S96(1) Minor Modification
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MDA0001%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-08'
+- council_reference: MDA0003/20
+  address: 10 Shorthorn Close MORUYA NSW 2537
+  description: Modification to development consent no 536/19 for a dwelling house
+    and retaining wall
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MDA0003%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: MDA0006/20
+  address: 91 Edward Road BATEHAVEN NSW 2536
+  description: Mod to DA 592/19 - Delete condition 8
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MDA0006%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'
+- council_reference: MDA0007/20
+  address: 55 Fauna Avenue LONG BEACH NSW 2536
+  description: Mod 428/18-M1
+  info_url: https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MDA0007%2F20&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-23'

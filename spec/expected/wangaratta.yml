@@ -1,0 +1,62 @@
+---
+- council_reference: PlnApp19/122
+  address: Woongarr 435 Shanley Street WANGARATTA SOUTH VIC 3678
+  description: Development of a Dwelling
+  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F122&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-04'
+- council_reference: PlnApp19/126
+  address: HP Barr Reserve - Community Centre 8 Park Lane WANGARATTA VIC 3677
+  description: Removal of Native Vegetation - 3 Scattered Trees
+  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F126&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: PlnApp19/127
+  address: 53 Old School Road WALDARA VIC 3678
+  description: Three Lot Re-Subdivision
+  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F127&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: PlnApp19/128
+  address: 557 Robinson Road BOORHAMAN NORTH VIC 3685
+  description: Development of a Replacement Dwelling
+  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F128&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: PlnApp19/129
+  address: 14 Peppercorn Rise EVERTON UPPER VIC 3678
+  description: Development of a Replacement Dwelling
+  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F129&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-19'
+- council_reference: PlnApp19/130
+  address: 23 Macartney Street OXLEY VIC 3678
+  description: Two Lot Subdivision
+  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F130&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-10'
+- council_reference: PlnApp19/131
+  address: 2A Gibson Street WANGARATTA VIC 3677
+  description: Extension of an Industrial Building, Development of a Building (Retrospective)
+    and a Reduction in Carparking
+  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F131&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-15'
+- council_reference: PlnApp19/132
+  address: 12 Livourne Street WANGARATTA VIC 3677
+  description: Construction of a single dwelling
+  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F132&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-12'
+- council_reference: PlnApp19/133
+  address: 33-35 Warby Street WANGARATTA VIC 3677
+  description: Alterations to a Building Facade
+  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F133&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-17'
+- council_reference: PlnApp19/138
+  address: Railway Line & Reserve Sandford Road WANGARATTA VIC 3677
+  description: Demolition of a Building
+  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F138&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-18'

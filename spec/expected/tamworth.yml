@@ -1,0 +1,931 @@
+---
+- council_reference: CC2018-0217.02
+  address: 1 Windmill Drive MOORE CREEK NSW 2340
+  description: Verandah and footings to Relocatable Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2018-0217.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CC2019-0014.02
+  address: 5 Stockmans Way HILLVUE NSW 2340
+  description: Creation of a Cycle Centre and Athletic Centre Building
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0014.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: CC2019-0024.02
+  address: 4 Brushtail Drive NORTH TAMWORTH NSW 2340
+  description: Dwelling Alterations and Additions
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0024.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: CC2019-0029.02
+  address: 4 Currawong Drive CALALA NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0029.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: CC2019-0069.02
+  address: 73 Warrah Drive CALALA NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0069.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CC2019-0082.02
+  address: 8 Glenmore Drive MOORE CREEK NSW 2340
+  description: New Single Storey Dwelling & Secondary Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0082.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: CC2019-0086.02
+  address: 38 Rodeo Drive HILLVUE NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0086.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CC2019-0087.02
+  address: 7 Railway Avenue DURI NSW 2344
+  description: Carport
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0087.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: CC2019-0096.02
+  address: 21A Impala Estate Road WARRAL NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0096.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: CC2019-0097.02
+  address: 3 Jubata Drive MOORE CREEK NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0097.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CC2019-0107.02
+  address: 15 Explorers Way WESTDALE NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0107.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: CC2019-0110.02
+  address: 7 Malbec Close NORTH TAMWORTH NSW 2340
+  description: "**Single Storey Dwelling"
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0110.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CC2019-0117.01
+  address: 8-10 Duncan Street WOOLOMIN NSW 2340
+  description: Addition of front verandah
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0117.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: CC2019-0139.01
+  address: 85A Panorama Road CALALA NSW 2340
+  description: New Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0139.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: CC2019-0148.01
+  address: 300 Warral Road WARRAL NSW 2340
+  description: Construction of a Hay Shed and Stable
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0148.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: CC2019-0160.01
+  address: 28 Warrah Road HALLSVILLE NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0160.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: CC2019-0207.01
+  address: 14 Tuscany Boulevard NORTH TAMWORTH NSW 2340
+  description: New Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0207.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: CC2019-0211
+  address: 30 Horseshoe Place MOORE CREEK NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0211&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: CC2019-0212
+  address: 9 Tuscany Boulevard NORTH TAMWORTH NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0212&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: CC2019-0213
+  address: 100 Upper Street EAST TAMWORTH NSW 2340
+  description: Dwelling - Alterations and Additions
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0213&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: CC2019-0214
+  address: Miniacres 1798 New England Highway MOONBI NSW 2353
+  description: Verandah Deck and Ramp Access
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0214&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: CC2019-0217
+  address: Green Valley Road BENDEMEER NSW 2355
+  description: Farm Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0217&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: CC2019-0220
+  address: 12A Bourke Street TAMWORTH NSW 2340
+  description: Construction of Building containing Two Commercial Tenancies and Associated
+    Car Parking
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0220&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: CC2019-0222
+  address: 63 King Street WEST TAMWORTH NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0222&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CC2019-0223
+  address: 28 Faringdon Street NORTH TAMWORTH NSW 2340
+  description: New Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0223&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CC2019-0224
+  address: 19 Minnamurra Crescent HILLVUE NSW 2340
+  description: Construction of a Dual Occupancy and Torrens Title Subdivision
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019-0224&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CC2020-0001
+  address: 4 Peak Drive HILLVUE NSW 2340
+  description: Dwelling Alterations and Additions
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2020-0001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: CDC2016/0031.01
+  address: 8 River Street MOONBI NSW 2353
+  description: "** Shed (7m x 10.5m)"
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2016%2F0031.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CDC2019-0050.02
+  address: 131 Johnston Street NORTH TAMWORTH NSW 2340
+  description: Detached Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0050.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CDC2019-0068.02
+  address: 289 Newmans Lane CALALA NSW 2340
+  description: Addition - Roof Over Rear Verandah
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0068.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: CDC2019-0087
+  address: 14 Blue Gum Road MOORE CREEK NSW 2340
+  description: New Single Storey Dwelling w/attached Garage, Front Porch & Rear Alfresco
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0087&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: CDC2019-0088
+  address: 6 Corvina Close NORTH TAMWORTH NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0088&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: CDC2019-0089
+  address: 13 Jubata Drive MOORE CREEK NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0089&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: CDC2019-0090
+  address: 6 Glenmore Drive MOORE CREEK NSW 2340
+  description: Dwelling Alterations and Additions - Sunroom
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0090&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: CDC2019-0091
+  address: 13 Overlanders Way HILLVUE NSW 2340
+  description: Attached Carport
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0091&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: CDC2019-0092
+  address: 19 Fitzroy Street BARRABA NSW 2347
+  description: Attached Carport
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0092&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: CDC2019-0093
+  address: 10 McDonald Crescent CALALA NSW 2340
+  description: CDC converted to DA2019-0534 - Attached Garage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0093&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: CDC2019-0094
+  address: Miniacres 1798 New England Highway MOONBI NSW 2353
+  description: CONVERTED TO DA/CC - See DA2019-0532 - Verandah Deck and Ramp Access
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0094&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: CDC2019-0096
+  address: 4 Hotson Drive MOORE CREEK NSW 2340
+  description: Dwelling with attached garage, alfresco and porch
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0096&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: CDC2019-0097
+  address: 4 Bemboka Court MOORE CREEK NSW 2340
+  description: Attached Carport to Existing Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0097&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: CDC2019-0098
+  address: 3 Wilga Avenue MANILLA NSW 2346
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0098&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CDC2019-0099
+  address: 5 Tuscany Boulevard NORTH TAMWORTH NSW 2340
+  description: New Single Storey Dwelling with attached garage, alfresco, porch and
+    retaining walls
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019-0099&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA2019-0437.01
+  address: Inglebrook O'Briens Lane NEMINGHA NSW 2340
+  description: Change of Use - Home Cooking
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0437.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA2019-0518
+  address: 9 Tuscany Boulevard NORTH TAMWORTH NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0518&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: DA2019-0520
+  address: 100 Upper Street EAST TAMWORTH NSW 2340
+  description: Dwelling Alterations and Additions plus inground pool
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0520&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA2019-0521
+  address: 11 Overlanders Way HILLVUE NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0521&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: DA2019-0522
+  address: 37 Mulga Place MOORE CREEK NSW 2340
+  description: New Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0522&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: DA2019-0523
+  address: Oakenville Creek Road NUNDLE NSW 2340
+  description: New Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0523&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: DA2019-0525
+  address: 10 Casuarina Drive NORTH TAMWORTH NSW 2340
+  description: Storage Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0525&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: DA2019-0526
+  address: Hillside 777 Nundle Road PIALLAMORE NSW 2340
+  description: Residential Demolition Work - Removal of derelict house and garage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0526&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: DA2019-0527
+  address: Bowdens Lane MOORE CREEK NSW 2340
+  description: Staged Subdivision to Create Two Hundred & Fifty-Five (255) Residential
+    Lots
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0527&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: DA2019-0528
+  address: 40 West Avenue KOOTINGAL NSW 2352
+  description: Boundary Adjustment
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0528&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: DA2019-0529
+  address: 55A Napier Street EAST TAMWORTH NSW 2340
+  description: Conversion of Garage to Secondary Dwelling and construction of Carport
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0529&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: DA2019-0531
+  address: 35 Rodeo Drive HILLVUE NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0531&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: DA2019-0532
+  address: Miniacres 1798 New England Highway MOONBI NSW 2353
+  description: Verandah deck and ramp access
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0532&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: DA2019-0533
+  address: 43 Mathews Street WEST TAMWORTH NSW 2340
+  description: Detached Garage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0533&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: DA2019-0536
+  address: 1781 New England Highway MOONBI NSW 2353
+  description: Subdivision to create three lots
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0536&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: DA2019-0537
+  address: 1-3 Out Street WEST TAMWORTH NSW 2340
+  description: Change of use to resource recovery facility
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0537&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: DA2019-0538
+  address: 16 Robert Street SOUTH TAMWORTH NSW 2340
+  description: Change of use to dental surgery
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0538&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA2019-0539
+  address: 28 Faringdon Street NORTH TAMWORTH NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0539&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA2019-0540
+  address: 19 Shiraz Road NORTH TAMWORTH NSW 2340
+  description: Shed/Workshop to rear of house
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0540&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA2019-0543
+  address: 4 Peak Drive HILLVUE NSW 2340
+  description: Dwelling Alterations and Additions
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0543&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: DA2019-0544
+  address: 819 Gunnedah Road WESTDALE NSW 2340
+  description: Construction of an open sided shed for vehicle and equipment storage,
+    incorporating three shipping containers
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0544&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA2019-0545
+  address: Central Hotel 330-334 Peel Street TAMWORTH NSW 2340
+  description: Installation of Solar System on Roof
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0545&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA2019-0547
+  address: Queen Street Mall 112 Queen Street BARRABA NSW 2347
+  description: Frost Over Barraba Event 2019
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0547&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: DA2019-0548
+  address: 63 King Street WEST TAMWORTH NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0548&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: DA2019-0549
+  address: Illimani 126 Meadows Lane KINGSWOOD NSW 2340
+  description: Rural Subdivision - One (1) Lot into Four (4) Lots
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0549&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: DA2019-0550
+  address: 8 Benandarah Court MOORE CREEK NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019-0550&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: LG2019-0866
+  address: 17 Tuscany Boulevard NORTH TAMWORTH NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0866&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: LG2019-0869
+  address: 14 Blue Gum Road MOORE CREEK NSW 2340
+  description: New Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0869&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: LG2019-0870
+  address: 288-290 Peel Street TAMWORTH NSW 2340
+  description: Staged Development comprising the Demolition of Existing Buildings,
+    Construction of a Building, associated site works and Consolidation of Lots
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0870&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: LG2019-0871
+  address: 9 Tuscany Boulevard NORTH TAMWORTH NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0871&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: LG2019-0873
+  address: 9 Joe Coates Place MANILLA NSW 2346
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0873&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: LG2019-0874
+  address: 19 Shiraz Road NORTH TAMWORTH NSW 2340
+  description: Shed/Workshop to rear of house
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0874&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: LG2019-0875
+  address: 100 Upper Street EAST TAMWORTH NSW 2340
+  description: Connect to Council Sewer/Water/Stormwater Services
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0875&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: LG2019-0876
+  address: 11 Overlanders Way HILLVUE NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0876&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: LG2019-0877
+  address: 37 Mulga Place MOORE CREEK NSW 2340
+  description: Connect to Council Sewer/Water/Stormwater Services
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0877&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: LG2019-0878
+  address: 46 Upper Street EAST TAMWORTH NSW 2340
+  description: Alterations & Additions to Existing Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0878&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: LG2019-0880
+  address: 6 Corvina Close NORTH TAMWORTH NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0880&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: LG2019-0881
+  address: 9 Explorers Way WESTDALE NSW 2340
+  description: Connect to Council Sewer/Water/Stormwater Services
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0881&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: LG2019-0882
+  address: 13 Jubata Drive MOORE CREEK NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0882&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: LG2019-0883
+  address: The Haven 50 Warrah Road HALLSVILLE NSW 2340
+  description: Stormwater Drainage Work
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0883&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: LG2019-0884
+  address: Hillside 777 Nundle Road PIALLAMORE NSW 2340
+  description: Residential Demolition Work - Removal of derelict house and garage
+    and removal of septic system
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0884&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: LG2019-0886
+  address: Nundle Road PIALLAMORE NSW 2340
+  description: Septic - Install New System (1 Storey)
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0886&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: LG2019-0887
+  address: 14 Woodbry Crescent OXLEY VALE NSW 2340
+  description: Detached Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0887&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: LG2019-0888
+  address: 45 Wilburtree Street HILLVUE NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0888&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: LG2019-0889
+  address: 20 Gunnedah Road WEST TAMWORTH NSW 2340
+  description: Retrospective Toilet Installation
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0889&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: LG2019-0890
+  address: 6 Semillon Drive NORTH TAMWORTH NSW 2340
+  description: Patio Cover
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0890&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-16'
+- council_reference: LG2019-0891
+  address: 5 Benandarah Court MOORE CREEK NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0891&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: LG2019-0894
+  address: 13 Overlanders Way HILLVUE NSW 2340
+  description: Attached Carport
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0894&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: LG2019-0895
+  address: 21 Mawson Close WESTDALE NSW 2340
+  description: Caravan Water & Sewer Connection
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0895&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: LG2019-0896
+  address: 35 Rodeo Drive HILLVUE NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0896&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: LG2019-0899
+  address: 4 Hotson Drive MOORE CREEK NSW 2340
+  description: Dwelling with attached garage, alfresco and porch
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0899&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: LG2019-0902
+  address: Fairlight 1022 Rushes Creek Road RUSHES CREEK NSW 2346
+  description: New On-Site Sewage Management System - Additions to Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0902&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: LG2019-0903
+  address: 33 Johnston Street NORTH TAMWORTH NSW 2340
+  description: Water Supply Work
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0903&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: LG2019-0904
+  address: 19 Rodeo Drive HILLVUE NSW 2340
+  description: New shed with toilet and laundry sink
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0904&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: LG2019-0905
+  address: 16 Shiraz Road NORTH TAMWORTH NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0905&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: LG2019-0906
+  address: 55A Napier Street EAST TAMWORTH NSW 2340
+  description: Alteration of existing garage and erection of a carport
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0906&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: LG2019-0907
+  address: 26 Jubata Drive MOORE CREEK NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0907&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: LG2019-0908
+  address: Oakenville Creek Road NUNDLE NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0908&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: LG2019-0909
+  address: 25 Mulconda Close NORTH TAMWORTH NSW 2340
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0909&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: LG2019-0912
+  address: 28 Faringdon Street NORTH TAMWORTH NSW 2340
+  description: Connect to Council Sewer/Water/Stormwater Services
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0912&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: LG2019-0913
+  address: 66 Bourke Street EAST TAMWORTH NSW 2340
+  description: Demolition of the existing dwelling and structures and construction
+    of a new single storey dwelling and detached garage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0913&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: LG2019-0914
+  address: 4 Bemboka Court MOORE CREEK NSW 2340
+  description: Attached Carport to Existing Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0914&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: LG2019-0916
+  address: 4 Peak Drive HILLVUE NSW 2340
+  description: Dwelling Alterations and Additions
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0916&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: LG2019-0917
+  address: 161 Brisbane Street EAST TAMWORTH NSW 2340
+  description: Alterations & Additions to Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0917&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: LG2019-0920
+  address: 5 Tuscany Boulevard NORTH TAMWORTH NSW 2340
+  description: Connect to Council Sewer/Water/Stormwater Services
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0920&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: LG2019-0925
+  address: 63 King Street WEST TAMWORTH NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0925&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: LG2019-0926
+  address: 4 Warrabah Close NORTH TAMWORTH NSW 2340
+  description: Proposed Granny Flat
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0926&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: LG2019-0927
+  address: 6 Mason Court MOORE CREEK NSW 2340
+  description: Toilet in Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019-0927&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: LG2020-0001
+  address: 37 Hillvue Road SOUTH TAMWORTH NSW 2340
+  description: Connect to Council Sewer/Water/Stormwater Services
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2020-0001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-01'
+- council_reference: MOD2019-0115
+  address: 38 Wagonia Drive KOOTINGAL NSW 2352
+  description: Modification to DA2019-0022 - Move Double Garage away from Zone of
+    Influence of Sewer Main
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0115&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: MOD2019-0116
+  address: 257 Gunnedah Road WESTDALE NSW 2340
+  description: Conversion of garage to secondary dwelling, internal alterations to
+    dwelling and addition of alfresco area
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0116&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-13'
+- council_reference: MOD2019-0118
+  address: 1213 Gowrie Road DURI NSW 2344
+  description: Single Storey Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0118&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-17'
+- council_reference: MOD2019-0119
+  address: 24 Alice Street BARRABA NSW 2347
+  description: Alterations and Additions to a Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0119&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: MOD2019-0121
+  address: 17 Manilla Road BARRABA NSW 2347
+  description: Modification of Development Consent 2018-0059 by resiting and redesign
+    of the dwelling.
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0121&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: MOD2019-0122
+  address: 167 Calala Lane CALALA NSW 2340
+  description: Modification to DA0446/2015 & MOD2016/0135 - Correct Total Number of
+    Lots & Change Subdivision Staging
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0122&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: MOD2019-0123
+  address: 71 Carthage Street EAST TAMWORTH NSW 2340
+  description: Amendments to shed design including increase in height and width
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0123&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: MOD2019-0125
+  address: 41 Myrl Street CALALA NSW 2340
+  description: New Single Storey Dwelling - Modification to DA2017/0236
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0125&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: MOD2019-0126
+  address: New Winton Road WESTDALE NSW 2340
+  description: Modification to DA0181/2014 - Boundary Adjustment
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0126&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: MOD2019-0127
+  address: 37 Dowe Street TAMWORTH NSW 2340
+  description: Change of Use Only - Modification to DA2017/0240
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0127&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: MOD2019-0128
+  address: 45 Cunningham Street WESTDALE NSW 2340
+  description: Change of Use - Proposed Boarding House Accommodation
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2019-0128&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: PCA2018-0148
+  address: Community Hall 87 Scotland Road SOMERTON NSW 2340
+  description: Construction Certificate - Awning to existing Community Hall
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2018-0148&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: PCA2018-0275
+  address: 24 Hibiscus Way CALALA NSW 2340
+  description: Detached Garage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2018-0275&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-12'
+- council_reference: PCA2019-0320
+  address: 24 Alice Street BARRABA NSW 2347
+  description: Alterations and Additions to Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2019-0320&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: PrivCC2019-0147
+  address: 166-168 Marius Street TAMWORTH NSW 2340
+  description: Service Centre Canopy and Fuel Bowsers and Pylon Sign(6)
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0147&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: PrivCC2019-0148
+  address: 4 George Street MOONBI NSW 2353
+  description: CANCELLED as a Future Application - Refer to PrivCC2019-0149 - Single
+    Storey Dwelling with Attached Double Garage,Alfresco & Verandah and Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0148&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: PrivCC2019-0149
+  address: 4 George Street MOONBI NSW 2353
+  description: Single Storey Dwelling with Attached Double Garage,Alfresco & Verandah
+    and Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0149&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: PrivCC2019-0150
+  address: 198 Martins Lane PIALLAMORE NSW 2340
+  description: New Construction of Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0150&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-11'
+- council_reference: PrivCC2019-0151
+  address: 4 Highland Place NORTH TAMWORTH NSW 2340
+  description: New Dwelling and Attached Double Garage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0151&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: PrivCC2019-0152
+  address: 16 Vera Street SOUTH TAMWORTH NSW 2340
+  description: One New Dwelling (to create a Detached Dual Occupancy) including one
+    attached Double Garage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0152&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: PrivCC2019-0153
+  address: 1213 Gowrie Road DURI NSW 2344
+  description: CANCELLED as a Future Application - Refer to PrivCC2019-0154 - New
+    Dwelling including attached Double Garage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0153&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: PrivCC2019-0154
+  address: 1213 Gowrie Road DURI NSW 2344
+  description: New Single Storey Dwelling and Attached Double Garage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0154&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: PrivCC2019-0155
+  address: 288-290 Peel Street TAMWORTH NSW 2340
+  description: New Commercial Building (728m2) including Offices, open Carparking,
+    Retaining Walls & Associated Signage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0155&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: PrivCC2019-0156
+  address: Aldridges Road GARTHOWEN NSW 2345
+  description: Single Storey dwelling with attached verandah
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0156&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: PrivCC2019-0157
+  address: 9 Conway Close NORTH TAMWORTH NSW 2340
+  description: Dwelling and Retaining Walls
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0157&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: PrivCC2019-0158
+  address: 23 Rodney Street BARRABA NSW 2347
+  description: Detached Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCC2019-0158&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: PrivCD2019-0283
+  address: 18 Sequoia Drive MOORE CREEK NSW 2340
+  description: Swimming pool
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0283&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: PrivCD2019-0284
+  address: 7 Malbec Close NORTH TAMWORTH NSW 2340
+  description: Cancelled Duplicate Application - Refer to PrivCD2019-0286 Detached
+    Shed & Swimming Pool
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0284&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: PrivCD2019-0285
+  address: 7 Malbec Close NORTH TAMWORTH NSW 2340
+  description: Cancelled as Future Application - Duplicate of PrivCD2019-0285 - Detached
+    Shed & Swimming Pool
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0285&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: PrivCD2019-0286
+  address: 7 Malbec Close NORTH TAMWORTH NSW 2340
+  description: Detached Shed & Swimming Pool
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0286&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-14'
+- council_reference: PrivCD2019-0287
+  address: 9 George Street MOONBI NSW 2353
+  description: Inground Swimming Pool
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0287&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: PrivCD2019-0288
+  address: 14 Kurrawan Street SOUTH TAMWORTH NSW 2340
+  description: Change of use & Internal Alteration of Garage to Craft Room
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0288&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: PrivCD2019-0289
+  address: 10 Koreelah Close MOORE CREEK NSW 2340
+  description: Swimming Pool
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0289&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: PrivCD2019-0290
+  address: 11 Hyson Street KOOTINGAL NSW 2352
+  description: Detached Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0290&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: PrivCD2019-0291
+  address: 90 Marathon Street WESTDALE NSW 2340
+  description: Single storey dwelling with Attached Double garage, Alfresco & porch
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0291&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: PrivCD2019-0292
+  address: 9 Hyson Street KOOTINGAL NSW 2352
+  description: Attached awning to rear of Dwelling
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0292&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: PrivCD2019-0293
+  address: 6 Thornbill Road MOORE CREEK NSW 2340
+  description: New Dwelling & attached Double Garage
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0293&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: PrivCD2019-0294
+  address: 202 Tullamore Road LOOMBERAH NSW 2340
+  description: Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0294&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: PrivCD2019-0295
+  address: 370-372 Peel Street TAMWORTH NSW 2340
+  description: Shop Fitout - Optus
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2019-0295&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: PrivCD2020-0001
+  address: 1-3 Lockheed Street TAMINDA NSW 2340
+  description: Solar Panel Installation
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2020-0001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'
+- council_reference: PrivCD2020-0002
+  address: 45 Wilburtree Street HILLVUE NSW 2340
+  description: New Shed
+  info_url: https://eproperty.tamworth.nsw.gov.au/ePropertyProd/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PrivCD2020-0002&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-07-02'

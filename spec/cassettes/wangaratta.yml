@@ -1,0 +1,225 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - eservices.wangaratta.vic.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/10.0
+      Set-Cookie:
+      - ASP.NET_SessionId=voyvdqq40gjxlbq3tloypz45; path=/; HttpOnly
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ARR/3.0
+      - ASP.NET
+      Date:
+      - Mon, 29 Jul 2019 02:20:50 GMT
+      Content-Length:
+      - '20313'
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tWangaratta
+        eServices - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/Wangaratta%20eServices/Default.css\"
+        type=\"text/css\" rel=\"stylesheet\" /><link href=\"../../App_Themes/Wangaratta%20eServices/RCOW%20Default.css\"
+        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n\r\n<script type=\"text/javascript\"
+        src=\"../../Scripts/jquery-1.8.3.min.js\"></script> \r\n\r\n    <form name=\"aspnetForm\"
+        method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIBD2QWCAIBDxYCHgRocmVmBXtodHRwczovL2VzZXJ2aWNlcy53YW5nYXJhdHRhLnZpYy5nb3YuYXUvVDFQUlByb2QvV2ViQXBwcy9lUHJvcGVydHkvUDEvR3Vlc3RIb21lLmFzcHg/cj1QMS5XRUJHVUVTVCZmPSUyNFAxLkVQUi5HVUVTVEhNRS5WSVdkAgMPZBYEAgEPZBYCZg9kFgQCAQ9kFgJmD2QWAmYPDxYQHgRUZXh0BQlFZGl0IE1vZGUeC0NvbW1hbmROYW1lBQRUYXNrHg9Db21tYW5kQXJndW1lbnQFGlAxRVBSQ3VzdG9taXNhdGlvbkVkaXRNb2RlHglBY2Nlc3NLZXllHhBDYXVzZXNWYWxpZGF0aW9uaB4IVGFiSW5kZXgBAAAeB1Rvb2xUaXBlHg9WYWxpZGF0aW9uR3JvdXBlZGQCAg9kFgJmD2QWAmYPDxYQHwEFDVJlZnJlc2ggQ2FjaGUfAgUEVGFzax8DBR5QMUVQUkN1c3RvbWlzYXRpb25SZWZyZXNoQ2FjaGUfBGUfBWgfBgEAAB8HZR8IZWRkAgMPZBYCAgIPD2QPDxQrAAEWBh4ETmFtZQUKbHNGdW5jdGlvbh4MRGVmYXVsdFZhbHVlBRMkUDEuRVRSLlNFQVJDSC5TTDI4Hg5QYXJhbWV0ZXJWYWx1ZWQUKwEBAgNkZAIHD2QWBgIBDw8WAh8BBZ8EPEI+DQpQbGFubmluZyBSZWdpc3Rlcg0KPC9iPg0KPC9icj4NCjwvYnI+DQpUaGUgcHVycG9zZSBvZiB0aGlzIE9ubGluZSBQbGFubmluZyBSZWdpc3RlciBpcyB0byBtYWtlIHRoZSBwcmVzY3JpYmVkIGluZm9ybWF0aW9uIHVuZGVyIHRoZSBQJkUgQWN0IGF2YWlsYWJsZSB0byBlbmFibGUgeW91IHRvIHRyYWNrIHRoZSBzdGF0dXMgb2YgYSBwbGFubmluZyBwZXJtaXQgYXBwbGljYXRpb24uDQo8L0JSPg0KPC9CUj4NClJ1cmFsIENpdHkgb2YgV2FuZ2FyYXR0YSBoYXMgdGFrZW4gaW50byBhY2NvdW50IHByaXZhY3kgY29uc2lkZXJhdGlvbnMgaW4gZGV0ZXJtaW5pbmcgdGhlIGNvbnRlbnQgb2YgdGhpcyBwbGFubmluZyByZWdpc3Rlci4gQSBjb25kaXRpb24gb2YgdXNlIG9mIHRoaXMgb25saW5lIHJlZ2lzdGVyIGlzIHRoYXQgeW91IHdpbGwgbm90IHVzZSB0aGUgaW5mb3JtYXRpb24gYXZhaWxhYmxlIGluIHRoaXMgcmVnaXN0ZXIgZm9yIGFueSBwdXJwb3NlIHdoaWNoIG1heSBicmVhY2ggY29weXJpZ2h0IGxlZ2lzbGF0aW9uLg0KPC9CUj4NCjwvQlI+ZGQCAw9kFgQCAg8PFgIfAQUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAQUXMi8wNy8yMDE5IHRvIDI5LzA3LzIwMTlkZAIFDw8WBB4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLsBAABAAAA/////wEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAABUyLzA3LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYyOS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALZBYCZg9kFgQCAQ9kFgICAQ8PFgIfAQUJR3JpZCBUeXBlZGQCAw8PFgIeB1Zpc2libGVoZBYCAgEPDxYCHwEFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZAINDxYCHw5oZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoBCAIBZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAIKZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZHSeE5LLkpnvuzsbSNB/Zph1HxtM\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"794B1E1F\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWEwLw3puBBgK359HKDwL38+S0BQLD0Z//CALsuJ7pAgKDjpzeCALurtn5CAKO0+W9AQL/iqOnDwKei6OnDwK1jaOnDwLci6OnDwL7i6OnDwKajKOnDwKhiqOnDwLIiKOnDwK5jLfiDgLgirfiDgK/g8WMCfPPIvRubxru5Yf7WTXsqzT0vHrL\"
+        />\r\n</div>\r\n        <div id=\"loading\">               \r\n        </div>\r\n
+        \       <div id=\"cssBounds\">\r\n\r\n            <div id=\"cssBanner\" >\r\n
+        \                   <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
+        \                               \r\n                             </span>\r\n
+        \                           \r\n                     </div>\r\n                    <!--
+        End Login -->            \r\n                <div id=\"cssBannerLogo\">\r\n
+        \                   <a href=\"https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
+        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
+        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
+        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
+        \                       \r\n                                <div class=\"menuPanel\">\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Online
+        Payments</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/AnimalPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.ANIMALS.ENQ\">Animal
+        Registration Renewal Payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.APPS.ENQ\">Permit
+        Payment</a></li><li><a href=\"../ePay/DebtorPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.DEBTORS.ENQ\">Home
+        &amp; Community Care Account Payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.INFRINGE.ENQ\">Infringement
+        Notice Payment</a></li><li><a href=\"../ePay/RatesPayment.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPY.RATES.ENQ\">Rates
+        Payment</a></li><li><a href=\"../ePay/DebtorPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.DEBTTAX.ENQ\">Tax
+        Invoice/Statement Payment</a></li>\r\n</ul>\r\n                                <br
+        />\r\n                            \r\n                                <div
+        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Shopping
+        Cart</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../ShoppingCart/ShoppingCart.aspx?r=P1.WEBGUEST&amp;f=%24P1.PAY.CART.VIW\">Shopping
+        Cart</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">Planning Applications</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../PublicNotices/AllPublicNotices.aspx?r=P1.WEBGUEST&amp;f=P1.ESB.PUBNOTAL.ENQ\">Applications
+        Currently Advertised</a></li><li><a href=\"https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearch.aspx?f=P1.ETR.SEARCH.ENQ&amp;Custom=Yes&amp;ApplicationId=P\">Application
+        Register</a></li><li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               </div>\r\n                            \r\n
+        \                       \r\n                    </div>\r\n                            \r\n
+        \               </div>\r\n                \r\n                <div id=\"cssTaskpaneRelatedLinks\"
+        \ class= \"cssNoPrint\">\r\n                    <div id=\"cssHelpAndAdmin\">\r\n
+        \                       \r\n    \r\n    \r\n        <div class=\"menuPanel\">\r\n
+        \       <div class=\"HelpHeader\">\r\n            <span id=\"ctl00_RightEmpty_HelpControl_rprHelp_ctl00_lblHelpHeader\">Help</span>\r\n
+        \       </div>\r\n        \r\n    \r\n        <ul id=\"ctl00_RightEmpty_HelpControl_rprHelp_ctl03_BulletedList\"
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../eHelp/HelpInformation.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.HELP.VIW&amp;HelpItemCtr=13\"
+        target=\"_blank\">Planning Register Status Definitions</a></li><li><a href=\"https://www.wangaratta.vic.gov.au/planning-development/town-planning\"
+        target=\"_blank\">Town Planning</a></li>\r\n</ul>\r\n        </div>\r\n    \r\n
+        \                       \r\n                   \r\n\r\n\r\n\r\n                    </div>\r\n\r\n
+        \                   \r\n                        <div id=\"ctl00_RightTaskPane_tspRelatedLinks\"
+        class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related Links</div>\r\n<ul>\r\n<li><a
+        href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n\r\n
+        \               </div>\r\n                                \r\n                <div
+        id=\"cssContent\">\r\n                <div class=\"cssContentWorkspace\">\r\n
+        \                   <a id=\"cssContentTop\"></a>\r\n                    \r\n
+        \                       <h1 id=\"ctl00_Header_h1PageTitle\">Submitted Last
+        28 Days</h1>\r\n                    \r\n                    \r\n                    \r\n
+        \                             \r\n                    \r\n    \r\n    <span
+        id=\"ctl00_Content_cusETrackApplicationSearchResults\" style=\"display:inline-block;width:100%;\"><B>\r\nPlanning
+        Register\r\n</b>\r\n</br>\r\n</br>\r\nThe purpose of this Online Planning
+        Register is to make the prescribed information under the P&E Act available
+        to enable you to track the status of a planning permit application.\r\n</BR>\r\n</BR>\r\nRural
+        City of Wangaratta has taken into account privacy considerations in determining
+        the content of this planning register. A condition of use of this online register
+        is that you will not use the information available in this register for any
+        purpose which may breach copyright legislation.\r\n</BR>\r\n</BR></span>\r\n
+        \   <br />\r\n    \r\n    <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span
+        id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\" class=\"fieldLabel\">Search
+        Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\" class=\"fieldLabel\">2/07/2019
+        to 29/07/2019</span></span>\r\n    \r\n    <div id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n
+        \   \r\n    \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
+        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
+        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
+        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
+        class=\"sectionSeparator\" src=\"../../App_Themes/Wangaratta%20eServices/Images/Empty.gif\"
+        alt=\"\" style=\"border-width:0px;height:0px;width:50%;\" />\r\n            \r\n\t</div>\r\n
+        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
+        cellpadding=\"3\" border=\"0\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Permit
+        No.</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodged</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
+        Details</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Proposal</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Property
+        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Decision')\">Status</a></th>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl01','')\">PlnApp19/128</a></td><td>19/07/2019</td><td>
+        Oxley &amp; Company</td><td>Development of a Replacement Dwelling</td><td>557
+        Robinson Road BOORHAMAN NORTH VIC 3685</td><td>Application Lodged</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl01','')\">PlnApp19/129</a></td><td>19/07/2019</td><td>Paul
+        Baker</td><td>Development of a Replacement Dwelling</td><td>14 Peppercorn
+        Rise EVERTON UPPER VIC 3678</td><td>More Information Required</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl01','')\">PlnApp19/138</a></td><td>18/07/2019</td><td>
+        R &amp; J Farm Services Pty Ltd</td><td>Demolition of a Building</td><td>Railway
+        Line &amp; Reserve Sandford Road WANGARATTA VIC 3677</td><td>Permit Granted</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl01','')\">PlnApp19/133</a></td><td>17/07/2019</td><td>
+        Touchstone Pianos</td><td>Alterations to a Building Facade</td><td>33-35 Warby
+        Street WANGARATTA VIC 3677</td><td>Permit Granted</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl01','')\">PlnApp19/131</a></td><td>15/07/2019</td><td>Jayden
+        Robert Grimshaw</td><td>Extension of an Industrial Building,  Development
+        of a Building (Retrospective) and a Reduction in Carparking</td><td>2A Gibson
+        Street WANGARATTA VIC 3677</td><td>Permit Granted</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl01','')\">PlnApp19/132</a></td><td>12/07/2019</td><td>
+        Afonso Building Solutions (Wangaratta)</td><td>Construction of a single dwelling</td><td>12
+        Livourne Street WANGARATTA VIC 3677</td><td>Application Lodged</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl01','')\">PlnApp19/130</a></td><td>10/07/2019</td><td>
+        Oxley &amp; Company</td><td>Two Lot Subdivision</td><td>23 Macartney Street
+        OXLEY VIC 3678</td><td>Referred &amp; Advertised</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl01','')\">PlnApp19/127</a></td><td>10/07/2019</td><td>
+        North East Survey Design</td><td>Three Lot Re-Subdivision</td><td>53 Old School
+        Road WALDARA VIC 3678</td><td>Application Lodged</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl01','')\">PlnApp19/126</a></td><td>10/07/2019</td><td>
+        Mountain Planning</td><td>Removal of Native Vegetation - 3 Scattered Trees</td><td>HP
+        Barr Reserve - Community Centre 8 Park Lane WANGARATTA VIC 3677</td><td>Application
+        Lodged</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl01','')\">PlnApp19/122</a></td><td>4/07/2019</td><td>Justine
+        Alicia Morrow</td><td>Development of a Dwelling</td><td>Woongarr 435 Shanley
+        Street WANGARATTA SOUTH VIC 3678</td><td>More Information Required</td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"Previous\"
+        id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access Key: P\" class=\"LeftArrowButton\"
+        />\r\n    </div>\r\n\r\n\r\n                    <div class=\"clear\"></div>\r\n
+        \                   <br />\r\n                    <br />\r\n                    <br
+        />\r\n                </div>\r\n                </div>\r\n            </div>\r\n
+        \           <p></p>\r\n            <p class=\"invisible\"></p>\r\n            <div
+        id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">
+        \                \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
+        accesskey=\"V\" title=\"Access Key: V\" href=\"https://www.wangaratta.vic.gov.au/Portals/0/Wangaratta/Documents/About%20Council/Documents%20and%20Policies/Information_Privacy_Policy_2015.pdf\"
+        target=\"_self\">Privacy</a>\r\n                    <img id=\"ctl00_imgFooterSeparator1\"
+        class=\"verticalBar\" src=\"../../App_Themes/Wangaratta%20eServices/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink2\" accesskey=\"T\" title=\"Access Key: T\"
+        href=\"https://www.wangaratta.vic.gov.au/utilities/disclaimer\" target=\"_self\">Disclaimer</a>\r\n
+        \                   <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
+        src=\"../../App_Themes/Wangaratta%20eServices/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink3\" accesskey=\"U\" title=\"Access Key: U\"
+        href=\"https://www.wangaratta.vic.gov.au/about-council/contact-us\" target=\"_self\">Contact
+        Us</a>                       \r\n                    \r\n                </div>\r\n
+        \               <div id=\"cssBottomBarCopyright\">&copy; Rural City of Wangaratta
+        2019</div>\r\n            </div>\r\n            \r\n        </div>\r\n    \r\n\r\n<script
+        type=\"text/javascript\">\r\n//<![CDATA[\r\n$(document).ready(function ()
+        {if ($('#ctl00_valErrors').is(':visible') == true) {$('#__SCROLLPOSITIONX').val('0');$('#__SCROLLPOSITIONY').val('0');}});//]]>\r\n</script>\r\n</form>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+recorded_with: VCR 5.0.0

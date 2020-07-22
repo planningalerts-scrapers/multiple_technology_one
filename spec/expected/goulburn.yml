@@ -1,0 +1,76 @@
+---
+- council_reference: CC/0005/2021
+  address: 176 Sloane Street GOULBURN NSW 2580
+  description: Proposed change of use to a dwelling and bed and breakfast and associated
+    alterations and additions
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0005%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/0006/2021
+  address: 53 Victoria Street GOULBURN NSW 2580
+  description: Construction of New Garage
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0006%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/0007/2021
+  address: 16 Vincent Avenue GOULBURN NSW 2580
+  description: Single storey Dwelling with attached garage and attached Granny Flat
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0007%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/0008/2021
+  address: 8 Copford Road GOULBURN NSW 2580
+  description: Extension to existing Shed
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0008%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/0009/2021
+  address: 6 Vincent Avenue GOULBURN NSW 2580
+  description: Construction of an attached primary and secondary dwelling (Private
+    CC - BBAC Certifiers)
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0009%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: CC/0010/2021
+  address: 3 Kidd Circuit GOULBURN NSW 2580
+  description: Addition's and Alterations -New Pool and alfresco
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0010%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: CC/0011/2021
+  address: 13 Vincent Avenue GOULBURN NSW 2580
+  description: Construction of a residential dwelling with attached garage and alfresco
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0011%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: CDC/0002/2021
+  address: 34 Collins Street MARULAN NSW 2579
+  description: Construction of a Single Storey Dwelling (Private CDC - New Home Certification
+    Group)
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC%2F0002%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/0005/2021
+  address: 53 Victoria Street GOULBURN NSW 2580
+  description: Construction of New Garage
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0005%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-06'
+- council_reference: DA/0006/2021
+  address: 3 Gertrude Street GOULBURN NSW 2580
+  description: Construction of Single Storey Dwelling
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0006%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-07'
+- council_reference: DA/0007/2021
+  address: 3 Kidd Circuit GOULBURN NSW 2580
+  description: Addition's and Alterations -New Pool and alfresco
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0007%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'
+- council_reference: MODDA/0001/2021
+  address: 17 Fenwick Crescent GOULBURN NSW 2580
+  description: Modification to balcony design for dwellings 15-19
+  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MODDA%2F0001%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2020-07-08'

@@ -1,0 +1,743 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - onlineservices.sdrc.qld.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Connection:
+      - Keep-Alive
+      Expires:
+      - "-1"
+      Date:
+      - Mon, 29 Jul 2019 02:10:23 GMT
+      Content-Type:
+      - text/html; charset=utf-8
+      Server:
+      - Microsoft-IIS/7.5
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Set-Cookie:
+      - ASP.NET_SessionId=drqo2k45hhns0t55harmapee; path=/; HttpOnly
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tSDRC
+        eProperty Online - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/SDRCcustom/Default.css\"
+        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
+        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
+        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUXMi8wNy8yMDE5IHRvIDI5LzA3LzIwMTlkZAIFDw8WBB4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLsBAABAAAA/////wEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAABUyLzA3LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYyOS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALZBYCZg9kFgQCAQ9kFgICAw8PFgIfAAUJR3JpZCBUeXBlZGQCAw8PFgIfCGhkFgICAQ8PFgIfAAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkAg0PFgIfCGhkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgEIAgNkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAipkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hkRbGxlDwRwltswnu5STrd96y8rkE=\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"C1608850\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWKgKD2+LtAQK359HKDwL38+S0BQLD0Z//CAKDjpzeCAKCqYWLDgK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL/uvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAKa4Iv0BAK/g8WMCUyfd8e5I1wv39CPlXOtP+gWgaxN\"
+        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
+        >\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
+        \                               \r\n                             </span>\r\n
+        \                           \r\n                     </div>\r\n                    <!--
+        End Login -->            \r\n                <div id=\"cssBannerLogo\">\r\n
+        \                   <a href=\"https://onlineservices.sdrc.qld.gov.au/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/Empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
+        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
+        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
+        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
+        \                       \r\n                                <div class=\"menuPanel\">\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">User
+        Information</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../User/PasswordReset.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.USERPASS.VIW\">Forgotten
+        Password</a></li><li><a href=\"../User/Register.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.REGUSER.MNT\">Register</a></li>\r\n</ul>\r\n
+        \                               <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Application Tracking</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               </div>\r\n                            \r\n
+        \                       \r\n                    </div>\r\n                            \r\n
+        \               </div>\r\n                \r\n                <div id=\"cssTaskpaneRelatedLinks\"
+        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
+        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
+        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n
+        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
+        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
+        \                               \r\n                <div id=\"cssContent\">\r\n
+        \               <div class=\"cssContentWorkspace\">\r\n                    <a
+        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
+        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
+        \                   \r\n                    \r\n                              \r\n
+        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
+        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
+        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
+        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
+        class=\"fieldLabel\">2/07/2019 to 29/07/2019</span></span>\r\n    \r\n    <div
+        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
+        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
+        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
+        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
+        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
+        class=\"sectionSeparator\" src=\"../../App_Themes/SDRCcustom/Images/Empty.gif\"
+        alt=\"\" style=\"border-width:0px;height:0px;width:50%;\" />\r\n            \r\n\t</div>\r\n
+        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
+        cellpadding=\"3\" border=\"0\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
+        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
+        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryGroupDescription')\">Group
+        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
+        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
+        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
+        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">BLD\\\\16555</a></td><td>2/07/2019</td><td>Building
+        Works - Private Certification - Dwelling Extension - 241 Amiens Road, Broadwater
+        - Lot 1 RP155489</td><td>Building Works</td><td>Building Works - Private Certification</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">241
+        Amiens Road BROADWATER QLD 4380</a></td><td> GHC Building Solutions</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">BLD\\\\16556</a></td><td>3/07/2019</td><td>Building
+        Works - Private Certification - Patio - 184 Caves Road, Stanthorpe - Lot 40
+        RP31831</td><td>Building Works</td><td>Building Works - Private Certification</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">184
+        Caves Road STANTHORPE QLD 4380</a></td><td> D &amp; A St John Building Pty
+        Ltd</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">BLD\\\\16557</a></td><td>3/07/2019</td><td>Building
+        Works - Private Certification - New Dwelling - 43 Pfrunder Road, Pozieres
+        - Lot 396 BNT1332</td><td>Building Works</td><td>Building Works - Private
+        Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">43
+        Pfrunder Road POZIERES QLD 4352</a></td><td> J Torrisi Building Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">BLD\\\\16558</a></td><td>3/07/2019</td><td>Building
+        Works - Private Certification - Replacement of Roof Cladding - 3 Thorpe Street,
+        Stanthorpe - Lot 2 RP69226</td><td>Building Works</td><td>Building Works -
+        Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">3
+        Thorpe Street STANTHORPE QLD 4380</a></td><td> Ambrose Building Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">BLD\\\\16559</a></td><td>3/07/2019</td><td>Building
+        Works - Private Certification - Warehouse Extension - Kenilworth Street, Morgan
+        Park - Lots 18-21 SP218449</td><td>Building Works</td><td>Building Works -
+        Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">Fifth
+        Avenue MORGAN PARK QLD 4370</a></td><td> SBP Australia</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">BLD\\\\16560</a></td><td>4/07/2019</td><td>Building
+        Works new application (Council Certified) - House Renovations - 5 Mountain
+        View Road Killarney - Lot 22 SP308482</td><td>Building Works</td><td>Building
+        Works new application (Council Certified)</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">5
+        Mountain View Road KILLARNEY QLD 4373</a></td><td> Hughes Elite Builders Pty
+        Ltd</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">BLD\\\\16561</a></td><td>4/07/2019</td><td>Building
+        Works new application (Council Certified) - Change of Classification 1A to
+        1B - 1535 Amiens Road, Amiens - Lot162 BNT521</td><td>Building Works</td><td>Building
+        Works new application (Council Certified)</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">1535
+        Amiens Road AMIENS QLD 4380</a></td><td>Allan Craven, Deborah Anne Craven</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">MCU\\\\00939.01</a></td><td>5/07/2019</td><td>Extension
+        application under section 86 of the Planning Act 2016 for Intensive Animal
+        Use - Cattle Feedlot 999 SCU and ERA No. 2 (b) Intensive Animal Feedlotting
+        - more than 150 to 1000 SCU</td><td>Material Change of Use</td><td>Impact</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">116
+        Tudor Valley Road ALLORA QLD 4362</a></td><td> Burge Pastoral Group Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">MCU\\\\01204.01</a></td><td>8/07/2019</td><td>Extension
+        application under section 86 of the Planning Act 2016 - Residential Use -
+        Multiple Dwelling Units (6 units);;Building Format Plan with Land (6 lots
+        plus Common Property) - 36 months</td><td>Material Change of Use</td><td>Impact</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">6
+        Labatt Street WARWICK QLD 4370</a></td><td> Gary Hayes &amp; Partners Pty
+        Ltd</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">OPW\\\\000149</a></td><td>8/07/2019</td><td>Operational
+        Works - Undertaken works in/on/over/under premises (Earthworks, Roadworks,
+        Water infrastructure, Sewerage infrastructure and Stormwater drainage associated
+        with MCU\\01204 and RC\\01243) - 6 Labatt Street, Warwick - Lot 3 SP212339</td><td>Operational
+        Works</td><td>Code</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">6
+        Labatt Street WARWICK QLD 4370</a></td><td>Remo Di Giannantonio</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">BLD\\\\16562</a></td><td>8/07/2019</td><td>Building
+        Works new application (Council Certified) - covered outdoor area - Lot 15
+        Wilmot Lane Stanthorpe - Lot 15 on SP196579</td><td>Building Works</td><td>Building
+        Works new application (Council Certified)</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">Wilmot
+        Lane THE SUMMIT QLD 4377</a></td><td>Lindsay Craig Adams</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">BLD\\\\16563</a></td><td>9/07/2019</td><td>Building
+        Works - Private Certification - Alterations to dwelling - 43 Hoeys Road Spring
+        Creek Qld 4361 - L286 M34729</td><td>Building Works</td><td>Building Works
+        - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">43
+        Hoeys Road SPRING CREEK QLD 4361</a></td><td>Anthony Allan Haigh, Danyelle
+        Hanna Haigh</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl02','')\">BLD\\\\16564</a></td><td>10/07/2019</td><td>Building
+        Works - Private Certification - Garage - 5 Moncrieffe Street, Warwick - Lot
+        11 RP223431</td><td>Building Works</td><td>Building Works - Private Certification</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl03','')\">5
+        Moncrieffe Street WARWICK QLD 4370</a></td><td> GNE Sheds &amp; Kit Homes</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl02','')\">BLD\\\\16565</a></td><td>10/07/2019</td><td>Building
+        Works - Private Certification - Garage/Carport - L68 Gladfield St, Hendon
+        (21 Leslie St, Hendon) - Lot 68 H701</td><td>Building Works</td><td>Building
+        Works - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl03','')\">21
+        Leslie Street HENDON QLD 4362</a></td><td> GNE Sheds &amp; Kit Homes</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl02','')\">BLD\\\\16569</a></td><td>10/07/2019</td><td>Building
+        Works - Private Certification - One Storey New Dwelling, Garage &amp; Alfresco
+        Area - 20 Lakeview Ave, ROSENTHAL HEIGHTS -  L35 SP249604</td><td>Building
+        Works</td><td>Building Works - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl03','')\">20
+        Lakeview Avenue ROSENTHAL HEIGHTS QLD 4370</a></td><td> Dixonbuild Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"7\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><span>1</span></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"Previous\"
+        id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access Key: P\" class=\"LeftArrowButton\"
+        />\r\n    </div>\r\n\r\n\r\n                    <div class=\"clear\"></div>\r\n
+        \                   <br />\r\n                    <br />\r\n                    <br
+        />\r\n                </div>\r\n                </div>\r\n            </div>\r\n
+        \           <p></p>\r\n            <p class=\"invisible\"></p>\r\n            <div
+        id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">
+        \                \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
+        accesskey=\"V\" title=\"Access Key: V\" href=\"http://www.sdrc.qld.gov.au\"
+        target=\"_self\">SDRC Home Page</a>\r\n                    <img id=\"ctl00_imgFooterSeparator1\"
+        class=\"verticalBar\" src=\"../../App_Themes/SDRCcustom/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink2\" accesskey=\"T\" title=\"Access Key: T\"
+        href=\"http://www.sdrc.qld.gov.au/Contact-us/\" target=\"_self\">Contact Us</a>\r\n
+        \                   <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
+        src=\"../../App_Themes/SDRCcustom/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
+        />\r\n                    <a id=\"ctl00_hplCustomFooterLink3\" accesskey=\"U\"
+        title=\"Access Key: U\" href=\"http://www.sdrc.qld.gov.au/Disclaimer/\" target=\"_self\">Disclaimer</a>
+        \                      \r\n                    \r\n                </div>\r\n
+        \               <div>\r\n                    <br />\r\n                    <p><strong>Southern
+        Downs Regional Council</strong></br>\r\n                    <strong>Address:</strong>
+        64 Fitzroy Street, Warwick QLD 4370, AUSTRALIA</br>\r\n                    <strong>Phone:</strong>
+        1300 697 372</br>\r\n                    <strong>Email:</strong> mail@sdrc.qld.gov.au\r\n
+        \                    </p>\r\n                </div>\r\n                <div
+        id=\"cssBottomBarCopyright\">&copy; Technology One Limited 2019</div>\r\n
+        \           </div>\r\n            \r\n        </div>\r\n    </form>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: UTF-8
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUXMi8wNy8yMDE5IHRvIDI5LzA3LzIwMTlkZAIFDw8WBB4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLsBAABAAAA%2F%2F%2F%2F%2FwEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAABUyLzA3LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYyOS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALZBYCZg9kFgQCAQ9kFgICAw8PFgIfAAUJR3JpZCBUeXBlZGQCAw8PFgIfCGhkFgICAQ8PFgIfAAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkAg0PFgIfCGhkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgEIAgNkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAipkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hkRbGxlDwRwltswnu5STrd96y8rkE%3D&__VIEWSTATEGENERATOR=C1608850&__EVENTVALIDATION=%2FwEWKgKD2%2BLtAQK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAKa4Iv0BAK%2Fg8WMCUyfd8e5I1wv39CPlXOtP%2BgWgaxN&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%242
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=drqo2k45hhns0t55harmapee
+      Host:
+      - onlineservices.sdrc.qld.gov.au
+      Referer:
+      - https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '2568'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Connection:
+      - Keep-Alive
+      Expires:
+      - "-1"
+      Date:
+      - Mon, 29 Jul 2019 02:10:24 GMT
+      Content-Type:
+      - text/html; charset=utf-8
+      Server:
+      - Microsoft-IIS/7.5
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tSDRC
+        eProperty Online - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/SDRCcustom/Default.css\"
+        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
+        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
+        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUXMi8wNy8yMDE5IHRvIDI5LzA3LzIwMTlkZAIFDw8WBh4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLsBAABAAAA/////wEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAABUyLzA3LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYyOS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCAWQWAmYPZBYEAgEPZBYCAgMPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZAINDxYCHwBoZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgIBCAIDZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAIqZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZIKVKG/DtilbHe0HKNXToVSBxysM\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"C1608850\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWKgLy/rLWCgK359HKDwL38+S0BQLD0Z//CAKDjpzeCAKCqYWLDgK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL/uvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Iv0BAK/g8WMCYJtdZVcXZyLlkLzpPslS64cPvxS\"
+        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
+        >\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
+        \                               \r\n                             </span>\r\n
+        \                           \r\n                     </div>\r\n                    <!--
+        End Login -->            \r\n                <div id=\"cssBannerLogo\">\r\n
+        \                   <a href=\"https://onlineservices.sdrc.qld.gov.au/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/Empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
+        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
+        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
+        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
+        \                       \r\n                                <div class=\"menuPanel\">\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">User
+        Information</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../User/PasswordReset.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.USERPASS.VIW\">Forgotten
+        Password</a></li><li><a href=\"../User/Register.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.REGUSER.MNT\">Register</a></li>\r\n</ul>\r\n
+        \                               <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Application Tracking</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               </div>\r\n                            \r\n
+        \                       \r\n                    </div>\r\n                            \r\n
+        \               </div>\r\n                \r\n                <div id=\"cssTaskpaneRelatedLinks\"
+        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
+        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
+        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n
+        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
+        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
+        \                               \r\n                <div id=\"cssContent\">\r\n
+        \               <div class=\"cssContentWorkspace\">\r\n                    <a
+        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
+        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
+        \                   \r\n                    \r\n                              \r\n
+        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
+        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
+        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
+        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
+        class=\"fieldLabel\">2/07/2019 to 29/07/2019</span></span>\r\n    \r\n    <div
+        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
+        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
+        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
+        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
+        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
+        class=\"sectionSeparator\" src=\"../../App_Themes/SDRCcustom/Images/Empty.gif\"
+        alt=\"\" style=\"border-width:0px;height:0px;width:50%;\" />\r\n            \r\n\t</div>\r\n
+        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
+        cellpadding=\"3\" border=\"0\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
+        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
+        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryGroupDescription')\">Group
+        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
+        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
+        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
+        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">BLD\\\\16566</a></td><td>10/07/2019</td><td>Building
+        Works - Private Certification - Carport - 14-16 Henry Evans Rd, Rosehill -
+        Lot 4 RP862162</td><td>Building Works</td><td>Building Works - Private Certification</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">14-16
+        Henry Evans Drive ROSEHILL QLD 4370</a></td><td> Laney's Steel Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">BLD\\\\16567</a></td><td>10/07/2019</td><td>Building
+        Works - Private Certification - Garage/Carport - 33 Homestead Road, Rosenthal
+        Heights - Lot 1 RP202127</td><td>Building Works</td><td>Building Works - Private
+        Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">33
+        Homestead Road ROSENTHAL HEIGHTS QLD 4370</a></td><td> Laney's Steel Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">BLD\\\\16568</a></td><td>10/07/2019</td><td>Building
+        Works - Private Certification - Garage/Carport - 541 Dalcouth Road, Kyoomba
+        - Lot 2 RP58939</td><td>Building Works</td><td>Building Works - Private Certification</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">541
+        Dalcouth Road KYOOMBA QLD 4380</a></td><td> Laney's Steel Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">MCU\\\\02085</a></td><td>11/07/2019</td><td>Dwelling
+        house (not in accordance with building setbacks) - 91 Cameron Road, Stanthorpe
+        - Lot 6 RP197769</td><td>Material Change of Use</td><td>Code</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">91
+        Cameron Road STANTHORPE QLD 4380</a></td><td> Buildon Building Certifications</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">BLD\\\\16570</a></td><td>11/07/2019</td><td>Building
+        Works new application (Council Certified) - new shed - 234 Limberlost Rd Fletcher
+        - Lot 2 RP193896</td><td>Building Works</td><td>Building Works new application
+        (Council Certified)</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">234
+        Limberlost Road FLETCHER QLD 4381</a></td><td> Jim Green Building Services</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">BLD\\\\16571</a></td><td>12/07/2019</td><td>Building
+        Works new application (Council Certified) - New Dwelling - 71 Bridge Street,
+        Stanthorpe - Lot 109 SP310897</td><td>Building Works</td><td>Building Works
+        new application (Council Certified)</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">71
+        Bridge Street STANTHORPE QLD 4380</a></td><td> Wes Smith Building Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">BLD\\\\16572</a></td><td>12/07/2019</td><td>Building
+        Works - Private Certification - New Dwelling (Including roofed alfresco) -
+        Lot 188 Ghost Road, Berat, QLD - Lot188\\SP296594</td><td>Building Works</td><td>Building
+        Works - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">Ghost
+        Gate Road BERAT QLD 4362</a></td><td> McNally Constructions Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">BLD\\\\16573</a></td><td>12/07/2019</td><td>Building
+        Works - Private Certification - Addition to Cottage- Mud Room - 25 Curtain
+        Avenue, Murrays Bridge QLD  - LOT 7\\SP125455</td><td>Building Works</td><td>Building
+        Works - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">25
+        Curtain Avenue MURRAYS BRIDGE QLD 4370</a></td><td>E'Lane Joan Burt, Robert
+        Harry Burt</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">BLD\\\\16574</a></td><td>12/07/2019</td><td>Building
+        Works - Private Certification- Completion of existing expired approval from
+        dwelling (Including verandahs) - 11 White Street, Pratten QLD - Lot63\\P12714</td><td>Building
+        Works</td><td>Building Works - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">11
+        White Street PRATTEN QLD 4370</a></td><td> E &amp; M Vincent Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">BLD\\\\16575</a></td><td>12/07/2019</td><td>Building
+        Works - Private Certification - Addition to Dwelling- Recreation Room - 22
+        Condavale Drive, Rosenthal Heights, QLD  -  Lot 2\\SP260979</td><td>Building
+        Works</td><td>Building Works - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">22-22a
+        Condavale Drive ROSENTHAL HEIGHTS QLD 4370</a></td><td>James P Brownlie</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">BLD\\\\16576</a></td><td>12/07/2019</td><td>Building
+        Works - Private Certification - New Carport - 77 Law Road, Warwick QLD - Lot1\\RP228000</td><td>Building
+        Works</td><td>Building Works - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">77
+        Law Road WARWICK QLD 4370</a></td><td>Brian J Bunch, Ethel L Bunch</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">BLD\\\\16577</a></td><td>15/07/2019</td><td>Building
+        Works - Private Certification- 2 Shipping Containers (Storage) and New Ablution
+        Block- Lot 2 Donald Street, Leyburn QLD  -  Lot\\RP156979</td><td>Building
+        Works</td><td>Building Works - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">Donald
+        Street LEYBURN QLD 4365</a></td><td> TNT Roofing Pty Ltd\r\n11 Sowden Street\r\nToowoomba
+        QLD 4350</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl02','')\">OPW\\\\000150</a></td><td>16/07/2019</td><td>Operational
+        Works - Undertaken works in/on/over/under premises (Access, roadwork and associated
+        stormwater drainage to Lot 8 M58410 - Curmac Street, Maryvale)</td><td>Operational
+        Works</td><td>Code</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl03','')\">Curmac
+        Street MARYVALE QLD 4370</a></td><td>Howard Douglas West</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl02','')\">BLD\\\\16579</a></td><td>19/07/2019</td><td>Building
+        Works - Private Certification -  tsg Lotto Express - T10 Fit Out - Unit 10,
+        81 Palmerin St, Warwick - Lot 60 SP305432</td><td>Building Works</td><td>Building
+        Works - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl03','')\">81
+        Palmerin Street WARWICK QLD 4370</a></td><td> Revolution Retail Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl02','')\">BLD\\\\16580</a></td><td>19/07/2019</td><td>Building
+        Works - Private Certification - New Dwelling - Glen Road, Rosenthal Heights
+        - Lot 616 M341327</td><td>Building Works</td><td>Building Works - Private
+        Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl03','')\">Glen
+        Road ROSENTHAL HEIGHTS QLD 4370</a></td><td> Mark Winter Constructions</td>\r\n\t\t\t</tr><tr
+        class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"7\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><span>2</span></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"Previous\"
+        id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access Key: P\" class=\"LeftArrowButton\"
+        />\r\n    </div>\r\n\r\n\r\n                    <div class=\"clear\"></div>\r\n
+        \                   <br />\r\n                    <br />\r\n                    <br
+        />\r\n                </div>\r\n                </div>\r\n            </div>\r\n
+        \           <p></p>\r\n            <p class=\"invisible\"></p>\r\n            <div
+        id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">
+        \                \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
+        accesskey=\"V\" title=\"Access Key: V\" href=\"http://www.sdrc.qld.gov.au\"
+        target=\"_self\">SDRC Home Page</a>\r\n                    <img id=\"ctl00_imgFooterSeparator1\"
+        class=\"verticalBar\" src=\"../../App_Themes/SDRCcustom/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink2\" accesskey=\"T\" title=\"Access Key: T\"
+        href=\"http://www.sdrc.qld.gov.au/Contact-us/\" target=\"_self\">Contact Us</a>\r\n
+        \                   <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
+        src=\"../../App_Themes/SDRCcustom/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
+        />\r\n                    <a id=\"ctl00_hplCustomFooterLink3\" accesskey=\"U\"
+        title=\"Access Key: U\" href=\"http://www.sdrc.qld.gov.au/Disclaimer/\" target=\"_self\">Disclaimer</a>
+        \                      \r\n                    \r\n                </div>\r\n
+        \               <div>\r\n                    <br />\r\n                    <p><strong>Southern
+        Downs Regional Council</strong></br>\r\n                    <strong>Address:</strong>
+        64 Fitzroy Street, Warwick QLD 4370, AUSTRALIA</br>\r\n                    <strong>Phone:</strong>
+        1300 697 372</br>\r\n                    <strong>Email:</strong> mail@sdrc.qld.gov.au\r\n
+        \                    </p>\r\n                </div>\r\n                <div
+        id=\"cssBottomBarCopyright\">&copy; Technology One Limited 2019</div>\r\n
+        \           </div>\r\n            \r\n        </div>\r\n    </form>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: UTF-8
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUXMi8wNy8yMDE5IHRvIDI5LzA3LzIwMTlkZAIFDw8WBh4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLsBAABAAAA%2F%2F%2F%2F%2FwEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAABUyLzA3LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYyOS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCAWQWAmYPZBYEAgEPZBYCAgMPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZAINDxYCHwBoZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgIBCAIDZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAIqZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZIKVKG%2FDtilbHe0HKNXToVSBxysM&__VIEWSTATEGENERATOR=C1608850&__EVENTVALIDATION=%2FwEWKgLy%2FrLWCgK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Iv0BAK%2Fg8WMCYJtdZVcXZyLlkLzpPslS64cPvxS&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%243
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=drqo2k45hhns0t55harmapee
+      Host:
+      - onlineservices.sdrc.qld.gov.au
+      Referer:
+      - https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '2242'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Connection:
+      - Keep-Alive
+      Expires:
+      - "-1"
+      Date:
+      - Mon, 29 Jul 2019 02:10:26 GMT
+      Content-Type:
+      - text/html; charset=utf-8
+      Server:
+      - Microsoft-IIS/7.5
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tSDRC
+        eProperty Online - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/SDRCcustom/Default.css\"
+        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
+        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
+        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
+        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBgIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUXMi8wNy8yMDE5IHRvIDI5LzA3LzIwMTlkZAIFDw8WBh4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLsBAABAAAA/////wEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAABUyLzA3LzIwMTkgMTI6MDA6MDAgQU0GBgAAABYyOS8wNy8yMDE5IDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCAmQWAmYPZBYEAgEPZBYCAgMPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZAINDxYCHwBoZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgICCAIDZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAIqZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZMlybzp/vDDPfGI9U3+0Px6BsdGj\"
+        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
+        id=\"__VIEWSTATEGENERATOR\" value=\"C1608850\" />\r\n\t<input type=\"hidden\"
+        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWJALXoMzWBwK359HKDwL38+S0BQLD0Z//CAKDjpzeCAKCqYWLDgK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKa4IP0BAKa4Pf0BAK/g8WMCR1cXLZZljr60ql8ZHSbD222DvWi\"
+        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
+        >\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
+        \                       \r\n                            <span class=\"Login\">\r\n
+        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
+        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
+        \                               \r\n                             </span>\r\n
+        \                           \r\n                     </div>\r\n                    <!--
+        End Login -->            \r\n                <div id=\"cssBannerLogo\">\r\n
+        \                   <a href=\"https://onlineservices.sdrc.qld.gov.au/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
+        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/Empty.gif\"
+        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
+        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
+        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
+        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
+        \                       \r\n                                <div class=\"menuPanel\">\r\n
+        \                           \r\n                                <div class=\"menuHeader\">\r\n
+        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">User
+        Information</span>\r\n                                </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"../User/PasswordReset.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.USERPASS.VIW\">Forgotten
+        Password</a></li><li><a href=\"../User/Register.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.REGUSER.MNT\">Register</a></li>\r\n</ul>\r\n
+        \                               <br />\r\n                            \r\n
+        \                               <div class=\"menuHeader\">\r\n                                    <span
+        id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Application Tracking</span>\r\n
+        \                               </div>\r\n                                <ul
+        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.ENQ\">Application
+        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
+        \                               </div>\r\n                            \r\n
+        \                       \r\n                    </div>\r\n                            \r\n
+        \               </div>\r\n                \r\n                <div id=\"cssTaskpaneRelatedLinks\"
+        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
+        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
+        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.STW\">Submitted
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.SLW\">Submitted
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.STM\">Submitted
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.SLM\">Submitted
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
+        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DTW\">Determined
+        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DLW\">Determined
+        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DTM\">Determined
+        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=$P1.ETR.SEARCH.DLM\">Determined
+        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
+        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
+        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
+        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
+        \                       \r\n                    \r\n                    \r\n
+        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
+        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
+        \                               \r\n                <div id=\"cssContent\">\r\n
+        \               <div class=\"cssContentWorkspace\">\r\n                    <a
+        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
+        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
+        \                   \r\n                    \r\n                              \r\n
+        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
+        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
+        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
+        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
+        class=\"fieldLabel\">2/07/2019 to 29/07/2019</span></span>\r\n    \r\n    <div
+        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
+        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
+        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
+        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
+        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
+        class=\"sectionSeparator\" src=\"../../App_Themes/SDRCcustom/Images/Empty.gif\"
+        alt=\"\" style=\"border-width:0px;height:0px;width:50%;\" />\r\n            \r\n\t</div>\r\n
+        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
+        cellpadding=\"3\" border=\"0\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
+        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
+        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
+        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
+        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryGroupDescription')\">Group
+        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
+        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
+        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
+        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">RC\\\\01546.01</a></td><td>22/07/2019</td><td>Extension
+        application under sect 86 of Planning Act 2016 - Subdivision of two lots into
+        four lots - 17 Harris Street, Stanthorpe - Lots 5, 6 and Common Property SP228618</td><td>Reconfiguration
+        of Lot</td><td>Impact</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">17
+        Harris Street STANTHORPE QLD 4380</a></td><td> Gary Hayes &amp; Partners Pty
+        Ltd</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">BLD\\\\16581</a></td><td>22/07/2019</td><td>Building
+        Works - Private Certification - New Dwelling (Incl. Alfresco) &amp; New Private
+        Shed - 7 Church Road, The Summit - Lot 2 RP888655</td><td>Building Works</td><td>Building
+        Works - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">7
+        Church Road THE SUMMIT QLD 4377</a></td><td> McNally Constructions Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">RC\\\\01777</a></td><td>23/07/2019</td><td>Realignment
+        of boundaries (2 lots) - 67 Womina-Willowvale Road, Womina - Lot 680 CP841722
+        and Lot 638 D361329 (Refer to original application - SEE RC\\01746)</td><td>Reconfiguration
+        of Lot</td><td>Impact</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">67
+        Womina - Willowvale Road WOMINA QLD 4370</a></td><td> Gary Hayes &amp; Partners
+        Pty Ltd</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">RC\\\\01778</a></td><td>24/07/2019</td><td>Realignment
+        of boundaries (Two lots), Lot 2361 M34989 &amp; Lot 88 M341193, Hoffmans Road,
+        the Falls</td><td>Reconfiguration of Lot</td><td>Code</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">Hoffmans
+        Road THE FALLS QLD 4373</a></td><td> Gary Hayes &amp; Partners Pty Ltd</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">BLD\\\\16582</a></td><td>24/07/2019</td><td>Building
+        Works new application (Council Certified) - Farm shed - 247 Lode Creek Road
+        Sugarloaf - Lot 1 MPH26092</td><td>Building Works</td><td>Building Works new
+        application (Council Certified)</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">247
+        Lode Creek Road SUGARLOAF QLD 4380</a></td><td>Kenneth David Hollingsworth</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">BLD\\\\16583</a></td><td>24/07/2019</td><td>Building
+        Works new application (Council Certified) - House Addition by Breezeway -
+        Tummaville Road, Leyburn - Lot 18 L187</td><td>Building Works</td><td>Building
+        Works new application (Council Certified)</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">Tummaville
+        Road LEYBURN QLD 4365</a></td><td>Rodney Hetherington, Christel Hetherington</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">BLD\\\\16584</a></td><td>24/07/2019</td><td>Building
+        Works - Private Certification - Re-Roofing Main House Dwelling - 34 Wallaces
+        Road Goomburra -  Lot 171 ML44</td><td>Building Works</td><td>Building Works
+        - Private Certification</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">34
+        Wallaces Road GOOMBURRA QLD 4362</a></td><td> South West Building Certification</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">MCU\\\\01645.01</a></td><td>25/07/2019</td><td>Extension
+        application under section 86 of the Planning Act 2016 - Dwelling House, Lot
+        1810 SP135585, 1003 Condamine River Road, The Falls</td><td>Material Change
+        of Use</td><td>Code</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">1003
+        Condamine River Road THE FALLS QLD 4373</a></td><td>Gary David Smith</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">RC\\\\01779</a></td><td>25/07/2019</td><td>Realignment
+        of boundaries (2 lots into 2 lots) - Lot 820 M34381 and Lot 1122 M34512 -
+        Rabbit Fence Road, Pozieres</td><td>Reconfiguration of Lot</td><td>Code</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">1246
+        Rabbit Fence Road DALVEEN QLD 4374</a></td><td>Nels Berger Lillehagen</td>\r\n\t\t\t</tr><tr
+        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">BLD\\\\16585</a></td><td>25/07/2019</td><td>Building
+        Works new application (Council Certified) - New Shed - 64 Tunnel Road Dalveen
+        - lot 1 on RP75760</td><td>Building Works</td><td>Building Works new application
+        (Council Certified)</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">64
+        Tunnel Road DALVEEN QLD 4374</a></td><td>Neil Thomas Brunckhorst</td>\r\n\t\t\t</tr><tr
+        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">RC\\\\01780</a></td><td>26/07/2019</td><td>Realignment
+        of boundaries (2 lots into 2 lots) -  62 and 110 Spring Creek Road, Greenlands
+        - Lot 3 RP891680 and Lot 1 RP175355</td><td>Reconfiguration of Lot</td><td>Code</td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">110
+        Spring Creek Road GREENLANDS QLD 4380</a></td><td> Gassman Development Perspectives,
+        Malcolm Gordon O'Brien</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">RC\\\\01728.01</a></td><td>26/07/2019</td><td>Minor
+        Change to Realignment of boundaries (Three lots) - 2A Alianthus Street, Killarney
+        - Lot 2 RP84292, Lot 2 RP98785 and Lot 1 RP80246</td><td>Reconfiguration of
+        Lot</td><td>Impact</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">2A
+        Ailanthus Street KILLARNEY QLD 4373</a></td><td> Gary Hayes &amp; Partners
+        Pty Ltd</td>\r\n\t\t\t</tr><tr class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"7\"><table
+        border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><a
+        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><span>3</span></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
+        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
+        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
+        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"Previous\"
+        id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access Key: P\" class=\"LeftArrowButton\"
+        />\r\n    </div>\r\n\r\n\r\n                    <div class=\"clear\"></div>\r\n
+        \                   <br />\r\n                    <br />\r\n                    <br
+        />\r\n                </div>\r\n                </div>\r\n            </div>\r\n
+        \           <p></p>\r\n            <p class=\"invisible\"></p>\r\n            <div
+        id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">
+        \                \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
+        accesskey=\"V\" title=\"Access Key: V\" href=\"http://www.sdrc.qld.gov.au\"
+        target=\"_self\">SDRC Home Page</a>\r\n                    <img id=\"ctl00_imgFooterSeparator1\"
+        class=\"verticalBar\" src=\"../../App_Themes/SDRCcustom/Images/VerticalBarBlack.gif\"
+        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
+        id=\"ctl00_hplCustomFooterLink2\" accesskey=\"T\" title=\"Access Key: T\"
+        href=\"http://www.sdrc.qld.gov.au/Contact-us/\" target=\"_self\">Contact Us</a>\r\n
+        \                   <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
+        src=\"../../App_Themes/SDRCcustom/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
+        />\r\n                    <a id=\"ctl00_hplCustomFooterLink3\" accesskey=\"U\"
+        title=\"Access Key: U\" href=\"http://www.sdrc.qld.gov.au/Disclaimer/\" target=\"_self\">Disclaimer</a>
+        \                      \r\n                    \r\n                </div>\r\n
+        \               <div>\r\n                    <br />\r\n                    <p><strong>Southern
+        Downs Regional Council</strong></br>\r\n                    <strong>Address:</strong>
+        64 Fitzroy Street, Warwick QLD 4370, AUSTRALIA</br>\r\n                    <strong>Phone:</strong>
+        1300 697 372</br>\r\n                    <strong>Email:</strong> mail@sdrc.qld.gov.au\r\n
+        \                    </p>\r\n                </div>\r\n                <div
+        id=\"cssBottomBarCopyright\">&copy; Technology One Limited 2019</div>\r\n
+        \           </div>\r\n            \r\n        </div>\r\n    </form>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+recorded_with: VCR 5.0.0

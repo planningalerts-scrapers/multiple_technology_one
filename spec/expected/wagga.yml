@@ -1,0 +1,514 @@
+---
+- council_reference: AA19/0330
+  address: 13 Lake St LAKE ALBERT NSW 2650
+  description: PartB5 - Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0330&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: AA19/0335
+  address: 102 Lakehaven Dr LAKE ALBERT NSW 2650
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0335&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: AA19/0348
+  address: 46 Bourke St TURVEY PARK NSW 2650
+  description: PartB4 - Sewer (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0348&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: AA19/0350
+  address: 41 Coppabella Dr GOBBAGOMBALIN NSW 2650
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0350&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: AA19/0352
+  address: 45 Kennedy Ave KOORINGAL NSW 2650
+  description: PartB5 - Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0352&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: AA19/0353
+  address: 423 Yabtree Rd BORAMBOLA NSW 2650
+  description: "PartB4 - Sewer / PartB5 Stormwater (Private) (\r\n )"
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0353&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: AA19/0354
+  address: 43 Paradise Dr GOBBAGOMBALIN NSW 2650
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0354&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: AA19/0355
+  address: 2 Wade St TURVEY PARK NSW 2650
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0355&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: AA19/0356
+  address: 20 Kyeamba St LADYSMITH NSW 2652
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0356&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: AA19/0357
+  address: 4 Kyeamba Ave LAKE ALBERT NSW 2650
+  description: PartB5 - Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0357&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: AA19/0358
+  address: 31 Indigo Dr SPRINGVALE NSW 2650
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0358&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: AA19/0359
+  address: 250 Boorooma St CHARLES STURT UNIVERSITY NSW 2678
+  description: PartB4 - Sewer / PartB5 Stormwater (Private) Agriculture Ave Equine
+    isolation Facility
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0359&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: AA19/0360
+  address: 28 Castlereagh Ave MOUNT AUSTIN NSW 2650
+  description: PartB5 - Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0360&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: AA19/0361
+  address: 121 Lakehaven Dr LAKE ALBERT NSW 2650
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0361&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: AA19/0362
+  address: 21 Pugsley Ave ESTELLA NSW 2650
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0362&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: AA19/0363
+  address: 6 Opperman St BOOROOMA NSW 2650
+  description: PartB4 - Sewer (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0363&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: AA19/0364
+  address: 16 Wiveon St GOBBAGOMBALIN NSW 2650
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0364&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: AA19/0366
+  address: 9 Coogan St MOUNT AUSTIN NSW 2650
+  description: PartB5 - Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0366&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: AA19/0367
+  address: 7 Yenda Ave GOBBAGOMBALIN NSW 2650
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0367&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: AA19/0369
+  address: 9 Wiveon St GOBBAGOMBALIN NSW 2650
+  description: PartB4 - Sewer / PartB5 Stormwater (Private)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=AA19%2F0369&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CC19/0226
+  address: 4 Larch Pl FOREST HILL NSW 2651
+  description: Construction of Shed
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0226&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: CC19/0229
+  address: 26-28 Baker St URANQUINTY NSW 2652
+  description: 9m x 12m Shed
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0229&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: CC19/0230
+  address: 26 Fox St WAGGA WAGGA NSW 2650
+  description: Alterations and Additions (Alfresco Area and Carport) to an existing
+    dwelling within the Heritage Conservation Area
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0230&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: CC19/0231
+  address: 14 Burgan Dr SPRINGVALE NSW 2650
+  description: Farm building
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0231&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: CC19/0232
+  address: 5 Simpson Ave FOREST HILL NSW 2651
+  description: Construction of new patio and re-roofing to the part of the existing
+    dwelling
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0232&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: CC19/0233
+  address: 17 Wollundry Ave WAGGA WAGGA NSW 2650
+  description: Double Garage, Carport, Shed & Secondary Dwelling
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0233&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: CC19/0234
+  address: Calvary Hospital 20 Hardy Ave WAGGA WAGGA NSW 2650
+  description: Minor internal works to existing medical facility
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0234&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: CC19/0236
+  address: 9 Lakesend Pl LAKE ALBERT NSW 2650
+  description: Private Certifier - Domestic
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0236&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: CC19/0237
+  address: 17 Pearson St URANQUINTY NSW 2652
+  description: Alterations and Additions (Patio)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0237&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: CC19/0238
+  address: 2 Wade St TURVEY PARK NSW 2650
+  description: Dwelling
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0238&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: CC19/0239
+  address: 20 Kyeamba St LADYSMITH NSW 2652
+  description: Council Domestic
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0239&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: CC19/0240
+  address: 50 Edward St WAGGA WAGGA NSW 2650
+  description: Private Certifier - Commercial
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0240&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: CC19/0241
+  address: 8 Norman Duck Ave SAN ISIDORE NSW 2650
+  description: New deck and patio
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0241&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: CC19/0242
+  address: 26 Plumpton Rd KOORINGAL NSW 2650
+  description: Council Domestic
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0242&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: CC19/0243
+  address: 22 Winter Ave GOBBAGOMBALIN NSW 2650
+  description: Private Certifier - Domestic
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0243&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CC19/0244
+  address: 121 Lakehaven Dr LAKE ALBERT NSW 2650
+  description: Council Domestic
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0244&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: CC19/0245
+  address: 27 Spring St WAGGA WAGGA NSW 2650
+  description: Council Domestic
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0245&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CC19/0247
+  address: 4 Casey Pl MOUNT AUSTIN NSW 2650
+  description: Council Domestic
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0247&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CC19/0249
+  address: 68 Graham St LAKE ALBERT NSW 2650
+  description: Council Domestic
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0249&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CC19/0250
+  address: 112 Lakehaven Dr LAKE ALBERT NSW 2650
+  description: Private Certifier - Domestic
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC19%2F0250&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: CDC19/0132
+  address: 7 Karoom Dr GLENFIELD PARK NSW 2650
+  description: PC - Dwelling & Garage
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC19%2F0132&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: CDC19/0133
+  address: 423 Yabtree Rd BORAMBOLA NSW 2650
+  description: PC - Dwelling & Garage
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC19%2F0133&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: CDC19/0134
+  address: 13 Scarborough Way GUMLY GUMLY NSW 2652
+  description: PC - Carport
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC19%2F0134&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: CDC19/0135
+  address: 145-147 Baylis St WAGGA WAGGA NSW 2650
+  description: Private Certifier
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC19%2F0135&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: CDC19/0136
+  address: 41 Coppabella Dr GOBBAGOMBALIN NSW 2650
+  description: PC Dwelling
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC19%2F0136&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: CDC19/0137
+  address: 119-121 Baylis St WAGGA WAGGA NSW 2650
+  description: PC Alterations to shop front
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC19%2F0137&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: CDC19/0138
+  address: 6 Nellywanna St GOBBAGOMBALIN NSW 2650
+  description: PC Dwelling
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC19%2F0138&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA18/0634.01
+  address: 1 Wiveon St GOBBAGOMBALIN NSW 2650
+  description: Three lot Neighbourhood Subdivision
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA18%2F0634.01&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: DA19/0029.02
+  address: 43 Sturrock Dr BOOROOMA NSW 2650
+  description: Dwelling – Retaining wall
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0029.02&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA19/0302
+  address: 4 Larch Pl FOREST HILL NSW 2651
+  description: Construction of Shed
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0302&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: DA19/0306
+  address: 26-28 Baker St URANQUINTY NSW 2652
+  description: 9m x 17m Shed
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0306&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: DA19/0307
+  address: 1 Tamar Dr TATTON NSW 2650
+  description: Digital Illuminated Sign
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0307&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: DA19/0308
+  address: 14 Burgan Dr SPRINGVALE NSW 2650
+  description: Farm building
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0308&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-18'
+- council_reference: DA19/0309
+  address: 5 Simpson Ave FOREST HILL NSW 2651
+  description: Construction of new patio and re-roofing to the part of the existing
+    dwelling
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0309&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-20'
+- council_reference: DA19/0310
+  address: 17 Bennelong Cres LLOYD NSW 2650
+  description: New Dwelling with Attached Double Garage
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0310&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: DA19/0313
+  address: 47 Barton Ave LLOYD NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0313&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA19/0314
+  address: 17 Pearson St URANQUINTY NSW 2652
+  description: Alterations and Additions (Patio)
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0314&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA19/0315
+  address: 20 Kyeamba St LADYSMITH NSW 2652
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0315&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: DA19/0316
+  address: 2 Wade St TURVEY PARK NSW 2650
+  description: Dwelling
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0316&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA19/0317
+  address: 34 Jasmin Cres LAKE ALBERT NSW 2650
+  description: New patio and replacing existing shed with new one
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0317&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: DA19/0318
+  address: 71 Bolger Ave MOUNT AUSTIN NSW 2650
+  description: Alterations and additions to a pub
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0318&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA19/0319
+  address: 8 Norman Duck Ave SAN ISIDORE NSW 2650
+  description: New deck and patio
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0319&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA19/0320
+  address: 26 Plumpton Rd KOORINGAL NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0320&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA19/0321
+  address: 23 Walla Pl GLENFIELD PARK NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0321&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: DA19/0322
+  address: 55 Trail St WAGGA WAGGA NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0322&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: DA19/0323
+  address: 4 Lakesend Pl LAKE ALBERT NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0323&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA19/0324
+  address: 121 Lakehaven Dr LAKE ALBERT NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0324&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: DA19/0325
+  address: 71 Deakin Ave LLOYD NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0325&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: DA19/0326
+  address: 27 Spring St WAGGA WAGGA NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0326&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA19/0327
+  address: 16 Wiveon St GOBBAGOMBALIN NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0327&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA19/0328
+  address: 39 Coppabella Dr GOBBAGOMBALIN NSW 2650
+  description: Dwelling
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0328&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-26'
+- council_reference: DA19/0330
+  address: 12 Featherwood Rd SPRINGVALE NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0330&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA19/0331
+  address: 4 Casey Pl MOUNT AUSTIN NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0331&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: DA19/0332
+  address: 7 Yenda Ave GOBBAGOMBALIN NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0332&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: DA19/0334
+  address: 68 Graham St LAKE ALBERT NSW 2650
+  description: Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0334&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-27'
+- council_reference: DA19/0335
+  address: 9 Riedell St EAST WAGGA WAGGA NSW 2650
+  description: Advertised/Notified
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0335&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: eBC19/0017
+  address: 11 Crisp Dr ASHMONT NSW 2650
+  description: Final Plumbing Certificate
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBC19%2F0017&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-19'
+- council_reference: eBC19/0023
+  address: 478 Lake Albert Rd LAKE ALBERT NSW 2650
+  description: Front Verandah, Removed and replaced.
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBC19%2F0023&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-21'
+- council_reference: eBC19/0024
+  address: 1 Correa Pl SPRINGVALE NSW 2650
+  description: "Use of Existing Retaining Wall and Associated Fill,\r\nHardstand Area
+    (Basketball Court) and Fence"
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBC19%2F0024&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-24'
+- council_reference: eBC19/0025
+  address: 8 Cootamundra Blvd GOBBAGOMBALIN NSW 2650
+  description: Shed
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBC19%2F0025&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: eSPC19/0032
+  address: 262 Inglewood Rd LAKE ALBERT NSW 2650
+  description: Swimming Pool Compliance Certificate
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eSPC19%2F0032&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: eSPC19/0033
+  address: 44 Rosevale Dr LAKE ALBERT NSW 2650
+  description: Swimming Pool Compliance Certificate
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eSPC19%2F0033&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
+- council_reference: eTP19/0015
+  address: 19 Koora Pl MOUNT AUSTIN NSW 2650
+  description: Permission to prune back the deadwood from tree in backyard of property.
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP19%2F0015&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-25'
+- council_reference: eTP19/0016
+  address: 161 Lake Albert Rd KOORINGAL NSW 2650
+  description: Large pine tree is in danger of falling on neighbour's property. One
+    large section has already broken away and fallen on my side of the fence, leaving
+    2 large trunks and the tree is now unstable because of the weight pulling to one
+    side. Vincent from Quinn's Tree Care has inspected the tree and says it is dangerous
+    and urgent removal is necessary.
+  info_url: https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eTP19%2F0016&f=%24P1.ETR.APPDET.VIW&r=WW.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-28'
