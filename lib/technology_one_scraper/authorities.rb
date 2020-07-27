@@ -157,6 +157,11 @@ module TechnologyOneScraper
       disable_ssl_certificate_check: true,
       # Mornington peninsula is blocking requests from outside Australia
       australian_proxy: true
+    },
+    burnside: {
+      # url: "https://eservices.burnside.sa.gov.au/eProperty/P1/eTrack/eTrackApplicationSearch.aspx?r=P1.WEBGUEST&f=%24P1.ETR.SEARCH.ENQ"
+      url: "https://eservices.burnside.sa.gov.au/eProperty",
+      period: "L28"
     }
   }.freeze
 end
