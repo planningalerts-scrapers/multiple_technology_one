@@ -22,7 +22,8 @@ module TechnologyOneScraper
     },
     eurobodalla: {
       url: "https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty",
-      period: "L28"
+      period: "L28",
+      webguest: "ESC.P1.WEBGUEST"
     },
     lockyer_valley: {
       url: "https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
