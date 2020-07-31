@@ -57,7 +57,7 @@ GEM
       ast (~> 2.4.1)
     public_suffix (4.0.5)
     rainbow (3.0.0)
-    rake (10.5.0)
+    rake (12.3.3)
     rexml (3.2.4)
     rspec (3.9.0)
       rspec-core (~> 3.9.0)
@@ -109,7 +109,7 @@ PLATFORMS
 DEPENDENCIES
   activesupport
   mechanize
-  rake (~> 10.0)
+  rake (~> 12.3)
   rspec (~> 3.0)
   rubocop
   scraperwiki!
