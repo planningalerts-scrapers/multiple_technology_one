@@ -165,7 +165,8 @@ module TechnologyOneScraper
       period: "L28"
     },
     newcastle: {
-        url: "https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/",
+        url: "https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+        webguest: "TCON.LG.WEBGUEST",
         period: "L28"
     }
   }.freeze
