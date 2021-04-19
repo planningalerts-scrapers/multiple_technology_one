@@ -3,7 +3,7 @@
 module TechnologyOneScraper
   AUTHORITIES = {
     parkes: {
-      url: "https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      url: "https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28",
       webguest: "PSC.P1.WEBGUEST"
     },
@@ -45,11 +45,6 @@ module TechnologyOneScraper
       # Site has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=services.qprc.nsw.gov.au&latest
       disable_ssl_certificate_check: true
     },
-    mid_western: {
-      url: "https://eservices.midwestern.nsw.gov.au/epropertyprod",
-      period: "L28",
-      australian_proxy: true
-    },
     hume: {
       url: "https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty",
       period: "L28",
@@ -76,7 +71,7 @@ module TechnologyOneScraper
       webguest: "KC_WEBGUEST"
     },
     lithgow: {
-      url: "https://eservices.lithgow.nsw.gov.au/ePropertyProd",
+      url: "https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/",
       period: "L14"
     },
     manningham: {
@@ -87,11 +82,6 @@ module TechnologyOneScraper
     noosa: {
       url: "https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "TM"
-    },
-    port_adelaide: {
-      url: "https://ecouncil.portenf.sa.gov.au/T1PRWebPROD/eProperty",
-      period: "L7",
-      webguest: "PAE.P1.WEBGUEST"
     },
     ryde: {
       url: "https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty",
@@ -106,7 +96,7 @@ module TechnologyOneScraper
       disable_ssl_certificate_check: true
     },
     tamworth: {
-      url: "https://eproperty.tamworth.nsw.gov.au/ePropertyProd",
+      url: "https://eproperty.tamworth.nsw.gov.au/T1PRProd/WebApps/eProperty/",
       period: "L28",
       # Tamworth is blocking requests from outside Australia. You can verify this
       # yourself by scraping via a VPN and switch between different countries.
@@ -159,10 +149,5 @@ module TechnologyOneScraper
       # Mornington peninsula is blocking requests from outside Australia
       australian_proxy: true
     },
-    burnside: {
-      # url: "https://eservices.burnside.sa.gov.au/eProperty/P1/eTrack/eTrackApplicationSearch.aspx?r=P1.WEBGUEST&f=%24P1.ETR.SEARCH.ENQ"
-      url: "https://eservices.burnside.sa.gov.au/eProperty",
-      period: "L28"
-    }
   }.freeze
 end
