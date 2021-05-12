@@ -76,7 +76,7 @@ module TechnologyOneScraper
       webguest: "KC_WEBGUEST"
     },
     lithgow: {
-      url: "https://eservices.lithgow.nsw.gov.au/ePropertyProd",
+      url: "https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty",
       period: "L14"
     },
     manningham: {
