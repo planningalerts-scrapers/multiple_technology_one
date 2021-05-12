@@ -122,10 +122,6 @@ module TechnologyOneScraper
       url: "https://eproperty.charlessturt.sa.gov.au/eProperty",
       period: "L28"
     },
-    holdfast_bay: {
-      url: "https://chb-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
-      period: "L28"
-    },
     mitcham: {
       url: "https://com-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
