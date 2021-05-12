@@ -88,11 +88,6 @@ module TechnologyOneScraper
       url: "https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "TM"
     },
-    port_adelaide: {
-      url: "https://ecouncil.portenf.sa.gov.au/T1PRWebPROD/eProperty",
-      period: "L7",
-      webguest: "PAE.P1.WEBGUEST"
-    },
     ryde: {
       url: "https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty",
       period: "TM",
