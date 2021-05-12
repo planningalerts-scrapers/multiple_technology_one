@@ -2,6 +2,10 @@
 
 module TechnologyOneScraper
   AUTHORITIES = {
+    cassowary_coast: {
+      url: "https://ccrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28"
+    },
     mid_coast: {
       url: "https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
