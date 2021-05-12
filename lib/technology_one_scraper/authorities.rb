@@ -127,7 +127,7 @@ module TechnologyOneScraper
       period: "L28"
     },
     mitcham: {
-      url: "https://eproperty.mitchamcouncil.sa.gov.au/T1PRProd/WebApps/eProperty",
+      url: "https://com-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
     goulburn: {
