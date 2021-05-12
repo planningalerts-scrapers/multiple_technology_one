@@ -106,7 +106,7 @@ module TechnologyOneScraper
       disable_ssl_certificate_check: true
     },
     tamworth: {
-      url: "https://eproperty.tamworth.nsw.gov.au/ePropertyProd",
+      url: "https://eproperty.tamworth.nsw.gov.au/T1PRProd/WebApps/eProperty",
       period: "L28",
       # Tamworth is blocking requests from outside Australia. You can verify this
       # yourself by scraping via a VPN and switch between different countries.
