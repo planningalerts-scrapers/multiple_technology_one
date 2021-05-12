@@ -59,7 +59,7 @@ module TechnologyOneScraper
           :description
         when "Formatted Address", "Property Address", "Address", "Site Address"
           :address
-        when "Group Description"
+        when "Group Description", "Group"
           :group_description
         when "Category Description", "Category", "Classification"
           :category_description
@@ -77,7 +77,7 @@ module TechnologyOneScraper
           :details
         when "Work Commenced"
           :word_commenced
-        when "Determined Date"
+        when "Determined Date", "Date Determined"
           :determined_date
         when "Ward"
           :ward

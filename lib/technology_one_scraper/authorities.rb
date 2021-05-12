@@ -163,6 +163,11 @@ module TechnologyOneScraper
       # url: "https://eservices.burnside.sa.gov.au/eProperty/P1/eTrack/eTrackApplicationSearch.aspx?r=P1.WEBGUEST&f=%24P1.ETR.SEARCH.ENQ"
       url: "https://eservices.burnside.sa.gov.au/eProperty",
       period: "L28"
+    },
+    newcastle: {
+        url: "https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+        webguest: "TCON.LG.WEBGUEST",
+        period: "L28"
     }
   }.freeze
 end
