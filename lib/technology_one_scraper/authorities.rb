@@ -73,7 +73,9 @@ module TechnologyOneScraper
     kuringgai: {
       url: "https://eservices.kmc.nsw.gov.au/T1ePropertyProd",
       period: "TM",
-      webguest: "KC_WEBGUEST"
+      webguest: "KC_WEBGUEST",
+      # Looks like it's blocking requests outside Australia
+      australian_proxy: true
     },
     lithgow: {
       url: "https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty",
