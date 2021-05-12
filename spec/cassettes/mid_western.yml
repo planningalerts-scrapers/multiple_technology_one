@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    uri: https://eservices.midwestern.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
     body:
       encoding: US-ASCII
       string: ''
@@ -12,7 +12,7 @@ http_interactions:
       Accept:
       - "*/*"
       User-Agent:
-      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      - Mechanize/2.7.7 Ruby/2.5.8p224 (http://github.com/sparklemotion/mechanize/)
       Accept-Charset:
       - ISO-8859-1,utf-8;q=0.7,*;q=0.7
       Accept-Language:
@@ -34,236 +34,54 @@ http_interactions:
       - no-cache
       Content-Type:
       - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
       Expires:
       - "-1"
+      Vary:
+      - Accept-Encoding
       Server:
-      - Microsoft-IIS/7.5
+      - Microsoft-IIS/10.0
       Set-Cookie:
-      - ASP.NET_SessionId=rfc3vk554f4qw5550kyvzpvn; path=/; HttpOnly
+      - ASP.NET_SessionId=fheshb45rpwu52451gemqy55; path=/; HttpOnly
       X-Aspnet-Version:
       - 2.0.50727
-      X-Powered-By:
-      - ASP.NET
       Date:
-      - Thu, 18 Jul 2019 02:11:07 GMT
+      - Wed, 12 May 2021 03:09:32 GMT
       Content-Length:
-      - '22460'
+      - '6889'
     body:
-      encoding: UTF-8
-      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
-        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tMid-Western
-        Regional Council eServices - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/MidWestern/Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n\r\n<script type=\"text/javascript\"
-        src=\"../../Scripts/jquery-1.8.3.min.js\"></script> \r\n\r\n    <form name=\"aspnetForm\"
-        method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
-        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
-        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIBD2QWBgIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUYMjEvMDYvMjAxOSB0byAxOC8wNy8yMDE5ZGQCBQ8PFgQeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP////8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMjEvMDYvMjAxOSAxMjowMDowMCBBTQYGAAAAFjE4LzA3LzIwMTkgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAtkFgJmD2QWBAIBD2QWAgIBDw8WAh8ABQlHcmlkIFR5cGVkZAIDDw8WAh8IaGQWAgIBDw8WAh8ABRxObyBpbmZvcm1hdGlvbiBpcyBhdmFpbGFibGUuZGQCDQ8WAh8IaGQYAwVDY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGdyZFdlYkdyaWRUYWJ1bGFyVmlldw88KwAKAQgCAmQFQGN0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRkdHZXZWJHcmlkTGlzdFZpZXcPFCsAB2RkZGRkFgACGWQFHGN0bDAwJENvbnRlbnQkbGJsU2VhcmNoRGF0ZXMPaGRNgmv1zvqGvjVb1XtHNZQtAsoozw==\"
-        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
-        id=\"__VIEWSTATEGENERATOR\" value=\"A17C432A\" />\r\n\t<input type=\"hidden\"
-        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWKQLrg5TODQK359HKDwL38+S0BQLD0Z//CAKDjpzeCAKCqYWLDgK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL/uvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAK/g8WMCRMcd8QThm1dyThRQsAhDzN5sJXl\"
-        />\r\n</div>\r\n        <div id=\"loading\">               \r\n        </div>\r\n
-        \       <div id=\"cssBounds\">\r\n\r\n            <div id=\"cssBanner\" >\r\n
-        \                   <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
-        \                       \r\n                            <span class=\"Login\">\r\n
-        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
-        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
-        \                               \r\n                             </span>\r\n
-        \                           \r\n                     </div>\r\n                    <!--
-        End Login -->            \r\n                <div id=\"cssBannerLogo\">\r\n
-        \                   <a href=\"https://eservices.midwestern.nsw.gov.au/ePropertyPROD/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
-        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/Empty.gif\"
-        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
-        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
-        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
-        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
-        \                       \r\n                                <div class=\"menuPanel\">\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Application
-        Tracking</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
-        Search</a></li><li><a href=\"ApplicationsWithVariations.aspx?r=P1.WEBGUEST&amp;f=%24P1.ETR.APPVARS.VIW\">Applications
-        with Variations</a></li>\r\n</ul>\r\n                                <br />\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Online
-        Applications</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../ShoppingCart/ShoppingCart.aspx?r=P1.WEBGUEST&amp;f=%24P1.PAY.CART.VIW\">Shopping
-        Cart</a></li><li><a href=\"../eSubmit/SubmitApplication.aspx?r=P1.WEBGUEST&amp;f=%24P1.ESB.SUBMTAPP.VIW\">Submit
-        an Application</a></li>\r\n</ul>\r\n                                <br />\r\n
-        \                           \r\n                                </div>\r\n
-        \                           \r\n                        \r\n                    </div>\r\n
-        \                           \r\n                </div>\r\n                \r\n
-        \               <div id=\"cssTaskpaneRelatedLinks\"  class= \"cssNoPrint\">\r\n
-        \                   \r\n                        <div id=\"ctl00_RightTaskPane_tspRelatedLinks\"
-        class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related Links</div>\r\n<ul>\r\n<li><a
-        href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
-        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
-        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
-        \                       \r\n                    \r\n                    \r\n
-        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
-        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
-        \                               \r\n                <div id=\"cssContent\">\r\n
-        \               <div class=\"cssContentWorkspace\">\r\n                    <a
-        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
-        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
-        \                   \r\n                    \r\n                              \r\n
-        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
-        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
-        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
-        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
-        class=\"fieldLabel\">21/06/2019 to 18/07/2019</span></span>\r\n    \r\n    <div
-        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
-        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
-        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
-        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
-        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
-        class=\"sectionSeparator\" src=\"../../App_Themes/MidWestern/Images/Empty.gif\"
-        alt=\"\" style=\"border-width:0px;height:0px;width:50%;\" />\r\n            \r\n\t</div>\r\n
-        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
-        cellpadding=\"3\" border=\"0\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
-        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
-        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
-        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryGroupDescription')\">Group
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
-        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
-        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">DA0002/2020</a></td><td>4/07/2019</td><td>Camping
-        Ground @ Mudgee Showground 11 Nicholson Street MUDGEE  NSW  2850</td><td>Development
-        Applications from 1/7/2014</td><td>camping ground</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">Mudgee
-        Showground 11 Nicholson Street MUDGEE NSW 2850</a></td><td> Mid-Western Regional
-        Council</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">DA0006/2020</a></td><td>9/07/2019</td><td>Change
-        of use - Medical Centre to Office Premises @ 142 Church Street MUDGEE NSW
-        2850</td><td>Development Applications from 1/7/2014</td><td>Change of use</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">142
-        Church Street MUDGEE NSW 2850</a></td><td>Nicky Boness</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">DA0296/2019</a></td><td>21/06/2019</td><td>Change
-        of use - Retail Premises @ (Shop 3) The Bridge Complex 160 Church Street MUDGEE
-        \ NSW  2850</td><td>Development Applications from 1/7/2014</td><td>Change
-        of use</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">The
-        Bridge Complex 160 Church Street MUDGEE NSW 2850</a></td><td>Carmelo Costanzo</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">DA0303/2019</a></td><td>28/06/2019</td><td>Change
-        of use and internal fit-out @ Colonial Mecca Building 79 Market Street MUDGEE
-        \ NSW  2850</td><td>Development Applications from 1/7/2014</td><td>Change
-        of use</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">Colonial
-        Mecca Building 79 Market Street MUDGEE NSW 2850</a></td><td>Ashley Maree Delph</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">DA0304/2019</a></td><td>1/07/2019</td><td>Change
-        of use - Shed to Dwelling, Dual Occupancy, Gazebo, Container with Awning and
-        Stables @ 103 Wollar Road BUDGEE BUDGEE  NSW  2850</td><td>Development Applications
-        from 1/7/2014</td><td>Change of use</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">103
-        Wollar Road BUDGEE BUDGEE NSW 2850</a></td><td>Jason Scott Boxsell</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">DA0001/2020</a></td><td>3/07/2019</td><td>Commercial
-        Alterations/Additions @ Mudgee Service NSW Centre 65-67 Church Street MUDGEE
-        \ NSW  2850</td><td>Development Applications from 1/7/2014</td><td>Commercial
-        Alterations/Additions</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">Mudgee
-        Service NSW Centre 65-67 Church Street MUDGEE NSW 2850</a></td><td>June Lewis</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">DA0007/2020</a></td><td>9/07/2019</td><td>Demolition
-        of Dwelling @ 30 Robertson Street MUDGEE NSW 2850</td><td>Development Applications
-        from 1/7/2014</td><td>Demolition</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">30
-        Robertson Street MUDGEE NSW 2850</a></td><td>Barry Hilton Swords</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">DA0299/2019</a></td><td>24/06/2019</td><td>Demolition
-        of Building @ 116 Inglis Street MUDGEE  NSW  2850</td><td>Development Applications
-        from 1/7/2014</td><td>Demolition</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">116
-        Inglis Street MUDGEE NSW 2850</a></td><td>Lynne Patricia Delph</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">DA0300/2019</a></td><td>24/06/2019</td><td>Tree
-        Removal @ Water Reservoir &amp; Public Reserve @ 37 Nicholson Street &amp;
-        Flirtation Hill Lookout &amp; The Pines @ 80 Madeira Road MUDGEE  NSW  2850</td><td>Development
-        Applications from 1/7/2014</td><td>Demolition</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">Flirtation
-        Hill Lookout & The Pines 80 Madeira Road MUDGEE NSW 2850</a></td><td> Mid-Western
-        Regional Council</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">DA0306/2019</a></td><td>2/07/2019</td><td>Demolition
-        @ 28 Rocky Waterhole Road MILROY  NSW  2850</td><td>Development Applications
-        from 1/7/2014</td><td>Demolition</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">28
-        Rocky Waterhole Road MILROY NSW 2850</a></td><td>Andrew Robert Dean</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">DA0305/2019</a></td><td>2/07/2019</td><td>Dual
-        Occupancy @ 222 Camerons Road RUNNING STREAM  NSW  2850</td><td>Development
-        Applications from 1/7/2014</td><td>Dual Occupancy</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">222
-        Camerons Road RUNNING STREAM NSW 2850</a></td><td>Sam Shibaia</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">DA0008/2020</a></td><td>9/07/2019</td><td>Replacement
-        Dwelling House (CONCEPT ONLY) @ 2350 Lue Road LUE  NSW  2850</td><td>Development
-        Applications from 1/7/2014</td><td>Dwelling House</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">Oakleigh
-        2350 Lue Road LUE NSW 2850</a></td><td>Andrew Michael Curro, Licia Patricia
-        Curro</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl02','')\">DA0009/2020</a></td><td>9/07/2019</td><td>Dwelling
-        @ 156 Bruce Road MUDGEE  NSW  2850</td><td>Development Applications from 1/7/2014</td><td>Dwelling
-        House</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl03','')\">156
-        Bruce Road MUDGEE NSW 2850</a></td><td>Benjamin Thomas Fenney</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl02','')\">DA0012/2020</a></td><td>15/07/2019</td><td>Dwelling
-        &amp; Shed @ 6 Rowe Street MUDGEE  NSW  2850</td><td>Development Applications
-        from 1/7/2014</td><td>Dwelling House</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl03','')\">6
-        Rowe Street MUDGEE NSW 2850</a></td><td> Greg Toole Constructions</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl02','')\">DA0297/2019</a></td><td>24/06/2019</td><td>Dwelling
-        House &amp; Shed @ 18 Black Lead Lane GULGONG  NSW  2852</td><td>Development
-        Applications from 1/7/2014</td><td>Dwelling House</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl03','')\">18
-        Black Lead Lane GULGONG NSW 2852</a></td><td>Robert Richard Stanley Weis,
-        Terese Ann Weis</td>\r\n\t\t\t</tr><tr class=\"pagerRow\">\r\n\t\t\t\t<td
-        colspan=\"7\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><span>1</span></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
-        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
-        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
-        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"Previous\"
-        id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access Key: P\" class=\"LeftArrowButton\"
-        />\r\n    </div>\r\n\r\n\r\n                    <div class=\"clear\"></div>\r\n
-        \                   <br />\r\n                    <br />\r\n                    <br
-        />\r\n                </div>\r\n                </div>\r\n            </div>\r\n
-        \           <p></p>\r\n            <p class=\"invisible\"></p>\r\n            <div
-        id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">
-        \                \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
-        accesskey=\"V\" title=\"Access Key: V\" href=\"https://eservices.midwestern.nsw.gov.au/ePropertyPROD/P1/GuestHome.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.GUESTHME.VIW\"
-        target=\"_self\">eServices Home</a>\r\n                    <img id=\"ctl00_imgFooterSeparator1\"
-        class=\"verticalBar\" src=\"../../App_Themes/MidWestern/Images/VerticalBarBlack.gif\"
-        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
-        id=\"ctl00_hplCustomFooterLink2\" accesskey=\"T\" title=\"Access Key: T\"
-        href=\"http://www.midwestern.nsw.gov.au/header-pages/Contact-us/\" target=\"_self\">Contact
-        Us</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
-        src=\"../../App_Themes/MidWestern/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink3\" accesskey=\"U\"
-        title=\"Access Key: U\" href=\"http://www.midwestern.nsw.gov.au/Privacy-Statement\"
-        target=\"_self\">Privacy Statement</a>                       \r\n                    \r\n
-        \               </div>\r\n                <div id=\"cssBottomBarCopyright\">&copy;
-        Technology One Limited 2019</div>\r\n            </div>\r\n            \r\n
-        \       </div>\r\n    \r\n\r\n<script type=\"text/javascript\">\r\n//<![CDATA[\r\n$(document).ready(function
-        () {if ($('#ctl00_valErrors').is(':visible') == true) {$('#__SCROLLPOSITIONX').val('0');$('#__SCROLLPOSITIONY').val('0');}});//]]>\r\n</script>\r\n</form>\r\n</body>\r\n</html>\r\n"
-    http_version: 
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/In7j5DdOHv+uT788efP7vDxN5+2iTF9+9eT52Un60fbdu9+9d3L37tM3T9Pf+9tvvnie7o530tdtXUzbu3dPX3yUfjRv29Wju3evrq7GV/fGVX1x982ru+8AZRev6a/bDb8znrWzj464Q3ycvluUy+azCIzdhw8fyqto/nieZ7Ojx23Rljn9+WNfFLPt7+ZNm9fL9FV+UVTLrExPqvVyWpRp/jqvL4tp3qTb6ev1ZFG0bT5Ln2dNm+4dpE+z64YA3hVYj8ti+Tad1/n5Zx+Nx3fpf8er1e//Zp4v8uYu9aKd3H2an2frsh1Pm+ajtL1e5Z991Obv2rv8d52Xn33UtNdl3szzvP0ovXv0+C5jTB1Nqtk1/aTfmmldrFr/7Z/OLjP59KO0qacGhdf8UXP3p3/ROq+vt3fHB+N740WxHP908xFBljeOUgBN6Xl8XtWLdJktCGzWrJZ5+4w++Chd5O28mn320apqCH42bYlMn32Uv6mz6VsaZVlMM3z0Os/q6fxV3tD4mjEBePd7PCvycvbZ61+YLVaHL/O6ICjP9w74z/PPfve9/Ze749M3r8avT49fnXx7/Np8V39GX3z39MnnX52+fvNRWlDfBM7gQ0R4PCsu8aNYrtaGEPNiNsuXHyn+v//v/5Nnp999/eb4zakACD64zMo1Nbp7dfry6dVXv9cXb07vf/H04gdfPH278+Lq4dtnF99ZPN37ie8eX5w9wc8nF2en/PNY/j5e/D4vf+rJ73N6fHGKnyc/daHvXB0Q1vunP/n5T+7Pjr/6zqvvvlrNTp68mOy9Kr990T6d7O22v8937799s3jW/tRPfEXtnv0ge7f/8if2HraT7z5b/9Tps+ufuveT7U999/7Ok1ern/jiq5/8ia/evtid3nt1Oflu+YPf5/d+tZrs3X/2U5+XO2+++/DtT73a/85PfPfFT//U7/3iB6/3fvI+/f0TP7H3bHe695M/+MnFsyb77qv57PPycrK4yE+evZr/Pm/L9U8Rbsc/cXz87YvZV5O9h81Pfl5e0Xsvg/ZvZ9eTez959VPfffWWaBAZ48Hxk5/Yff1T3/2pa+q7Ojt9Mf999ublt69Onz2hfqZ7zfnxxVf5V0+fPfvq2Xeezn7vFzs09tV079lO9t2H668WP7mYLn7yB5l97wX9/1X17auvnhwfH58/WXx1/mTvJ9/+1PHZU/R3PN//9k8uyh9k3/1O81PfnRMeZyfHFwcvf+r44OWzk+b4+NXv8/m3L159+ft8d7d88hOrZrrzU7uTxQvu69sX704Jz/nsu+92MMbZd796dnr96ie+eH3/2U8+O1t/tfOTT4jGZ8/LF1988dMX+dPyyXyK+fm9X5XT8qfmk2//ZPlTT36iPv6J05PjPdBjCnp8jrl/+u73Ofn21ZPypz7/iZNj5hv6SXgRfufHx1998dXeTxIs0Ad0/ckfSDv7/e/zxZuvLr94+hOXX/z08fUXr5/sTK6P331RHFy9eH1w/cXTs3do/+Qn0P4n8pPT2TXNz1f57/2ExviOcP/Ok5/Yad+8+urZ65/YuchP5fun00W581O/93dWv89X71bTez9x/eAnaLLpf8cv79JzAPrqc3VC/xx/9ewn3j0vj+n/s/L3Ke6//H0Wq/L3uffqyU99/uyKcL6eXl9d/OSCfu4RX/z0zrsvTvZ3nv/08fqLk6uLn7j3k83s2z95/VNvdtc/9Xv/5A7RrXlOGM9onrLvvnj+U793STzWlpOf3l0T/Zsnx6fU48n0+Cdf3CeeLiev75NMvKM5lbmaXt//NvF+SWP46edvgf+riy9+sp385NPT9Vf0/5/c+8ni+duHRbb4yZ+enT57+/v83k8w1h88J34Nxv6acKb2G985efJd/ES/L9+cXj3/6Z+gMe1f0edPCded2e/9nfIl4TL7vV9d/z7fvWrOnj3Z/X0W71a/zw6p+598dZnt/eSavt+dfP5u9nv/xBc0ruPPf+896v+7uz948pMPf5D93qvy5NnDPdMHCP+d3Ztoff/bNIa3P3HvOyv8nX332eT3/okzevOYGP7tU/opc8l0PP728RX9e3wM0PLP8U+UN467SyuB/x15f+fpE/DL8fHXgPMVvXb87cnv/eK7v8933+3+1E/M2+muyM8XF/fb6c7DK2pHcvDwmvTd25/6iRV99uKSvm8nb8u3Txe7P/jq29+5nNK4Z98uWZZJ5p7Q/5lPn1ww/O+GMkPy8tPV1RdP6f8nT568+QmSS3qe/fTp9fMfHO8+/8HZ1Rc/fXrxxZvTT1+8eYv/X3x1uvP5E6bbd05/4uL34cE//erd5U99Pisn3/3J9Yxl9avvcKfHLck06TzS+Vb3wyawToIOLHm+zp69uk94e/rq4Cz7vNP21bsvJ9dPVpPFT11OF7vUB8lT8WQ1vX4yny2erSafPysmn39F+vknTp7+BL8DGL/P8dVPPiUeab54evyW6LYmvljPTl79NOnU16R7dyfffvWDV8QvP3XyinTxk9/7p777HcbpO5+Tzn16fPWdz2fXP/WM+E3m66vf57vfIZ59dk36tJxdHRz8XlfHv9fxT1ycHC9+4tlPmHdOaV6WJJ/Ln3j7+9z7yR+Qvv4BZGK6Axg/8ZZ09xX4Qvv96dnnV0T/V29n3/4p2/+bz8sfzJ791Oqnfu8p6+gnpDt/6vNXRM/jk29/9yeefTvS1+Tz7zRGZ776/Bnx1Rcvs89f/T7N793mJ3s/eXn87bfHL18/+PTh6hc9/cmD8vTbV599BieJPIG74hHQb+aXH7udd/D56YvTV8dvvnzVcxO8b9RfePBw/8nu6e4z6XNzB6c/efrizU8ePz97evzm7EvybwV672MFTa7Id3+vn3g+md9d/+TTn/i97t1/+O3f6+nV83sHn7zeefITz5/u/NTduyfHv9fTn179IKefJ7/o9/nu86cXv9cnu6vPf/rpxfN13S7vnxw/b9bfebA6vnj+tvp9vvua3vvO+svzg5OL3+tpVfHflf6drc7477vrNf5+/kS+/70W65z/vpC/nz/Tv+/q32/l79/rc4Vft5/w3+1yH3//Xq9bhvd75dX95YsnhO/6cn2P3n9W/RT//YvWL/nvt/I34cd/E34r/rvSv7PVd/jvu/r+E/me8Dvnvy/kb8KP//69sv2X5zv0/d2Lg+9+cfLdz8nuPb//6fKnL7O7X376+/yi8jt3v/jiJy8mdycydcIu4vXiAdPwBJVVNiuWFx8d0Yf+4zVVTqNf+bGvkgf/hAKHGbnWYD/6yj5Bm2y5zOuPUmpE3/Sex7/r9nb6vLoolun29lAbgJuWWUMBT7PKp0VWIvpAv/Rt9Bn+Bs/jZpUtDUTufBMs8zzOZExtubPz+9O//OLvP13M+BcEChQ6NW/za4JJsQ7CpM8+OuYP098rv36U0qcSMLnw5dHv//vPqpcUZzyh2GLrY4K6s/O70b8M8nczsD8effzxnY+O+PfHd7PuZPWeG8ZCkRCN/4YRD3zbZQf/4bk8XVLICEQxn/Shffrv8LwySQ2b0IvV0FQQ+YV6iHkbCnrzRsNVCvFmVxJvjpfN1fiiuhxn67tvdl++ellXs7vfzScUtjV3c/prldft9d2Xu3c/X9Mb364WuURuQQj2C22w9vLVmD/59hen4588+65oNZofcMBihtdfZJdDGON5XCwu/BCVEDFRsobGd88W2QX9ebpYtdfji+Lc76TAd6abdFLVs7z+7KOdjwzzzs1XkHLqrveAXfrfxGYx+hl9ZLqalhTvIoymz2LNGOmmOamWbb5sj+s8i9HFb/oma94SI+YfpdJH+lmKj19UL+ti2cbexhP/FHAHXsAz/I15AEDQ+OyjRb5cvyTEOIVC3w0+m7/F0wX7bcpukDq8Aa55RFExuZgdDMV+/3pVf0HQnhdNC1W0s/v7l5MSn3xeV+uV6YSYzSQrUs5ekKq/lfDjiU107Hm8Lv0BMgLAC2P8MUoTHVnBzRkHDynJoMQEEFkRK4QuY3L64ifCUQkEMPnju+gK/zfdee2a7xbt/CezupC/btPj8cuXP3n86jVLvd9lk14RrNQBs53DzK5L+kFE2fg8ntSD8mqezd/i+SFx1l6Us75ckgXOU58uP4eMRXr19bxarYi9T7K6Df64aa5fHv8+45PjV29kos2bKV61M9vtLJfs6F354RHhps5OXz8Zv/7qyRdviLu0QwaR0lx4YGzHP2yWusXMDH8b/+brwRx6q/8JiwHzsTMor/Iyo9T1c3ISKcusTPT1bQse1w3JxM7v/6q4mLfoDmbi92+bVdil9PhRqw3YjjAE7wsjSvpmyq+acRPv419iAct3A9rzpvzzm+/yXxt4kpSdqtfXbyxHAqM386JJv5vnb31+pH8/FKXn74PS8wAlXoz4WUDpzRf81+1QevOFjxJT6QvyepwZ+mZwev4+OD0PcGIy/azg9ID/uiVOD3o4PeBlpG8aqd19/vOWWO3u99Da3f9ZwSu2vMOfRPHaO+jhpctuH47XU+5W8XoflfAUKuFpTrEVraMRWszt34wABji9j054Cp3g4cSk+lnA6X2UwlMoBQ8nptM3JIEBUu+jFZ5CK3hIMaF+VpB6D7XwFGqhi9Q3pRdCrN5HLzyl1n28NiuGr43Y+yiGp9S6j1hEM4in2HUznlUVvfnR0S9cTprVofUv9OewwxP/5n0+ZUzYZWqab+fl6ng5O57REOAM0dfRR74x/8rP7mNwp1+DZ+jz7tNv4WOq+YsYktxMSetafreq31LkM81jr+AhNg5hv6lWyKPEEjN44p/ieTzfFVDsg4oD+fvPd19SjugN0o3D9mO++16dvc+n7ol/L5/Kv92oUwny+0/XzelGUfoobdpr5FNnRbMqs+tHBQeg25Oymr49vCpm7fzR7s7O734IwqITHa4fF8m/QyhQlCs9PiVvnPrTeeYOCOjwWyzfL7JF/nKXpDYG4xwtnmcTxAHyPc0KNVBMb4L9kxmtmNwK+O79uzv7d/d29nbTtkp39+7u3Oe/TEfyQ+hg/pX/SN0u36Z1XlKGHYRu5nneUhKbl3ra/F17l9jXpK83ZVbpT5PfrClB227Te2P6/0eYBeoHItQfKs2/TvTndTH7/VfL8mTdtNWiaJgV8CGk68cM0vRP8K95bge+zleEOP8q7ai/1/kUPUGmKPznzrQ3/xmaqps6oKnsdGCmrwk/9jNNmtxKFXIwe5sen+f9h1PR7487vaW4v85XWZ21Fa3mhNh7X8RT3V8Us+9Sup0S9JFsd1a2n31Eb4LvSOA4x70tIr2zenc4zxFr86/y4X2IeW+ENGHWAND/vAd8Rz/sAyahVj/2Y4/bbFLmZiwXNGQaWF6WROcpTYbk2envVTbD5Hz20b0gBf/+pLyoiQz8wZtssi6z+ieL/MqOXEbHWkx62Z5WZZmtmvyR+YXUGxAnzGuD9pw4J69fVVf6FX03T5spiSNhV5FSIPMjYnvDqpMO4ncLB/G7uUFgXYraRQdBK1Svq7r93V5li7MZ1qpo8i0fI7MBc/f4bjs/+jlF73k1uyCGXLbQoUDTfsAa+f8dSD7NpQciHVD0/vx/B36UQVtk9TXnYz3kgCt/lnof/r8K4xOa4ouqvvbwA9Lm4//34f2sqhcZvLnj2YysaQNs7Wepfvj/DlRV3pctPCFG1H6S8kcWTdZS9FtNCFsttsSoykCLzX44A+Dv9uRfGgwwf3q8c2/feE6MNeFC/3fulf3o6Tor0y+n0zWZ5ul1yjFcSk44mZiiIT5Kt9M3VV3ntGzEHnq6RR78kpyzvbSs2uZO+numew/Ts/K8qmfpqyqjf36f56/ffPni1HWRX+ZltWIlpTQFhzbpeV0t0t27Dwij3X3XPMDIfvzDpuU9peXA6NIXr79L0cn+w4DA6e9FbmhTTFPComnrNTsXTfqyvU6ftzNuxtxBvwXcQx4EuRYkxj9nDHSP/w0Y6FOaF3CKN77dT3sMtIlXfs/0SbWYFHWWnjYtjY4UlGOFJwhM0t0H6bez+jK/Tl+3Nbns6ZMvv3hy9uo4ZQIThe/v2K78t2/BSK+HMbNtftgENlz19ekCsghVvHlJv8iyJhXjpZFMkTeW+sx/BcXV+QYe/DnWYPv8b8CAmE9wmjfQCAO+PH6xfXDw4NMdmuSTarHI62lBGuQYIiX8cZcMTcG/EUd+d17MZsQRX6zJccrTl/Rxntfp/t72/j69v65bQ/Evvnr6+enXVmM3oWIb/rBJbFjwfQkxwHkUIKXP6oyCbwswa6ol6cBvV2Q10+o8fZFfpa+rNVn372YUmfO7zGL0W8CCP/dq8D7/G3DhAc0r2M0bdIQLqb9iRn1jvl/Pybn5PdPdhztEi+tlbuj4+VfPP//yxef2nffkqG4X9osfNnkMBw0N0HDKXkC0N/NqQUrqO/Cl0i8/flIXOXmp9AXPM/0WsMLPsTb6lP8N+OAhzQYm3BvS7sMeH3iyrs6UlXhiiW9TJoDzXenLrCYlT5L2oqprWml5Tqvs6efHz49Jy5N3wSQEDUnaCCogvye3bEDEtvlh09Mwzq3JACoIETyqP0c+hdI1xHVV2/LHzCL0W8BCP/fa5AH/63PR/R2aJbCLN54IF8GmPdzd2bufUs+B0BMT7R4cpCfzNTJrKneioO3b78kp3S7sFz9sQhn2GBpgnB2OJxPybsiCfTH9vTKJF3iu6beAHX6ONcoB/xvwwi7NAybdG8zeTo8XNggyMcNx+TarKbeXpfcOHjxJv8jLumpyiVW++PKrF2/SZ6++/OJr88aGzm2bHzYNDZvccuhplGs+ryVl8kVGrvIyPcmnRZk+qaurDTbp516hPOR/AybaowkDt3hjizDR6+FYKBLRP9jdfrB7nD7Livp6Ri6bqGUVQqanEpQgA/p7MtUGZGybHzZNDVNtHDpGLgP3qJ3+5DG5uiUS7DbST9/cPaZwjHJHNET2g7k5swz9FnDVz6VeasvdHR5+wFL3aLrAO94g93Z7LHUvPcnq9HMyxBeI9L+bkSQu10W69+le+kWb/mSxnNLEiDi++urFizNyDF+/eXV6/MXXZiHHQtKt/fOHxi1KLsMt7zPoKPO8KqbkyszSF/SzIn6ghECzyS3+OVdBu7v4N+QXwxjeuPZo6dZ8TH/iI+KWFSVaiVV27+9C774lw/46sO9MIyUSvYG33lO1aCf27x82XQxjDA4RI5QBetT6zho6hhL88IcpeP5/r7aQ3Ggw+5E8c2T2xaN9uHsvfXpFK5KkLEkvrslc/54pef+vSdNekxxoAKC0YmIptQgEwLwnO4R92Y9/2PQyXDE4UgxUxulRkaLFyYSbslW5KX/3c68aJMUZMEckeTLEHPd27u+TO/B62DlIt+6Jp3LPeiq0MDbL0y/P0y8ziiMf7D9Jn+T5dH5FOmAuWvjbx68+f3X8k6evbW/vyUMbELJtftg0Ngz1HsOP89jzYpLXxF1P6F8yQBvY6+dY8UjuMuCtyPrE3r0eb4UqgFhm98Fe+nqFwOGqqjQDwaQ6+fLl146Twl7sxz9s+hi+2DhGwwlhei59PaVsCi06XL2lJSwaBzmtonj+X71wtSspyYAxMDfgAG90McYI1hnTLVqTzqaU/riTZsvZZjVkA6bnqobuE7ljit119p7sFOBmP/5hU9Ww09DwDCeFOiV9fr2k1M2TdVG2N3PQz7FekcRkwD6RRO9eP+H/Oq8viykl5LIVpRB4Ykm3HOw8SL8qs6VIG+UfPk9ffXnye30DrkzT689+9cOmlmGLwdFisDJWj4ZvsgUFbZSwKsjDpeC4ypd50+bFhmhnRTFeHbJGOq3KhqTis48efERNswnJ46SqZ3n92Uc7ph01rM2v9Dv1j1eOaPL4J3VDH+H/PwzCEbFe0jh+tz2QzOlcRY9+N6jSrxiO9zX9Jl/SL/wV/f74Lukl+iX1nvCvx5M6vbuxxdBfv3HyGycGvvuPvqBv6J/0MX1l5iabglufrFtKcTTP8/MWxKc2/Dwulqt1m7bXq/yzj5r1hFzXj9Ilrfx89pFQylB00i5f1vllQVbzo/QyK9fUwn1QzLT976/tf/+gfTad5k3zNr+mdz5KW+jmzz465g/T3yu/fpTSp4otEDyuKb0nCH9kCeQPl/7sPf6Qp2We1cR1+gp923titDfP1/luqK/Y59HPVoTuqvehGVGxhIkjzsKoes0InExB0zwh36BaPKHhm1fpwxcV+Z/LYOLNE333eX6RlR8d0dfh038dDwknA+D5n6/Kk3VDYJ5VFXkcz4vl292AAX4yygD0qQj4vG1XzaO7d3NVo814UcyuoH/q5XjZXI0vqstxtr6bv6yrVU4e8ctXXz69+3L37udragRnaJw1q3e/R/3Zy93xd0+ffP7V6es3nBA//+x339unD09fvhrzp9/+4nT8k2ffJXyy+iJvP/vo92/y8vyjo1wthvhW0AMD4y4WF97I6S8Z8+ucFH/WVjUNXOfgkjAls1ESbT9Km3r62Ufj8V36H5mT35/W5cmDu/tFQSqJh3n3bEFqqLn7k+6lJyUpufFFcU6kLAlTAtJeg4ZzLLG1j3Z3Vu8Or4pZO3+0S7+Jnt2WD/CVE6Puc9Pk7VGPPE88eW+IWP3Jo0/d5NHcXV1dDczaPM+AGMxFcxeqgpTT9rq5S2DDOdDv0q8ow/K16U+4/3+e/veoRyY10/8rIlSf/vTpLelPauAym15vv24pEoBrQvBCwmsLSoZpC9Cf8Iw98RH1P43pOzxR3XNSra5rEPWjo184pd8P0zcUKC+rsrq4Tr8kj1bzK6k4eQSiAzn2mfvL/xam5LF4E2oB2/xde9f5GFCYd+8+/l2/d/L0+M3x937j5HfbmlXTNchyZ1wTL19vna+XbF/TrTvpLy7O063fbevjH5fZJCt5Spasbj6+My6arY8fqQr/+E762WdpW69zegXNf//f//XJqy+fP3/55euzN2dfvvi96QV6eevjnY/vHMYa/D5+g1/yS+4c3r37/e8TruQ2Md786zn56/zLpJpd8y/zdlEe/cbJ/wPbuzgTTFgAAA==
   recorded_at: Tue, 14 May 2019 14:00:00 GMT
 - request:
     method: post
-    uri: https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    uri: https://eservices.midwestern.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
     body:
       encoding: UTF-8
-      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIBD2QWBgIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUYMjEvMDYvMjAxOSB0byAxOC8wNy8yMDE5ZGQCBQ8PFgQeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP%2F%2F%2F%2F8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMjEvMDYvMjAxOSAxMjowMDowMCBBTQYGAAAAFjE4LzA3LzIwMTkgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAtkFgJmD2QWBAIBD2QWAgIBDw8WAh8ABQlHcmlkIFR5cGVkZAIDDw8WAh8IaGQWAgIBDw8WAh8ABRxObyBpbmZvcm1hdGlvbiBpcyBhdmFpbGFibGUuZGQCDQ8WAh8IaGQYAwVDY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGdyZFdlYkdyaWRUYWJ1bGFyVmlldw88KwAKAQgCAmQFQGN0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRkdHZXZWJHcmlkTGlzdFZpZXcPFCsAB2RkZGRkFgACGWQFHGN0bDAwJENvbnRlbnQkbGJsU2VhcmNoRGF0ZXMPaGRNgmv1zvqGvjVb1XtHNZQtAsoozw%3D%3D&__VIEWSTATEGENERATOR=A17C432A&__EVENTVALIDATION=%2FwEWKQLrg5TODQK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAK%2Fg8WMCRMcd8QThm1dyThRQsAhDzN5sJXl&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%242
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIBD2QWBgIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUYMTUvMDQvMjAyMSB0byAxMi8wNS8yMDIxZGQCBQ8PFgQeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP%2F%2F%2F%2F8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMTUvMDQvMjAyMSAxMjowMDowMCBBTQYGAAAAFjEyLzA1LzIwMjEgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAtkFgJmD2QWBAIBD2QWAgIBDw8WAh8ABQlHcmlkIFR5cGVkZAIDDw8WAh8IaGQWAgIBDw8WAh8ABRxObyBpbmZvcm1hdGlvbiBpcyBhdmFpbGFibGUuZGQCDQ8WAh8IaGQYAwVDY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGdyZFdlYkdyaWRUYWJ1bGFyVmlldw88KwAKAQgCAmQFQGN0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRkdHZXZWJHcmlkTGlzdFZpZXcPFCsAB2RkZGRkFgACHWQFHGN0bDAwJENvbnRlbnQkbGJsU2VhcmNoRGF0ZXMPaGRYsXteC2VvAHkAPS769pqDV8lEHw%3D%3D&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWKQLbh%2FuVDQK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAK%2Fg8WMCWGQy7L56njva%2FO6YqlJ%2FMMVgb%2Fb&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%242
     headers:
       Accept-Encoding:
       - gzip,deflate,identity
       Accept:
       - "*/*"
       User-Agent:
-      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      - Mechanize/2.7.7 Ruby/2.5.8p224 (http://github.com/sparklemotion/mechanize/)
       Accept-Charset:
       - ISO-8859-1,utf-8;q=0.7,*;q=0.7
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=rfc3vk554f4qw5550kyvzpvn
+      - ASP.NET_SessionId=fheshb45rpwu52451gemqy55
       Host:
       - eservices.midwestern.nsw.gov.au
       Referer:
-      - https://eservices.midwestern.nsw.gov.au/epropertyprod/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      - https://eservices.midwestern.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
       Content-Type:
       - application/x-www-form-urlencoded
       Content-Length:
-      - '2560'
+      - '2568'
       Connection:
       - keep-alive
       Keep-Alive:
@@ -279,180 +97,23 @@ http_interactions:
       - no-cache
       Content-Type:
       - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
       Expires:
       - "-1"
+      Vary:
+      - Accept-Encoding
       Server:
-      - Microsoft-IIS/7.5
+      - Microsoft-IIS/10.0
       X-Aspnet-Version:
       - 2.0.50727
-      X-Powered-By:
-      - ASP.NET
       Date:
-      - Thu, 18 Jul 2019 02:11:09 GMT
+      - Wed, 12 May 2021 03:09:34 GMT
       Content-Length:
-      - '19096'
+      - '6576'
     body:
-      encoding: UTF-8
-      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
-        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tMid-Western
-        Regional Council eServices - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/MidWestern/Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n\r\n<script type=\"text/javascript\"
-        src=\"../../Scripts/jquery-1.8.3.min.js\"></script> \r\n\r\n    <form name=\"aspnetForm\"
-        method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
-        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
-        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIBD2QWBgIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUYMjEvMDYvMjAxOSB0byAxOC8wNy8yMDE5ZGQCBQ8PFgYeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP////8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMjEvMDYvMjAxOSAxMjowMDowMCBBTQYGAAAAFjE4LzA3LzIwMTkgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAseCVBhZ2VJbmRleAIBZBYCZg9kFgQCAQ9kFgICAQ8PFgIfBAUJR3JpZCBUeXBlZGQCAw8PFgIfAGhkFgICAQ8PFgIfBAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkAg0PFgIfAGhkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgICAgEIAgJkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAhlkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hkXQnUa3h80V0R3e0TnOqpzQGPVpM=\"
-        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
-        id=\"__VIEWSTATEGENERATOR\" value=\"A17C432A\" />\r\n\t<input type=\"hidden\"
-        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWHwKTj4ShDQK359HKDwL38+S0BQLD0Z//CAKDjpzeCAKCqYWLDgK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgKa4IP0BAK/g8WMCQj+nt7kgJCWgnNUuz6OGxIjpsDI\"
-        />\r\n</div>\r\n        <div id=\"loading\">               \r\n        </div>\r\n
-        \       <div id=\"cssBounds\">\r\n\r\n            <div id=\"cssBanner\" >\r\n
-        \                   <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
-        \                       \r\n                            <span class=\"Login\">\r\n
-        \                               <a id=\"ctl00_ctlLogin_cmdLogin\" accesskey=\"L\"
-        title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
-        \                               \r\n                             </span>\r\n
-        \                           \r\n                     </div>\r\n                    <!--
-        End Login -->            \r\n                <div id=\"cssBannerLogo\">\r\n
-        \                   <a href=\"https://eservices.midwestern.nsw.gov.au/ePropertyPROD/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
-        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/Empty.gif\"
-        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
-        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
-        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
-        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
-        \                       \r\n                                <div class=\"menuPanel\">\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Application
-        Tracking</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
-        Search</a></li><li><a href=\"ApplicationsWithVariations.aspx?r=P1.WEBGUEST&amp;f=%24P1.ETR.APPVARS.VIW\">Applications
-        with Variations</a></li>\r\n</ul>\r\n                                <br />\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Online
-        Applications</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../ShoppingCart/ShoppingCart.aspx?r=P1.WEBGUEST&amp;f=%24P1.PAY.CART.VIW\">Shopping
-        Cart</a></li><li><a href=\"../eSubmit/SubmitApplication.aspx?r=P1.WEBGUEST&amp;f=%24P1.ESB.SUBMTAPP.VIW\">Submit
-        an Application</a></li>\r\n</ul>\r\n                                <br />\r\n
-        \                           \r\n                                </div>\r\n
-        \                           \r\n                        \r\n                    </div>\r\n
-        \                           \r\n                </div>\r\n                \r\n
-        \               <div id=\"cssTaskpaneRelatedLinks\"  class= \"cssNoPrint\">\r\n
-        \                   \r\n                        <div id=\"ctl00_RightTaskPane_tspRelatedLinks\"
-        class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related Links</div>\r\n<ul>\r\n<li><a
-        href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
-        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
-        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
-        \                       \r\n                    \r\n                    \r\n
-        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
-        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
-        \                               \r\n                <div id=\"cssContent\">\r\n
-        \               <div class=\"cssContentWorkspace\">\r\n                    <a
-        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
-        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
-        \                   \r\n                    \r\n                              \r\n
-        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
-        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
-        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
-        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
-        class=\"fieldLabel\">21/06/2019 to 18/07/2019</span></span>\r\n    \r\n    <div
-        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
-        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
-        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
-        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
-        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
-        class=\"sectionSeparator\" src=\"../../App_Themes/MidWestern/Images/Empty.gif\"
-        alt=\"\" style=\"border-width:0px;height:0px;width:50%;\" />\r\n            \r\n\t</div>\r\n
-        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
-        cellpadding=\"3\" border=\"0\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
-        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
-        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
-        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryGroupDescription')\">Group
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
-        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
-        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">DA0302/2019</a></td><td>27/06/2019</td><td>Dwelling
-        House @ 28 Rodgers Street KANDOS  NSW  2848</td><td>Development Applications
-        from 1/7/2014</td><td>Dwelling House</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">28
-        Rodgers Street KANDOS NSW 2848</a></td><td> Jason Boxsell Constructions Pty
-        Ltd</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">DA0307/2019</a></td><td>2/07/2019</td><td>Multi
-        Dwelling Units and Subdivision @ 5 Costigan Court MUDGEE  NSW  2850 and 7
-        Costigan Court MUDGEE  NSW  2850</td><td>Development Applications from 1/7/2014</td><td>multi
-        dwelling housing</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">5
-        Costigan Court MUDGEE NSW 2850</a></td><td>Peter John Consadine</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">DA0010/2020</a></td><td>9/07/2019</td><td>Extractive
-        Industry (Quarry) @ 329-331 Quarry Road KANDOS NSW 2848</td><td>Development
-        Applications from 1/7/2014</td><td>Extractive Industry</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">Kandos
-        Quarry 329 Quarry Road CARWELL NSW 2849</a></td><td> Kandos Operations Pty
-        Ltd</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">DA0004/2020</a></td><td>9/07/2019</td><td>Temporary
-        Event @ 90 Bartletts Road RYLSTONE  NSW  2849</td><td>Development Applications
-        from 1/7/2014</td><td>function centre</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">90
-        Bartletts Road RYLSTONE NSW 2849</a></td><td>Alex Wisser</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">DA0005/2020</a></td><td>9/07/2019</td><td>Home
-        Industry @ 698 Bocoble Road BOCOBLE  NSW  2850</td><td>Development Applications
-        from 1/7/2014</td><td>Home Industry</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">698
-        Bocoble Road BOCOBLE NSW 2850</a></td><td>Kathleen Mary Richards</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">DA0011/2020</a></td><td>12/07/2019</td><td>Intensive
-        Agriculture - Medical Cannabis Manufacturing Facility @ 80 Kemps Valley Road
-        KAINS FLAT  NSW  2850</td><td>Development Applications from 1/7/2014</td><td>Intensive
-        Agriculture</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">80
-        Kemps Valley Road KAINS FLAT NSW 2850</a></td><td>Daniel Elhindi</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">DA0298/2019</a></td><td>24/06/2019</td><td>Shed
-        &gt;150m2 @ 96 Beragoo Road GRATTAI  NSW  2850</td><td>Development Applications
-        from 1/7/2014</td><td>Shed &gt;150m2</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">96
-        Beragoo Road GRATTAI NSW 2850</a></td><td>John James McGrath, Anita Lura Czuczi</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">DA0003/2020</a></td><td>8/07/2019</td><td>Residential
-        Shed @ 3 Gawthorne Place MUDGEE  NSW  2850</td><td>Development Applications
-        from 1/7/2014</td><td>Residential Shed</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">3
-        Gawthorne Place MUDGEE NSW 2850</a></td><td>Peter Gerald Doherty</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">DA0301/2019</a></td><td>26/06/2019</td><td>Residential
-        Shed @ 57 Mortimer Street MUDGEE  NSW  2850</td><td>Development Applications
-        from 1/7/2014</td><td>Residential Shed</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">57
-        Mortimer Street MUDGEE NSW 2850</a></td><td>Joshua Bradley Cam</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">DA0295/2019</a></td><td>21/06/2019</td><td>Subdivision
-        - Torrens Title @ Baptist Church 153 Bruce Road MUDGEE  NSW  2850</td><td>Development
-        Applications from 1/7/2014</td><td>Subdivision - Torrens Title</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">Baptist
-        Church 153 Bruce Road MUDGEE NSW 2850</a></td><td> Baptist Churches Of NSW
-        Property Trust</td>\r\n\t\t\t</tr><tr class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"7\"><table
-        border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><span>2</span></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
-        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
-        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
-        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"Previous\"
-        id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access Key: P\" class=\"LeftArrowButton\"
-        />\r\n    </div>\r\n\r\n\r\n                    <div class=\"clear\"></div>\r\n
-        \                   <br />\r\n                    <br />\r\n                    <br
-        />\r\n                </div>\r\n                </div>\r\n            </div>\r\n
-        \           <p></p>\r\n            <p class=\"invisible\"></p>\r\n            <div
-        id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div id=\"cssBottomBarLegal\">
-        \                \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
-        accesskey=\"V\" title=\"Access Key: V\" href=\"https://eservices.midwestern.nsw.gov.au/ePropertyPROD/P1/GuestHome.aspx?r=P1.WEBGUEST&amp;f=%24P1.EPR.GUESTHME.VIW\"
-        target=\"_self\">eServices Home</a>\r\n                    <img id=\"ctl00_imgFooterSeparator1\"
-        class=\"verticalBar\" src=\"../../App_Themes/MidWestern/Images/VerticalBarBlack.gif\"
-        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                    <a
-        id=\"ctl00_hplCustomFooterLink2\" accesskey=\"T\" title=\"Access Key: T\"
-        href=\"http://www.midwestern.nsw.gov.au/header-pages/Contact-us/\" target=\"_self\">Contact
-        Us</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
-        src=\"../../App_Themes/MidWestern/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink3\" accesskey=\"U\"
-        title=\"Access Key: U\" href=\"http://www.midwestern.nsw.gov.au/Privacy-Statement\"
-        target=\"_self\">Privacy Statement</a>                       \r\n                    \r\n
-        \               </div>\r\n                <div id=\"cssBottomBarCopyright\">&copy;
-        Technology One Limited 2019</div>\r\n            </div>\r\n            \r\n
-        \       </div>\r\n    \r\n\r\n<script type=\"text/javascript\">\r\n//<![CDATA[\r\n$(document).ready(function
-        () {if ($('#ctl00_valErrors').is(':visible') == true) {$('#__SCROLLPOSITIONX').val('0');$('#__SCROLLPOSITIONY').val('0');}});//]]>\r\n</script>\r\n</form>\r\n</body>\r\n</html>\r\n"
-    http_version: 
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
   recorded_at: Tue, 14 May 2019 14:00:00 GMT
-recorded_with: VCR 5.0.0
+recorded_with: VCR 6.0.0

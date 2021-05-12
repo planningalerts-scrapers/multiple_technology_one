@@ -46,7 +46,7 @@ module TechnologyOneScraper
       disable_ssl_certificate_check: true
     },
     mid_western: {
-      url: "https://eservices.midwestern.nsw.gov.au/epropertyprod",
+      url: "https://eservices.midwestern.nsw.gov.au/T1PRProd/WebApps/eProperty",
       period: "L28",
       australian_proxy: true
     },
