@@ -85,6 +85,8 @@ module TechnologyOneScraper
           :development_cost
         when "Priority"
           :priority
+        when "Objections Received",
+          :number_of_objections
         else
           raise "Unknown name #{name} with value #{value}"
         end

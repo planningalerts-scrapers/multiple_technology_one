@@ -1,352 +1,330 @@
 ---
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP10915%2F18.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP10915/18.03
-  date_received: '2019-06-24'
-  description: Section 71 Amended Permit - Correct spelling of the word “the” from
-    only reading as the letter “t”.
-  address: 4 Network Drive TRUGANINA VIC 3029
+- council_reference: WYP11001/18.03
+  address: 2 Valencia Lane WERRIBEE VIC 3030
+  description: Section 72 Amendment - Amendment to Water Retention Facilities and
+    Facade
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11001%2F18.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11555%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11555/19
-  date_received: '2019-05-29'
-  description: Proposed alterations & additions (canopy)
-  address: 418-438 Ballan Road WYNDHAM VALE VIC 3024
+  date_received: '2021-04-20'
+- council_reference: WYP12075/20.01
+  address: 2/21 Lentini Street HOPPERS CROSSING VIC 3029
+  description: Section 72 Amendment - Amendment to Conditions 1, 3, 4, 11, and 26
+    - Change of Use, Herbal Shisha Bar, Buildings and Works, reduction of car parking
+    and a liquor licence.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12075%2F20.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11556%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11556/19
-  date_received: '2019-05-30'
-  description: Change of use for the purpose of a restricted recreation facility
-  address: Shop 2/428 Old Geelong Road HOPPERS CROSSING VIC 3029
+  date_received: '2021-04-30'
+- council_reference: WYP12108/20.01
+  address: 705 Sayers Road HOPPERS CROSSING VIC 3029
+  description: Section 72 Amendment to the permit and plans to use to allow for the
+    use and development of the land for a medical centre.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12108%2F20.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11557%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11557/19
-  date_received: '2019-05-31'
-  description: 2 Lot Subdivision
-  address: 27 Apex Drive TRUGANINA VIC 3029
+  date_received: '2021-04-23'
+- council_reference: WYP12202/20.01
+  address: 24 Dawley Circuit WERRIBEE VIC 3030
+  description: Section 72 Amendment - Buildings and Works associated with the construction
+    of four Dwellings (two Dwellings on two different lots) and Subdivision of the
+    land into lots each containing one Dwelling.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12202%2F20.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11558%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11558/19
-  date_received: '2019-05-31'
-  description: Staged subdivision of land and creation of easements
-  address: 190 Woods Road TRUGANINA VIC 3029
+  date_received: '2021-04-20'
+- council_reference: WYP12224/20.01
+  address: 17 Warringa Crescent HOPPERS CROSSING VIC 3029
+  description: Section 72 amendment to the permit and plans to allow two double storey
+    dwellings on the land
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12224%2F20.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11560%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11560/19
-  date_received: '2019-05-31'
-  description: Buildings and Works Associated with the Construction of a Three Storey
-    Building For Retail, Construction of a Child Care Centre and a Reduction of the
-    Associated Car Parking Requirement
-  address: 1 Wedge Street South WERRIBEE VIC 3030
+  date_received: '2021-05-04'
+- council_reference: WYP12239/20.01
+  address: 143 Foundation Road TRUGANINA VIC 3029
+  description: Section 72 Amendment - Amendments to the permit and the plans - Use
+    and development of two warehouses and a reduction to the number of car parking
+    spaces required under Clause 52.06
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12239%2F20.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11561%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11561/19
-  date_received: '2019-05-31'
-  description: Construction of a second dwelling to the side of the existing dwelling
-  address: 146 Shaws Road WERRIBEE VIC 3030
+  date_received: '2021-04-16'
+- council_reference: WYP12261/20.01
+  address: 140 O'Connors Road WERRIBEE SOUTH VIC 3030
+  description: Re-subdivision of Land (4 Lots)
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12261%2F20.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11562%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11562/19
-  date_received: '2019-06-03'
-  description: Two (2) lot subdivision
-  address: 61 Birchwood Boulevard HOPPERS CROSSING VIC 3029
+  date_received: '2021-04-30'
+- council_reference: WYP12795/21
+  address: 1/13 Tariff Court WERRIBEE VIC 3030
+  description: Change of use
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12795%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11563%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11563/19
-  date_received: '2019-05-31'
-  description: Use of the land for an indoor recreation facility (Gymnasium)
-  address: Factory 10/3-4 Desire Place HOPPERS CROSSING VIC 3029
+  date_received: '2021-04-19'
+- council_reference: WYP12796/21
+  address: 5 Firth Place POINT COOK VIC 3030
+  description: Major Promotion Sign
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12796%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11564%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11564/19
-  date_received: '2019-06-03'
-  description: Signage - entry sign and building graphics
-  address: 471 Sayers Road HOPPERS CROSSING VIC 3029
+  date_received: '2021-04-15'
+- council_reference: WYP12798/21
+  address: Factory 5/21 Westside Drive LAVERTON NORTH VIC 3026
+  description: Use of the land for rural industry (sheep skin processing) and a reduction
+    in the car parking requirement
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12798%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11565%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11565/19
-  date_received: '2019-06-04'
-  description: Multi-Dwelling - 32 Unit Development
-  address: 804 Leakes Road TARNEIT VIC 3029
+  date_received: '2021-04-22'
+- council_reference: WYP12799/21
+  address: 1 Trinca Court WERRIBEE VIC 3030
+  description: Buildings and Works associated with the construction of three (3) dwellings
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12799%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11566%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11566/19
-  date_received: '2019-06-04'
-  description: Buildings and Works pursuant to Clause 34.01-4,Business identification
-    signage, and a reduction in car parking requirement of Clause 52.06-5
-  address: 1081 Leakes Road TARNEIT VIC 3029
+  date_received: '2021-04-19'
+- council_reference: WYP12800/21
+  address: 28 Glen Street WERRIBEE VIC 3030
+  description: Buildings and works associated with the construction of a second dwelling
+    to the rear of an existing Dwelling on a lot.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12800%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11567%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11567/19
-  date_received: '2019-05-30'
-  description: Development of an outbuilding to the rear of the existing dwelling
-  address: 4 Lindholme Way WILLIAMS LANDING VIC 3027
+  date_received: '2021-04-16'
+- council_reference: WYP12801/21
+  address: 4 Lawler Street POINT COOK VIC 3030
+  description: Reduction in the car parking requirement for a three (3) bedroom Dwelling,
+    in association with conversion of the garage for use as a premise for a Home Based
+    Business.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12801%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11568%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11568/19
-  date_received: '2019-06-05'
-  description: Six (6) Lot Subdivision
-  address: 1 Madden Boulevard TARNEIT VIC 3029
+  date_received: '2021-04-15'
+- council_reference: WYP12807/21
+  address: 28 Sidney Nolan Walk POINT COOK VIC 3030
+  description: Subdivision of Land - Three (3) Lots and Provision for 173 agreement
+    to delay works
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12807%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11569%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11569/19
-  date_received: '2019-06-05'
-  description: proposed warehouse development with ancillary office area and associated
-    buildings and works also includes car parking dispensation
-  address: 2-8 James Street LAVERTON NORTH VIC 3026
+  date_received: '2021-04-23'
+- council_reference: WYP12808/21
+  address: 34 Patch Circuit LAVERTON NORTH VIC 3026
+  description: Buildings & works associated with the construction of two (2) warehouses
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12808%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11570%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11570/19
-  date_received: '2019-06-05'
-  description: To build a residential dwelling on a block of land that is less than
-    300m2
-  address: 14 Dutchelm Avenue WERRIBEE VIC 3030
+  date_received: '2021-04-22'
+- council_reference: WYP12809/21
+  address: 641 Tarneit Road HOPPERS CROSSING VIC 3029
+  description: Variation to Restrictive Covenant L433696N (20/12/1984) Affecting Lot
+    119 on Plan of Subdivision 139570 to Increase the Number of Dwellings Allowed
+    on the Lot from One to Twenty, Remove the Requirement that a Dwelling be Constructed
+    with Exterior Walls of Brick or Stone and Remove 'Ebling Pty Ltd' as a Conevantor
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12809%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11571%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11571/19
-  date_received: '2019-06-05'
-  description: To build a residential dwelling on a block of land that is less than
-    300m2
-  address: 16 Dutchelm Avenue WERRIBEE VIC 3030
+  date_received: '2021-04-21'
+- council_reference: WYP12810/21
+  address: 57-65 Riverside Avenue WERRIBEE VIC 3030
+  description: Use and development of the land for an industrial training facility
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12810%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11572%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11572/19
-  date_received: '2019-06-06'
-  description: Building and Works - Construction of an Additional Private Access Bridge,
-    and Associated Works
-  address: 38-44 Dohertys Road LAVERTON NORTH VIC 3026
+  date_received: '2021-04-27'
+- council_reference: WYP12811/21
+  address: 3A Tangelo Terrace WERRIBEE VIC 3030
+  description: Two (2) Lot Subdivision
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12811%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11573%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11573/19
-  date_received: '2019-06-06'
-  description: Drive through wood fire pizza
-  address: 73 Synnot Street WERRIBEE VIC 3030
+  date_received: '2021-04-27'
+- council_reference: WYP12812/21
+  address: 120 Cunninghams Road WERRIBEE SOUTH VIC 3030
+  description: Use and development of one (1) dwelling
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12812%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11574%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11574/19
-  date_received: '2019-06-06'
-  description: to build a residential dwelling on a block of land that is less than
-    300m2
-  address: 26 Dutchelm Avenue WERRIBEE VIC 3030
+  date_received: '2021-04-26'
+- council_reference: WYP12813/21
+  address: 120/22-30 Wallace Avenue POINT COOK VIC 3030
+  description: Construction of a Warehouse
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12813%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11575%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11575/19
-  date_received: '2019-06-06'
-  description: To build a residential dwelling on a block of land that i less than
-    300m2
-  address: 20 Dutchelm Avenue WERRIBEE VIC 3030
+  date_received: '2021-04-28'
+- council_reference: WYP12814/21
+  address: 2-6 Heaths Road HOPPERS CROSSING VIC 3029
+  description: Business Identification Signs
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12814%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11576%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11576/19
-  date_received: '2019-06-06'
-  description: To build a residential dwelling on a block of land that is less than
-    300m2
-  address: 18 Dutchelm Avenue WERRIBEE VIC 3030
+  date_received: '2021-04-26'
+- council_reference: WYP12815/21
+  address: 2 Wallace Avenue POINT COOK VIC 3030
+  description: Change of Use - Dog Grooming Facility (Retail Premises)
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12815%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11577%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11577/19
-  date_received: '2019-06-06'
-  description: Single Dwelling
-  address: 24 Dutchelm Avenue WERRIBEE VIC 3030
+  date_received: '2021-04-28'
+- council_reference: WYP12816/21
+  address: 800 Derrimut Road TARNEIT VIC 3029
+  description: Create access from a Road Zone for a new driveway and turning lane
+    off Derrimut Road to allow access to a sales office and car park
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12816%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11578%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11578/19
-  date_received: '2019-06-06'
-  description: to build a residential dwelling on a block of land that is less than
-    300m2
-  address: 22 Dutchelm Avenue WERRIBEE VIC 3030
+  date_received: '2021-04-27'
+- council_reference: WYP12817/21
+  address: 204 Duncans Road WERRIBEE VIC 3030
+  description: Development of the land for five (5) triple storey dwellings and five
+    (5) lot subdivision
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12817%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11579%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11579/19
-  date_received: '2019-06-07'
-  description: Buildings and works associated with extension to an existing warehouse
-    and ancillary office redevelopment
-  address: 19 Richards Road HOPPERS CROSSING VIC 3029
+  date_received: '2021-04-30'
+- council_reference: WYP12819/21
+  address: Shop 16/455 Ballan Road MANOR LAKES VIC 3024
+  description: Use of land to sell or consume liquor (Café/Restaurant Liquor Licence)
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12819%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11580%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11580/19
-  date_received: '2019-06-07'
-  description: Display of an illuminated electronic major promotion sign
-  address: 346-348 Old Geelong Road HOPPERS CROSSING VIC 3029
+  date_received: '2021-05-03'
+- council_reference: WYP12820/21
+  address: 172-174 Cherry Lane LAVERTON NORTH VIC 3026
+  description: Use of the land for a transfer station and reduction to the required
+    car parking
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12820%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11581%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11581/19
-  date_received: '2019-06-07'
-  description: Buildings and works associated with the existing warehouse to include
-    a mezzanine area and the reduction in car parking requirements
-  address: 9/1 Network Drive TRUGANINA VIC 3029
+  date_received: '2021-04-29'
+- council_reference: WYP12821/21
+  address: 74-76 Cottrell Street WERRIBEE VIC 3030
+  description: Development of a multi-storey mixed use building including use of the
+    land for the purpose of an office (medical centre) and shop and a reduction to
+    the number of car parking spaces required under Clause 52.06.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12821%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11582%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11582/19
-  date_received: '2019-06-07'
-  description: Construction of 6 warehouses & dispensation of car parking requirements
-  address: 17 Infinity Drive TRUGANINA VIC 3029
+  date_received: '2021-04-26'
+- council_reference: WYP12822/21
+  address: 275 Greens Road MAMBOURIN VIC 3024
+  description: Removal of Restriction (PS821086J)
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12822%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11583%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11583/19
-  date_received: '2019-06-07'
-  description: Construction of 6 warehouses and dispensation of car parking provided
-    on site
-  address: 13 Perpetual Street TRUGANINA VIC 3029
+  date_received: '2021-05-03'
+- council_reference: WYP12823/21
+  address: 14 Corundum Lane TRUGANINA VIC 3029
+  description: Construction of a mezzanine floor associated with the warehouse use
+    and a reduction in the car parking requirements of 1 car space.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12823%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11584%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11584/19
-  date_received: '2019-06-07'
-  description: Construction of a Single Dwelling on Lot Less Than 300m2
-  address: 2/18 Arundel Court HOPPERS CROSSING VIC 3029
+  date_received: '2021-04-29'
+- council_reference: WYP12824/21
+  address: 1069 Sayers Road TARNEIT VIC 3029
+  description: Use and development of the land for the purposes of a restricted recreation
+    facility, place of assembly and food and drink premises (Club Alamora)
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12824%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11585%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11585/19
-  date_received: '2019-06-11'
-  description: Use and Development of the Land for Industry, Reduction of the Associated
-    Car Parking Requirement, Waiver of the Associated Bicycle Facility Requirements
-    and Display of Business Identification Signage
-  address: 682-712 Dohertys Road TRUGANINA VIC 3029
+  date_received: '2021-04-30'
+- council_reference: WYP12825/21
+  address: 33 Banksia Crescent HOPPERS CROSSING VIC 3029
+  description: Subdivision - Realignment of Boundary - 2 lots
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12825%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11586%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11586/19
-  date_received: '2019-06-11'
-  description: Construction of a Single Dwelling on Lot Less Than 300m2
-  address: 97 Newmarket Road WERRIBEE VIC 3030
+  date_received: '2021-05-04'
+- council_reference: WYP12826/21
+  address: 185 Leakes Road TRUGANINA VIC 3029
+  description: Subdivision of land
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12826%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11587%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11587/19
-  date_received: '2019-06-12'
-  description: Advertising sign to the eastern side of the service station facing
-    Little Boundary Road
-  address: 1-11 Little Boundary Road LAVERTON NORTH VIC 3026
+  date_received: '2021-05-04'
+- council_reference: WYP12827/21
+  address: 828 Tarneit Road TARNEIT VIC 3029
+  description: Erection and Display of a Business Identification Sign.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12827%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11588%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11588/19
-  date_received: '2019-06-17'
-  description: Proposed two storey dwelling to the side of an existing single storey
-    dwelling
-  address: 13 Melaleuca Drive HOPPERS CROSSING VIC 3029
+  date_received: '2021-05-04'
+- council_reference: WYP12828/21
+  address: 45 Fairview Parade TARNEIT VIC 3029
+  description: Buildings and Works associated with the construction of a Shed within
+    the grounds of an existing Primary School.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12828%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11589%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11589/19
-  date_received: '2019-06-18'
-  description: Use & Development of an Education Centre (Stage 1B) for the Wyndham
-    Christian college, alteration to a road in a Road Zone (category 1) works on land
-    within a PA02 and staged display of business identification sign
-  address: 418-438 Ballan Road WYNDHAM VALE VIC 3024
+  date_received: '2021-05-03'
+- council_reference: WYP12829/21
+  address: Factory 7/227-231 Fitzgerald Road LAVERTON NORTH VIC 3026
+  description: Use of the land for the Motor Sales.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12829%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11590%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11590/19
-  date_received: '2019-06-05'
-  description: "Use of the land for an Education Centre\r\nHours of operation:\r\n4.30pm
-    to 7.00pm Monday to Friday\r\n9am-6pm Weekends\r\nMaximum number of students 14
-    (7 students per class)"
-  address: 11/22-30 Wallace Avenue POINT COOK VIC 3030
+  date_received: '2021-05-04'
+- council_reference: WYP12830/21
+  address: 95 Kookaburra Avenue WERRIBEE VIC 3030
+  description: Development of the land for three dwellings
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12830%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11591%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11591/19
-  date_received: '2019-06-19'
-  description: Development of 9x single storey dwellings with detached double garages
-  address: 15 Zesty Walk MANOR LAKES VIC 3024
+  date_received: '2021-05-03'
+- council_reference: WYP12831/21
+  address: 315 Boardwalk Boulevard POINT COOK VIC 3030
+  description: Signage - New estate
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12831%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11592%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11592/19
-  date_received: '2019-06-19'
-  description: Development of 9 x single storey dwellings with detached double garages
-  address: 13 Papaya Walk MANOR LAKES VIC 3024
+  date_received: '2021-05-05'
+- council_reference: WYP12832/21
+  address: Ground Shop 1/101 Overton Road WILLIAMS LANDING VIC 3027
+  description: Car Parking Waiver
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12832%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11593%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11593/19
-  date_received: '2019-06-19'
-  description: Home tutoring business for children
-  address: 23 Applegate Crescent TARNEIT VIC 3029
+  date_received: '2021-05-07'
+- council_reference: WYP12833/21
+  address: 3 Cottrell Street WERRIBEE VIC 3030
+  description: Development of an office building
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12833%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11594%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11594/19
-  date_received: '2019-06-20'
-  description: Change or Extension of Use - use of premises as a tutoring centre for
-    primary & secondary students after hours and weekends
-  address: 31/22-30 Wallace Avenue POINT COOK VIC 3030
+  date_received: '2021-05-03'
+- council_reference: WYP12834/21
+  address: 1 Eagles Nest Way POINT COOK VIC 3030
+  description: Construction of Medical Centre, Signage and Car parking Waiver
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12834%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11595%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11595/19
-  date_received: '2019-06-21'
-  description: Use of existing Westbourne Grammer school aquatic centre as a commercial
-    swimming school
-  address: 302 Sayers Road TRUGANINA VIC 3029
-  date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11596%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11596/19
-  date_received: '2019-06-21'
-  description: Subdivision of Land - 2 Lots
-  address: 1/2 Joybells Crescent TARNEIT VIC 3029
-  date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11597%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11597/19
-  date_received: '2019-06-24'
-  description: Extension od existing medical centre and alteration of access to category
-    1 road zone
-  address: 471 Sayers Road HOPPERS CROSSING VIC 3029
-  date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11598%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11598/19
-  date_received: '2019-06-13'
-  description: Construction of a dwelling
-  address: 7 Opsum Way WILLIAMS LANDING VIC 3027
-  date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11599%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11599/19
-  date_received: '2019-06-24'
-  description: "To remove drainage easement E-4 & E-6 in favour of Lot 4 on PS549300B
-    & Lot 1 on PS04846Y created by instrument AH128328T.\r\nTo remove drainage easement
-    E-7 in favour of Wyndham City Council created on PS636388X."
-  address: 840 Sayers Road TARNEIT VIC 3029
-  date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11600%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11600/19
-  date_received: '2019-06-24'
-  description: Subdivision of Land - 2 lots
-  address: 1/33 Harmony Drive TARNEIT VIC 3029
-  date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP11601%2F19&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP11601/19
-  date_received: '2019-06-21'
-  description: MOU Growth Other
+  date_received: '2021-05-04'
+- council_reference: WYP12835/21
   address: 270 Bulban Road WERRIBEE VIC 3030
+  description: Multi Lot Residential Subdivision & Creation of Reserves
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12835%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP4197.22.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP4197.22.01
-  date_received: '2019-06-20'
-  description: Proposed Verandah built to property line
-  address: 83 Kulin Drive TARNEIT VIC 3029
+  date_received: '2021-05-10'
+- council_reference: WYP12836/21
+  address: 22-32 Morris Road HOPPERS CROSSING VIC 3029
+  description: Business identification signs
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12836%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP4197.33&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP4197.33
-  date_received: '2019-06-03'
-  description: Amendment to the Plans - proposed verandah to be built to the property
-    line at Unit 144
-  address: 83 Kulin Drive TARNEIT VIC 3029
+  date_received: '2021-05-05'
+- council_reference: WYP12837/21
+  address: 8 Perpetual Street TRUGANINA VIC 3029
+  description: Change of Use - Restaurant. Signage
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12837%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP4197.34&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP4197.34
-  date_received: '2019-06-20'
-  description: Proposed verandah built to property line
-  address: 83 Kulin Drive TARNEIT VIC 3029
+  date_received: '2021-05-10'
+- council_reference: WYP12838/21
+  address: 8 Perpetual Street TRUGANINA VIC 3029
+  description: Increase Patron Numbers
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12838%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP4544.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP4544.03
-  date_received: '2019-06-13'
-  description: Amendment to the Planning Permit - revised signage package and a proposal
-    to vary the operating hours to 24 hours, 7 days per week
-  address: Factory 1/428 Old Geelong Road HOPPERS CROSSING VIC 3029
+  date_received: '2021-05-10'
+- council_reference: WYP12839/21
+  address: 10 Bonview Circuit TRUGANINA VIC 3029
+  description: Subdivision of Land - 3 lots
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP12839%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP5276%2F11.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP5276/11.01
-  date_received: '2019-05-29'
-  description: Section 72 Amendment - Amendment to the permit condition 3 (Hours of
-    operation) and 28 (Signage expiry) - Use, buildings and works and signage for
-    a drive through coffee shop
-  address: Shop 1/201-219 Old Geelong Road HOPPERS CROSSING VIC 3029
+  date_received: '2021-05-11'
+- council_reference: WYP2004/08.14
+  address: 280-286 Point Cook Road POINT COOK VIC 3030
+  description: Amendment to Condition 5 of the Planning Permit to Allow the Gaming
+    Room to Operate to 3am (All Days) and to Reduce the Operating Hours of the Bistro
+    and Assembly Rooms by One Hour (All Days)
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP2004%2F08.14&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-- info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP8983%2F16.06&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  council_reference: WYP8983/16.06
-  date_received: '2019-05-29'
-  description: Section 72 Amendment – Inclusion of Removal of native vegetation and
-    change to permit preamble, land description and permit conditions
-  address: 121-125 Farm Road WERRIBEE VIC 3030
+  date_received: '2021-05-03'
+- council_reference: WYP7085/13.06
+  address: 428 Old Geelong Road HOPPERS CROSSING VIC 3029
+  description: Section 72 Amendment to include electronic signs as part of the permit
+    preamble and amendments to the plans including news electronic signs and minor
+    changes to the drive thru.
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP7085%2F13.06&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: WYP8599/15.28
+  address: 1283 Dohertys Road TARNEIT VIC 3029
+  description: Section 72 Amendment - Changes to Condition 99 - Staged subdivision
+    of the land, creation of a restriction and creation of an access to a road zone
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP8599%2F15.28&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: WYP9511/16.13
+  address: 1081 Leakes Road TARNEIT VIC 3029
+  description: "Section 72 amendment involving minor changes to the building appearance
+    to meet relevant building requirements, revisions of the proposed signage strategy
+    to better reflect the typical signage provided at Aldi\r\nSupermarkets, provision
+    of information on the Landscape Plan as to the treatment of the future pad Site
+    (prior to the Pad Site being developed); and deletion of the additional door into
+    Aldi (from Hummingbird Way)."
+  info_url: https://eproperty.wyndham.vic.gov.au/ePropertyPROD/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WYP9511%2F16.13&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
