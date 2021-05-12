@@ -1,132 +1,152 @@
 ---
-- council_reference: CC2019/0051
-  address: 46 Bogan Street PARKES NSW 2870
-  description: Addition to dwelling and demolition of existing shed
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019%2F0051&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+- council_reference: CC2021/0035
+  address: 28 Phillip Street PARKES NSW 2870
+  description: Outbuilding - Shed
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0035&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: CC2019/0052
-  address: 25 Dalton Street PARKES NSW 2870
-  description: Alterations to existing building
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019%2F0052&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: CC2019/0053
+  date_received: '2021-04-21'
+- council_reference: CC2021/0046
   address: 339 Brolgan Road PARKES NSW 2870
-  description: Stage 1 - Piers & Structural Steel (Class 5, 7b and 8 Animal Food Manufacturing
-    Plant)
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2019%2F0053&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  description: Main Works Construction Certificate including all services and civil
+    works
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0046&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-18'
-- council_reference: CDC2019/0019
-  address: 17 Golden Bar Drive PARKES NSW 2870
-  description: Swimming pool and child resistant barrier
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2019%2F0019&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-04-25'
+- council_reference: CC2021/0049
+  address: 127C Goldrush Road PARKES NSW 2870
+  description: Outbuilding - Shed
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0049&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: DA2019/0066
-  address: 46 Bogan Street PARKES NSW 2870
-  description: Demolition of existing shed, addition to dwelling & erection of new
-    outbuilding - shed
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019%2F0066&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-05-04'
+- council_reference: CC2021/0056
+  address: 53 Thomas Street PARKES NSW 2870
+  description: New Residential Dwelling
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0056&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA2019/0067
-  address: Airport Henry Parkes Way PARKES NSW 2870
-  description: Temporary Airshow Event and Camping Ground
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019%2F0067&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-05-11'
+- council_reference: CDC2021/0006
+  address: 10 Cobden Place PARKES NSW 2870
+  description: Enclose awning to have a sunroom
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0006&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: DA2019/0068
-  address: 25 Dalton Street PARKES NSW 2870
-  description: Change of use of existing building (indoor recreation facility) to
-    a place of public worship as well as alterations and additions to the existing
-    premises
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019%2F0068&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-04-25'
+- council_reference: CDC2021/0007
+  address: 22 Acacia Circuit PARKES NSW 2870
+  description: Construction of a single storey dwelling
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0007&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: DA2019/0069
-  address: Lagoona 112 Boundary Road PEAK HILL NSW 2869
-  description: Dwelling - house
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019%2F0069&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-05-03'
+- council_reference: DA2021/0052
+  address: 1 Rosewood Avenue PARKES NSW 2870
+  description: Outbuilding (Shed)
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0052&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: DA2019/0070
-  address: Norong 997 Crowley Road TULLAMORE NSW 2874
-  description: Extractive Industry
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019%2F0070&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-04-19'
+- council_reference: DA2021/0053
+  address: 12 Lawson Street PARKES NSW 2870
+  description: Home Occupation (Food Catering Business)
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0053&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA2019/0071
-  address: 1-9 Clarke Street PARKES NSW 2870
-  description: Industrial Subdivision (10 lots)
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019%2F0071&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: DA2019/0072
-  address: 9-11 Cheney Road PARKES NSW 2870
+  date_received: '2021-04-19'
+- council_reference: DA2021/0054
+  address: Springfield 9652 Renshaw McGirr Way PARKES NSW 2870
   description: Subdivision (2 Lots)
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019%2F0072&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0054&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-22'
-- council_reference: DA2019/0073
-  address: 3 Noonan Street PARKES NSW 2870
-  description: Outbuillding - Shed
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019%2F0073&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-04-20'
+- council_reference: DA2021/0055
+  address: 41 Rosewood Avenue PARKES NSW 2870
+  description: Alterations & Additions to Dwelling - Patio
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0055&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-25'
-- council_reference: IOSM2019/0003
-  address: Cora Lynn 3122 Peak Hill - Tullamore Road PEAK HILL NSW 2869
-  description: Install on-site waste (sewerage) management system
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=IOSM2019%2F0003&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-04-22'
+- council_reference: DA2021/0056
+  address: 9 Close Street PARKES NSW 2870
+  description: Subdivision (2 Lots)
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0056&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: IOSM2019/0004
-  address: 26 Military Road PARKES NSW 2870
-  description: Carry out water sewer and stormwater drainage work
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=IOSM2019%2F0004&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-04-26'
+- council_reference: DA2021/0057
+  address: Price Lane PARKES NSW 2870
+  description: Dwelling-House
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0057&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: IOSM2019/0005
-  address: 339 Brolgan Road PARKES NSW 2870
-  description: Install onsite waste (sewerage) management system
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=IOSM2019%2F0005&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-04-28'
+- council_reference: DA2021/0058
+  address: 7088 Eugowra Road PARKES NSW 2870
+  description: Additions to dwelling-house (Patio)
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0058&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-18'
-- council_reference: LG2019/0029
-  address: Airport Henry Parkes Way PARKES NSW 2870
-  description: Temporary Camping Ground & Install or Operate Amusement Devices for
-    AirVenture Australia (Temporary Event) at the Parkes Regional Airport
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019%2F0029&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-04-29'
+- council_reference: DA2021/0059
+  address: 99 Boori Street PEAK HILL NSW 2869
+  description: Manufactured Home
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0059&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: LG2019/0030
-  address: 75 Molong Road PARKES NSW 2870
-  description: Carry out stormwater drainage work
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019%2F0030&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-04-29'
+- council_reference: DA2021/0060
+  address: 23 Woodward Street PARKES NSW 2870
+  description: Outbuilding - Shed
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0060&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: LG2019/0031
-  address: 37 Blaxland Street PARKES NSW 2870
-  description: Carry out water sewer & stormwater drainage work
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019%2F0031&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-04-30'
+- council_reference: DA2021/0061
+  address: 127C Goldrush Road PARKES NSW 2870
+  description: Outbuilding - Shed
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0061&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: LG2019/0032
-  address: 26 Military Road PARKES NSW 2870
-  description: Carry out water sewer and stormwater drainage work
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019%2F0032&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-05-04'
+- council_reference: DA2021/0062
+  address: 26 Jones Street PARKES NSW 2870
+  description: Outbuilding (Shed)
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0062&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: LG2019/0033
-  address: 39 Danilenko Street PARKES NSW 2870
-  description: Carry out water sewer & stormwater drainage work
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019%2F0033&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_received: '2021-05-04'
+- council_reference: DA2021/0063
+  address: 20 Weston Street PARKES NSW 2870
+  description: Outbuilding - Studio
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0063&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: LG2019/0034
-  address: 339 Brolgan Road PARKES NSW 2870
+  date_received: '2021-05-06'
+- council_reference: DA2021/0064
+  address: 80 Corcoran Road PARKES NSW 2870
+  description: Outbuilding - Shed
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0064&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/0065
+  address: 5 Forbes Street TRUNDLE NSW 2875
+  description: Outbuilding - Shed
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0065&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/0066
+  address: 35 Alluvial Street PARKES NSW 2870
+  description: Outbuilding - Shed
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0066&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA2021/0067
+  address: Rosebank Lane PARKES NSW 2870
+  description: Dwelling-House
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0067&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA2021/0068
+  address: Emerton Road PARKES NSW 2870
+  description: Dwelling-House
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F0068&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: LG2021/0030
+  address: 28 Elizabeth Street PARKES NSW 2870
   description: Carry out water, sewer & stormwater drainage work
-  info_url: https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2019%2F0034&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2021%2F0030&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-18'
+  date_received: '2021-04-29'
+- council_reference: LG2021/0032
+  address: Boori Street PEAK HILL NSW 2869
+  description: Carry out water, sewer & stormwater drainage work
+  info_url: https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LG2021%2F0032&f=%24P1.ETR.APPDET.VIW&r=PSC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'

@@ -3,7 +3,7 @@
 module TechnologyOneScraper
   AUTHORITIES = {
     parkes: {
-      url: "https://my.parkes.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      url: "https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28",
       webguest: "PSC.P1.WEBGUEST"
     },
