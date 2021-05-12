@@ -2,6 +2,10 @@
 
 module TechnologyOneScraper
   AUTHORITIES = {
+    mid_coast: {
+      url: "https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28"
+    },
     parkes: {
       url: "https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28",

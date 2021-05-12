@@ -1,0 +1,2442 @@
+---
+- council_reference: 1/2020/GDA
+  address: 222 Church Street GLOUCESTER NSW 2422
+  description: Dual Occupancy x 2
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=1%2F2020%2FGDA&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: 102/2020CC
+  address: 19 Marine Drive WALLABI POINT NSW 2430
+  description: 2 Storey Dwelling & Swimming Pool - PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=102%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: 147/2021CC
+  address: 260 Tallwood Drive TALLWOODS VILLAGE NSW 2430
+  description: PCA - Single Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=147%2F2021CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: 168/2020CC
+  address: 36 Eastern Valley Way TALLWOODS VILLAGE NSW 2430
+  description: In Ground Swimming Pool - PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=168%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: 189/2021CC
+  address: UNIT 2/9A Mackay Street TAREE NSW 2430
+  description: Dwelling Additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=189%2F2021CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: 205/2021CC
+  address: 17 Mountview Avenue WINGHAM NSW 2429
+  description: Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=205%2F2021CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: 235/2021CC
+  address: 1004 Nowendoc Road MOUNT GEORGE NSW 2424
+  description: PCA - Single Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=235%2F2021CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: 249/2020CC
+  address: 788 Manning Point Road OXLEY ISLAND NSW 2430
+  description: Machinery Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=249%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: 274/2020CC
+  address: 97 Talawong Drive TAREE NSW 2430
+  description: Detached Dual Occupancy - PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=274%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: 282/2020CC
+  address: 24 Begonia Place RAINBOW FLAT NSW 2430
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=282%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: 290/2019CC
+  address: 69 Beauly Road TINONEE NSW 2430
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=290%2F2019CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: 316/2016CC/A
+  address: 17 Old Lansdowne Road CUNDLETOWN NSW 2430
+  description: Dwelling & Garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=316%2F2016CC%2FA&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: 316/2020CC
+  address: 11 Greenview Drive BLACK HEAD NSW 2430
+  description: PCA -Single Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=316%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: 321/2019CC
+  address: 67 Boambee Street HARRINGTON NSW 2427
+  description: PCA - Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=321%2F2019CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: 322/2021/DA
+  address: 19 Lazzarini Drive HARRINGTON NSW 2427
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=322%2F2021%2FDA&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-15'
+- council_reference: 325/2021/DA
+  address: 6 The Saddle TALLWOODS VILLAGE NSW 2430
+  description: Retaining Wall
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=325%2F2021%2FDA&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: 356/2020CC
+  address: 93 Boambee Street HARRINGTON NSW 2427
+  description: PCA - Single Story Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=356%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: 362/2020CC
+  address: 99 Talawong Drive TAREE NSW 2430
+  description: PCA - Single Story Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=362%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: 380/2019CC
+  address: 26 Muldoon Street TAREE NSW 2430
+  description: Commercial additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=380%2F2019CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: 391/2020CC
+  address: 10 Rifleman Place HARRINGTON NSW 2427
+  description: PCA - Single Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=391%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: 392/2020CC
+  address: 8 Rifleman Place HARRINGTON NSW 2427
+  description: PCA - Single Story Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=392%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: 394/2020CC
+  address: 75 Muldoon Street TAREE NSW 2430
+  description: Alterations to existing building and addition of a ancillary cafe
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=394%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: 49/2021CC
+  address: 90 Cornwall Street TAREE NSW 2430
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=49%2F2021CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: 6/2008/G
+  address: Scarborough Circuit RED HEAD NSW 2430
+  description: Subdivision - Bombora - DA-208-9-2004
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=6%2F2008%2FG&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: 7/2020CC
+  address: 502 Tinonee Road MONDROOK NSW 2430
+  description: Detached Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=7%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: 75/2020CC
+  address: 16 Laguna Court BLACK HEAD NSW 2430
+  description: Shed - PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=75%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: 80/2020CC
+  address: 7 Koorainghat Close RAINBOW FLAT NSW 2430
+  description: Garage & Carport - PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=80%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: 82/2019CC
+  address: 37 River Street CUNDLETOWN NSW 2430
+  description: Dwelling Additions & Granny Flat (Staged) - PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=82%2F2019CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: 91/2020CC
+  address: 86A River Street CUNDLETOWN NSW 2430
+  description: Walkway and Fixed Pontoon
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=91%2F2020CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: 93/2021CC
+  address: 77 Old Bar Road OLD BAR NSW 2430
+  description: Secondary Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=93%2F2021CC&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CC2021/0161
+  address: 535 Manchester Road BINDERA NSW 2422
+  description: Tourist Facility - Amenities Building
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0161&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: CC2021/0185
+  address: 73 Barrington Street GLOUCESTER NSW 2422
+  description: Alterations and Additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0185&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: CC2021/0215
+  address: 5 Adelaide Close WINGHAM NSW 2429
+  description: Patio & enclosure
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0215&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: CC2021/0295
+  address: 130-158 Kularoo Drive FORSTER NSW 2428
+  description: "Construction Certificates - Public Engineering Works Permit\r\nLOT
+    1 & 2"
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0295&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC2021/0297
+  address: 87 Boambee Street HARRINGTON NSW 2427
+  description: Patio Cover - Construction Certificates - Construction Certificate
+    Private Certifier Issue
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0297&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: CC2021/0299
+  address: 18 Keith Crescent SMITHS LAKE NSW 2428
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - A single dwelling and Attached Garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0299&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: CC2021/0300
+  address: 3 Divide Street FORSTER NSW 2428
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0300&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: CC2021/0301
+  address: 33 Limestone Crescent FORSTER NSW 2428
+  description: Residential Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0301&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: CC2021/0302
+  address: 15 Farnell Street NABIAC NSW 2312
+  description: Development Application - Residential Alterations and Additions - Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0302&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: CC2021/0303
+  address: 672 Careys Road HILLVILLE NSW 2430
+  description: Construction Certificate - Residential Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0303&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: CC2021/0304
+  address: 13 Koorainghat Close RAINBOW FLAT NSW 2430
+  description: Single Storey Dwelling (replacement due to bushfire)
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0304&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: CC2021/0305
+  address: Angus Drive FAILFORD NSW 2430
+  description: Development Application - Residential Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0305&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: CC2021/0306
+  address: 7 Nicoll Street TAREE NSW 2430
+  description: Demolition of existing structure, construction of two (2) dwellings
+    to createDetached Dual Occupancy
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0306&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: CC2021/0307
+  address: 1 Moppy Close GLOUCESTER NSW 2422
+  description: Construction Certificates - Subdivision Works Certificate
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0307&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: CC2021/0308
+  address: 27 Cove Boulevard NORTH ARM COVE NSW 2324
+  description: Carport to rear of existing residence
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0308&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: CC2021/0309
+  address: 209 Manning Point Road BOHNOCK NSW 2430
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - In ground Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0309&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: CC2021/0310
+  address: 137 Central Lansdowne Road LANSDOWNE NSW 2430
+  description: Development Application - Residential Alterations and Additions - Dwelling
+    Extensions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0310&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: CC2021/0311
+  address: 14 Lake Street FORSTER NSW 2428
+  description: Private manager residence - Sunseeker Holiday Park
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0311&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CC2021/0312
+  address: 4 Grange Crescent FORSTER NSW 2428
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue -Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0312&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: CC2021/0313
+  address: 46 Wombo Street PINDIMAR NSW 2324
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0313&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: CC2021/0314
+  address: 18 The Cedars Dr WINGHAM NSW 2429
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - Two Storey Dwelling and Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0314&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: CC2021/0315
+  address: 2 Spotted Gum Drive OLD BAR NSW 2430
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - Single Storey Dwelling, Pool and Secondary Dwelling (Staged) Stage 1 -
+    Single st
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0315&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: CC2021/0316
+  address: 20 Pacific Parade TUNCURRY NSW 2428
+  description: Development Application - Change of Use from Existing Dwelling to Secondary
+    Dwelling and a New Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0316&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CC2021/0317
+  address: Hereford Place FAILFORD NSW 2430
+  description: Development Application - Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0317&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CC2021/0318
+  address: 51 Moorooba Road COOMBA PARK NSW 2428
+  description: Retaining Wall and Associated Earthworks
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0318&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CC2021/0319
+  address: 6 Howard Street WALLABI POINT NSW 2430
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - A 2 storey dwelling and pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0319&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CC2021/0320
+  address: 15 Lovedale Way FORSTER NSW 2428
+  description: Construction Certificate - Residential Single Dwelling and pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0320&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CC2021/0321
+  address: 117 Booner Street HAWKS NEST NSW 2324
+  description: Alterations & additions to Tea Gardens / Hawks Nest Surf Club
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0321&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CC2021/0322
+  address: 124 Waterman Street OLD BAR NSW 2430
+  description: Patio
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0322&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: CC2021/0323
+  address: 50 Head Street FORSTER NSW 2428
+  description: Construction Certificates - Modified Stage 3 Construction Certificate
+    Private Certifier Issue - Multi-unit residential building
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0323&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: CC2021/0324
+  address: 1 Belford Street OLD BAR NSW 2430
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - Alterations to clubhouse
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: CC2021/0325
+  address: 19 Fantail Rise DIAMOND BEACH NSW 2430
+  description: Development Application - Residential Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0325&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: CC2021/0326
+  address: 115 Beach Street HARRINGTON NSW 2427
+  description: Alterations & Additions to Existing Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0326&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: CC2021/0327
+  address: 422 Minimbah West Branch Road MINIMBAH NSW 2312
+  description: Single Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0327&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: CC2021/0328
+  address: 2 Kookie Avenue CHARLOTTE BAY NSW 2428
+  description: Construction Certificate Private Certifier - Change of use from cafe
+    to dwelling and new garage/shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0328&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: CC2021/0329
+  address: 21 Stokes Circuit TAREE NSW 2430
+  description: Garage & Carport
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0329&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CC2021/0330
+  address: 28 Old Punt Road GLENTHORNE NSW 2430
+  description: Dwelling Additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0330&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CC2021/0331
+  address: 6 Tirriki Street OLD BAR NSW 2430
+  description: Residential Alterations and Additions - Swimming Pool - in-ground
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0331&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CC2021/0332
+  address: 34 Shores Crescent DIAMOND BEACH NSW 2430
+  description: Residential Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0332&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CC2021/0333
+  address: 363 Diamond Beach Road HALLIDAYS POINT NSW 2430
+  description: The provision of adequate clothes washing facilities comprising of
+    at east one washtub and space in the same room for a washing machine for proposed
+    strata Lots 2-11
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0333&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CC2021/0334
+  address: 4 Spotted Gum Drive OLD BAR NSW 2430
+  description: Single Storey Dwelling and modification of building envelope
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0334&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CC2021/0336
+  address: 346 The Lakes Way TUNCURRY NSW 2428
+  description: Construction of Golf Museum & Golf Facility
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0336&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CC2021/0337
+  address: Angus Drive FAILFORD NSW 2430
+  description: Development Application - Single storey dwelling & shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0337&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CC2021/0338
+  address: 140 Cove Boulevard NORTH ARM COVE NSW 2324
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0338&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: CC2021/0339
+  address: 9A Pacific View Drive HALLIDAYS POINT NSW 2430
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - Two storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0339&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CC2021/0340
+  address: 9 Philip Street GLOUCESTER NSW 2422
+  description: Covered deck
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0340&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: CC2021/0342
+  address: 100 Angus Drive FAILFORD NSW 2430
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - A structure being a fence/mast/swimming pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0342&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: CC2021/0343
+  address: Brimbin Road BRIMBIN NSW 2430
+  description: Construction Certificates - Subdivision Works Certificate - Stage 2
+    - 226/2017/DA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0343&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC2021/0344
+  address: 19 Lazzarini Drive HARRINGTON NSW 2427
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0344&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC2021/0345
+  address: 18 Eastern Valley Way TALLWOODS VILLAGE NSW 2430
+  description: Single Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0345&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC2021/0346
+  address: 23E Woodlands Drive HALLIDAYS POINT NSW 2430
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - A single dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0346&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC2021/0347
+  address: 7 Laurie Street GLOUCESTER NSW 2422
+  description: Pergola
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0347&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: CC2021/0348
+  address: 2 King Valley Drive TAREE NSW 2430
+  description: Residential Alterations and Additions - Machinery shed with attached
+    cabana
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0348&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CC2021/0349
+  address: 6 Tirriki Street OLD BAR NSW 2430
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - A single dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0349&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: CC2021/0351
+  address: 434 Barrington East Road BARRINGTON NSW 2422
+  description: Tourist development - Cabin 6
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0351&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: CC2021/0352
+  address: 139 Sawpit Lane BUCCA WAUKA NSW 2429
+  description: Development Application - Residential Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0352&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: CC2021/0353
+  address: 6 The Saddle TALLWOODS VILLAGE NSW 2430
+  description: Retaining Wall
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0353&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: CC2021/0354
+  address: 10 May Dries Close KUNDLE KUNDLE NSW 2430
+  description: Development Application - Residential Alterations and Additions - Carport/Awning
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0354&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: CC2021/0355
+  address: 494 Mud Hut Road COBARK NSW 2422
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0355&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CC2021/0356
+  address: 33 Seaview Street FORSTER NSW 2428
+  description: Alterations and additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0356&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: CC2021/0357
+  address: 4 Pearl Place DIAMOND BEACH NSW 2430
+  description: Two storey dwelling and pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0357&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CC2021/0358
+  address: 19 Diamantina Circuit HARRINGTON NSW 2427
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - A single dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0358&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: CC2021/0359
+  address: 31 Illusions Court TALLWOODS VILLAGE NSW 2430
+  description: Construction Certificates - Construction Certificate Private Certifier
+    Issue - A single dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0359&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: CC2021/0360
+  address: 22 Phillip Road SMITHS LAKE NSW 2428
+  description: Garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0360&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CC2021/0361
+  address: 542 Barrington East Road BARRINGTON NSW 2422
+  description: Private Certifier - Residential Alterations and Additions - Swimming
+    Pool and timber decking
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0361&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CC2021/0362
+  address: 29 Angus Drive FAILFORD NSW 2430
+  description: Private Certifier CC - Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0362&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CC2021/0363
+  address: 9 Fuchsia Drive TAREE NSW 2430
+  description: Private Certifier - Construction Certificate - Multi Residential -
+    10 Units
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0363&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CC2021/0364
+  address: 11 Wirrana Circuit FORSTER NSW 2428
+  description: Private Certifier Construction Certificate - Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0364&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CC2021/0365
+  address: 31 Panorama Crescent FORSTER NSW 2428
+  description: Private Certifier - Residential Alterations and Additions - Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0365&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CC2021/0366
+  address: 4 Eagle Close OLD BAR NSW 2430
+  description: Private Certifier - Construction Certificate - Detached Dual Occupancy
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0366&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CC2021/0367
+  address: 5 Little Tern Street OLD BAR NSW 2430
+  description: Private Certifier - Construction Certificates - A single dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0367&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CC2021/0368
+  address: 44 Amanda Crescent FORSTER NSW 2428
+  description: Private Certifier - Construction Certificate - In-ground Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0368&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CC2021/0369
+  address: 12 Mountview Avenue WINGHAM NSW 2429
+  description: Private Certifier - Construction Certificate - Two storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0369&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CC2021/0370
+  address: Hereford Place FAILFORD NSW 2430
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2021%2F0370&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CCCALT352/2020
+  address: Marine Drive TEA GARDENS NSW 2324
+  description: Wharf upgrade
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCCALT352%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CCCALT353/2020
+  address: Marine Drive TEA GARDENS NSW 2324
+  description: Wharf upgrade
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCCALT353%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CCOB411/2017
+  address: 49 Eastslope Way NORTH ARM COVE NSW 2324
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCOB411%2F2017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CCRALT69/2019
+  address: 7 The Boulevarde HAWKS NEST NSW 2324
+  description: Alterations to ex 2 story brick veneer residence, including removal
+    of existing
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCRALT69%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: CDC2021/0107
+  address: 9 Chapmans Road TUNCURRY NSW 2428
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Residential Alterations and Additions - Storage Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0107&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: CDC2021/0108
+  address: 14 Harold Street BULAHDELAH NSW 2423
+  description: Residential Alterations and Additions - Replace existing roof
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0108&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: CDC2021/0109
+  address: 5 Farmview Drive CUNDLETOWN NSW 2430
+  description: Private Issued Complying Development Certificate - Residential Alterations
+    and Additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0109&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: CDC2021/0110
+  address: 15 Gregson Street GLOUCESTER NSW 2422
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Residential Alterations and Additions - Carport
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0110&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: CDC2021/0111
+  address: 18 Kamarooka Street COOMBA PARK NSW 2428
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Residential Alterations and Additions - Garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0111&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: CDC2021/0112
+  address: 84 Macintosh Street FORSTER NSW 2428
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Strata Subdivision Only
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0112&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: CDC2021/0113
+  address: 24 Coomba Road CHARLOTTE BAY NSW 2428
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Residential Alterations and Additions - Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0113&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: CDC2021/0114
+  address: 77 Relfs Road GLOUCESTER NSW 2422
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - In Ground Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0114&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: CDC2021/0115
+  address: 151 Victoria Street TAREE NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Internal alterations to existing retail premises (fit out to retail
+    bank)
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0115&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: CDC2021/0116
+  address: 2 Strand Street FORSTER NSW 2428
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Alterations to existing cafe area. Construct new kitchen.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0116&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: CDC2021/0117
+  address: 56 Glider Avenue DARAWANK NSW 2428
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0117&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: CDC2021/0118
+  address: 17 Wangaree Street COOMBA PARK NSW 2428
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0118&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: CDC2021/0119
+  address: 8 Bangalow Place FORSTER NSW 2428
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - In Ground Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0119&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: CDC2021/0120
+  address: 12 Greenview Drive BLACK HEAD NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - In Ground Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0120&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: CDC2021/0121
+  address: 2 Ironbark Close TAREE NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - In Ground Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0121&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: CDC2021/0122
+  address: 18 Little Tern Street OLD BAR NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Residential Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0122&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CDC2021/0123
+  address: 20 Little Tern Street OLD BAR NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Residential Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0123&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CDC2021/0124
+  address: 10 Molong Road OLD BAR NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Residential Alterations and Additions - Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0124&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CDC2021/0125
+  address: 5 Myalup Court RED HEAD NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - In Ground Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0125&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CDC2021/0126
+  address: 8 Failford Road DARAWANK NSW 2428
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Commercial Kitchen Fit-Out
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0126&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: CDC2021/0127
+  address: 60 Manning Street TAREE NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Tenancy Fitout - Shop 29
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0127&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: CDC2021/0128
+  address: 30 Mirreen Street HAWKS NEST NSW 2324
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Demolition of Existing Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0128&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: CDC2021/0129
+  address: 13 Potoroo Drive TAREE NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - In ground swimming pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0129&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: CDC2021/0130
+  address: 388 Wingham Road TAREE NSW 2430
+  description: In Ground Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0130&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CDC2021/0131
+  address: 109 Victoria Street TAREE NSW 2430
+  description: Replace existing shopfront
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0131&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: CDC2021/0132
+  address: 52 Shores Crescent DIAMOND BEACH NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Construction of dwelling with attached garage and retaining wall
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0132&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CDC2021/0133
+  address: 10 Andrew Close TAREE NSW 2430
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0133&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CDC2021/0134
+  address: 39 Lazzarini Drive HARRINGTON NSW 2427
+  description: Private Issued Complying Development Certificate - Residential Alterations
+    and Additions - Patio Cover
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0134&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CDC2021/0135
+  address: 29 Limestone Crescent FORSTER NSW 2428
+  description: Private Issued Complying Development Certificate - Residential Single
+    Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0135&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CDC2021/0136
+  address: 29 Binda Street HAWKS NEST NSW 2324
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - Residential Alterations and Additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0136&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: CDC2021/0137
+  address: 3 Stephen Street FORSTER NSW 2428
+  description: Complying Development Certificates - Private Issued Complying Development
+    Certificate - In Ground Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0137&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CDC2021/0138
+  address: 670 Bulga Road WINGHAM NSW 2429
+  description: Private Certifier CDC - Residential Alterations and Additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0138&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: CDC2021/0139
+  address: 54 Warwiba Road OLD BAR NSW 2430
+  description: Private Certifier - Complying Development Certificates - Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0139&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CDC2021/0140
+  address: 7 Grandis Drive TUNCURRY NSW 2428
+  description: Private Certifier - Complying Development Certificate - Inground Swimming
+    Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0140&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: CDC2021/0141
+  address: 1 Cape Hawke Drive FORSTER NSW 2428
+  description: Private Certifier - Complying Development Certificate - Unit 185 -
+    Internal alterations - non-structural
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC2021%2F0141&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA2021/1335
+  address: 4 Ferris Place NABIAC NSW 2312
+  description: Storage sheds (x20) & associated gravel hard stand area
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1335&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: DA2021/1337
+  address: 5 Medowie Road OLD BAR NSW 2430
+  description: Viewing deck over existing patio
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1337&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-15'
+- council_reference: DA2021/1343
+  address: 11 Chapmans Road TUNCURRY NSW 2428
+  description: Alterations & additions to existing church facility building comprising
+    of a new child care centre & associated car parking
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1343&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: DA2021/1345
+  address: 54 Kentia Drive FORSTER NSW 2428
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1345&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: DA2021/1346
+  address: 202 Bundook Road TUGRABAKH NSW 2422
+  description: Pool house
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1346&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-15'
+- council_reference: DA2021/1347
+  address: 6 Carinya Close HAWKS NEST NSW 2324
+  description: Alterations & additions to existing dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1347&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-15'
+- council_reference: DA2021/1348
+  address: 20 Pindari Road FORSTER NSW 2428
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1348&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: DA2021/1349
+  address: 479 Harrington Road COOPERNOOK NSW 2426
+  description: Commercial alterations and additions - add dining area to food and
+    drink premises, amenities and loading dock
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1349&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: DA2021/1350
+  address: 3 Greenfield Place FORSTER NSW 2428
+  description: Patio Cover
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1350&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: DA2021/1351
+  address: 18 Seaview Street DIAMOND BEACH NSW 2430
+  description: Convert existing carport into garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1351&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: DA2021/1352
+  address: 29A River Street CUNDLETOWN NSW 2430
+  description: Alterations & additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1352&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: DA2021/1353
+  address: 2 Hopkins Street TINONEE NSW 2430
+  description: Alterations & additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1353&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: DA2021/1354
+  address: 1 Blake Street CARRINGTON NSW 2324
+  description: Manufactured dwelling and shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1354&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: DA2021/1355
+  address: 13 Queen Street WINGHAM NSW 2429
+  description: Demolition of existing garage & sheds (x2) and erection of new garage
+    with loft
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1355&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: DA2021/1356
+  address: 30 Briton Court Road STROUD NSW 2425
+  description: Secondary dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1356&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: DA2021/1357
+  address: 813 Central Lansdowne Road UPPER LANSDOWNE NSW 2430
+  description: Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1357&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: DA2021/1358
+  address: 18 Witt Street TEA GARDENS NSW 2324
+  description: One lot into two lot Subdivision
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1358&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: DA2021/1359
+  address: 101 Edinburgh Drive TAREE NSW 2430
+  description: Detached Garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1359&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: DA2021/1360
+  address: 150 Red Head Road RED HEAD NSW 2430
+  description: Remove two supporting poles from verandah. Install new beam and upgrade
+    remaining poles
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1360&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: DA2021/1361
+  address: 173 Forest Glen Road LIMEBURNERS CREEK NSW 2324
+  description: Two Lot Boundary Adjustment
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1361&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: DA2021/1362
+  address: 155 Beach Street HARRINGTON NSW 2427
+  description: Single storey dwelling and detached shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1362&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: DA2021/1363
+  address: 355 Glenthorne Road GLENTHORNE NSW 2430
+  description: Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1363&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: DA2021/1364
+  address: 32 King Valley Drive TAREE NSW 2430
+  description: Single storey dwelling, pool and shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1364&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: DA2021/1365
+  address: 9 Seascape Drive RED HEAD NSW 2430
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1365&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: DA2021/1366
+  address: 195 Beach Street HARRINGTON NSW 2427
+  description: Additions to front & back verandahs
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1366&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: DA2021/1367
+  address: 1 Royal Troon Avenue TALLWOODS VILLAGE NSW 2430
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1367&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: DA2021/1368
+  address: 6 The Sands Way DIAMOND BEACH NSW 2430
+  description: Two storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1368&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: DA2021/1369
+  address: 23D Woodlands Drive HALLIDAYS POINT NSW 2430
+  description: Single storey dwelling and shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1369&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: DA2021/1370
+  address: 7 Saltwater Crescent DIAMOND BEACH NSW 2430
+  description: Single Storey Dwelling with Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1370&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: DA2021/1371
+  address: 50 Macwood Road SMITHS LAKE NSW 2428
+  description: Alterations and additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1371&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: DA2021/1372
+  address: 230 Newmans Road WOOTTON NSW 2423
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1372&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: DA2021/1373
+  address: 27 Cove Boulevard NORTH ARM COVE NSW 2324
+  description: Carport to rear of existing residence
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1373&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: DA2021/1374
+  address: Waitui Road HANNAM VALE NSW 2443
+  description: Single storey dwelling and consolidation of lots (3)
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1374&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: DA2021/1375
+  address: 4 Attunga Place COOMBA PARK NSW 2428
+  description: Dwelling alterations and additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1375&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: DA2021/1376
+  address: 1062 Upper Monkerai Road MONKERAI NSW 2415
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1376&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: DA2021/1377
+  address: 49 Oxley Street HARRINGTON NSW 2427
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1377&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: DA2021/1378
+  address: 31 Limestone Crescent FORSTER NSW 2428
+  description: Single storey dwelling with attached garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1378&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: DA2021/1379
+  address: 2 Strand Street FORSTER NSW 2428
+  description: Additions to the existing Forster Bowling Club
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1379&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: DA2021/1380
+  address: 46 Wombo Street PINDIMAR NSW 2324
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1380&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: DA2021/1381
+  address: 1A Recreation Lane TUNCURRY NSW 2428
+  description: Increase existing dividing fence between 1A Recreation Lane Tuncurry
+    and 10 Taree Street, Tuncurry to 2.1 metres (300mm increase)
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1381&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: DA2021/1382
+  address: 10 Barrington Crescent TALLWOODS VILLAGE NSW 2430
+  description: Two Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1382&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: DA2021/1383
+  address: 21 Helmich Close WINGHAM NSW 2429
+  description: Alterations & additions to dwelling under existing roofline
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1383&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: DA2021/1384
+  address: 11 Little Tern Street OLD BAR NSW 2430
+  description: Single Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1384&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: DA2021/1385
+  address: 11 Coast Avenue BOOMERANG BEACH NSW 2428
+  description: First floor deck and driveway.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1385&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: DA2021/1386
+  address: 6590 The Bucketts Way TINONEE NSW 2430
+  description: New rear deck and roof
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1386&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: DA2021/1387
+  address: 161 Cape Hawke Drive FORSTER NSW 2428
+  description: New shed & garage addition
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1387&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: DA2021/1388
+  address: 47 Kamarooka Street COOMBA PARK NSW 2428
+  description: Use of existing building as a shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1388&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: DA2021/1389
+  address: 17 Jubilee Parade DIAMOND BEACH NSW 2430
+  description: Swimming pool and hard stand surrounds
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1389&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: DA2021/1390
+  address: 15 Maslin Close RED HEAD NSW 2430
+  description: Two Storey Dwelling with Attached Garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1390&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: DA2021/1391
+  address: 98 Pretoria Parade HARRINGTON NSW 2427
+  description: Two storey dwelling with attached garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1391&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: DA2021/1392
+  address: 8 Rouse Street WINGHAM NSW 2429
+  description: Carport and Caravan Cover
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1392&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/1393
+  address: 9 Scarfe Street SMITHS LAKE NSW 2428
+  description: Alterations to 2 storey dwelling & install outdoor spa
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1393&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: DA2021/1394
+  address: 81 Craven Plateau Road BOWMAN NSW 2422
+  description: Farm produce processing shed and additions to existing dwelling.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1394&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: DA2021/1395
+  address: 124 Waterman Street OLD BAR NSW 2430
+  description: Patio
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1395&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: DA2021/1396
+  address: 21 Shores Crescent DIAMOND BEACH NSW 2430
+  description: Dual Occupancy and Strata Subdivision 1 into 2 Lots
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1396&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: DA2021/1397
+  address: 3 Pepper Tree Way TAREE NSW 2430
+  description: Single storey dwelling house, inground swimming pool and retaining
+    walls
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1397&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/1398
+  address: 74 Murray Road WINGHAM NSW 2429
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1398&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: DA2021/1399
+  address: 1337 Gloucester Road WINGHAM NSW 2429
+  description: Garage with Carport
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1399&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: DA2021/1400
+  address: 64 Rivendell Lane BOBIN NSW 2429
+  description: Single storey dwelling & detached garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1400&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: DA2021/1401
+  address: 7 Mitchell Street STROUD NSW 2425
+  description: Manufactured dwelling, above ground pool and shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1401&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: DA2021/1402
+  address: 9 Philip Street GLOUCESTER NSW 2422
+  description: Covered deck
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1402&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: DA2021/1403
+  address: 68 Coastal View Drive TALLWOODS VILLAGE NSW 2430
+  description: Dwelling & Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1403&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: DA2021/1404
+  address: 346 The Lakes Way TUNCURRY NSW 2428
+  description: Demolition of existing Tuncurry Golf Clubhouse and construction of
+    new service road and additional carparking
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1404&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: DA2021/1406
+  address: 10 Stroud Street ALLWORTH NSW 2425
+  description: Proposed relocation and reconstruction of dwelling. Existing granny
+    flat to become secondary dwelling to proposed relocatable dwelling.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1406&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: DA2021/1407
+  address: 24 Lovedale Way FORSTER NSW 2428
+  description: Single Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1407&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA2021/1408
+  address: 7 Smith Street TAREE NSW 2430
+  description: "Residential Alterations and Additions - Staged\r\nStage One - New
+    ensuite; Demolish wall to combine rooms for new living area; New windows/sliding
+    door & screen to living room; Repair and paint lattice and timbers to front verandah\r\nStage
+    Two - Awning and extension of terrace; Stairs to rear of garage; Renovate existing
+    laundry; Exterior painting\r\nStage Three - Renovate existing bathroom; New opening
+    to existing bathroom; New study desk\r\nStage Four- New Carport"
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1408&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA2021/1409
+  address: 97 The Boulevarde HAWKS NEST NSW 2324
+  description: Demolish existing dwelling & structure. Proposed new two storey dwelling.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1409&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/1410
+  address: 41 Parkside Close STROUD ROAD NSW 2415
+  description: Renovation to the back of existing house.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1410&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA2021/1411
+  address: 13 Frances Street TAREE NSW 2430
+  description: Demolition of existing cottage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1411&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: DA2021/1412
+  address: 16 Becker Road FORSTER NSW 2428
+  description: Alterations and additions to two storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1412&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/1413
+  address: 361 Diamond Beach Road DIAMOND BEACH NSW 2430
+  description: Community Title subdivision to create an additional 36 lots
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1413&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/1414
+  address: 105 Coastal View Drive TALLWOODS VILLAGE NSW 2430
+  description: Two storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1414&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/1415
+  address: 355 Diamond Beach Road DIAMOND BEACH NSW 2430
+  description: Development Application - Subdivision Only - No New Road
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1415&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/1416
+  address: 5 Michele Crescent FORSTER NSW 2428
+  description: New deck and sliding doors to replace windows
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1416&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/1417
+  address: 60 Newman Avenue BLUEYS BEACH NSW 2428
+  description: Secondary dwelling & carport
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1417&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/1418
+  address: 10 Heaney Street SMITHS LAKE NSW 2428
+  description: Demolition of existing garage and proposed secondary dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1418&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/1419
+  address: 25 Illusions Court TALLWOODS VILLAGE NSW 2430
+  description: Two storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1419&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: DA2021/1420
+  address: 7 Laurie Street GLOUCESTER NSW 2422
+  description: Patio
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1420&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA2021/1421
+  address: 3 Johnson Street GLOUCESTER NSW 2422
+  description: Industrial shed for vehicle storage and restoration works
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1421&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA2021/1422
+  address: Comboyne Road WINGHAM NSW 2429
+  description: Single storey dwelling and detached shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1422&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA2021/1423
+  address: 280 Norries Road BUNYAH NSW 2429
+  description: Alterations & additions to existing single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1423&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA2021/1424
+  address: 287 Red Gum Road OLD BAR NSW 2430
+  description: Barn style storage shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1424&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA2021/1425
+  address: 3 Heaney Street SMITHS LAKE NSW 2428
+  description: Removal of existing carport and proposed secondary dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1425&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/1427
+  address: 16 King Valley Drive TAREE NSW 2430
+  description: Studio
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1427&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: DA2021/1428
+  address: 1 Manning River Drive CUNDLETOWN NSW 2430
+  description: Development Application - Residential Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1428&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/1429
+  address: 11 Caparra Close TINONEE NSW 2430
+  description: Swimming Pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1429&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/1430
+  address: 44 King George Parade FORSTER NSW 2428
+  description: Patio Cover
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1430&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/1431
+  address: 4 Pearl Place DIAMOND BEACH NSW 2430
+  description: Two storey dwelling and pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1431&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA2021/1432
+  address: 97 Old Bar Road OLD BAR NSW 2430
+  description: Addition of a second storey to existing dwelling, replacement of verandah
+    roofing and addition of inground swimming pool to replace existing above ground
+    pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1432&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/1433
+  address: 1 Manning River Drive CUNDLETOWN NSW 2430
+  description: Awning addition to existing camp kitchen
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1433&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA2021/1434
+  address: 520 Black Camp Road NOOROO NSW 2415
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1434&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: DA2021/1435
+  address: Hereford Place FAILFORD NSW 2430
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1435&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA2021/1436
+  address: 12 Barrington Crescent TALLWOODS VILLAGE NSW 2430
+  description: Secondary dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1436&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: DA2021/1437
+  address: 251 Bundabah Road BUNDABAH NSW 2324
+  description: Dwelling Extensions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1437&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA2021/1438
+  address: 84 Red Head Road RED HEAD NSW 2430
+  description: Two storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1438&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA2021/1439
+  address: 22 Phillip Road SMITHS LAKE NSW 2428
+  description: Garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1439&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA2021/1440
+  address: 1 Manning River Drive CUNDLETOWN NSW 2430
+  description: Expansion of existing caravan park to include an additional six short
+    term sites, a new amenities building and new camp kitchen
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1440&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA2021/1441
+  address: 1 Lazzarini Drive HARRINGTON NSW 2427
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1441&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA2021/1442
+  address: 5 Ellen Place HARRINGTON NSW 2427
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1442&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: DA2021/1443
+  address: 82 Wallaby Joe (Private Access) Road WINGHAM NSW 2429
+  description: 3 into 4 lot subdivision
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1443&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA2021/1444
+  address: 31A Alexandra Street BULAHDELAH NSW 2423
+  description: Two bedroom dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1444&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA2021/1445
+  address: 84 Coastal View Drive TALLWOODS VILLAGE NSW 2430
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1445&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA2021/1446
+  address: 18 Timbertop Avenue FORSTER NSW 2428
+  description: Patio awning to existing building
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1446&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA2021/1447
+  address: 41 Leeward Circuit TEA GARDENS NSW 2324
+  description: Carport and patio cover
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1447&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA2021/1448
+  address: 98 High Street CUNDLETOWN NSW 2430
+  description: Dwelling Additions - Single Storey
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1448&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: DA2021/1449
+  address: 1 Dee Crescent TUNCURRY NSW 2428
+  description: New carwash bay and permissibility to operate the carwash 24 hours
+    per day
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F1449&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: MOD2021/0029
+  address: 9 Greenview Drive BLACK HEAD NSW 2430
+  description: Two Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0029&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: MOD2021/0037
+  address: 15 Alveena Court WALLABI POINT NSW 2430
+  description: Single Storey Dwelling and attached garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0037&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: MOD2021/0045
+  address: 7 Connell Street OLD BAR NSW 2430
+  description: Single Storey Dwelling & Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0045&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: MOD2021/0047
+  address: 109 Becker Road FORSTER NSW 2428
+  description: Modify construction techniquie for rear deck on Unit 1, modify rain
+    garden approval to remove grated drain from driveway, retaining wall on south
+    eastern boundary
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0047&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: MOD2021/0050
+  address: 536 Old Inn Road BULAHDELAH NSW 2423
+  description: Modify description on Notice of Determination to remove the wording
+    'construct earthen yabby ponds'
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0050&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: MOD2021/0057
+  address: 8 Karthena Crescent HAWKS NEST NSW 2324
+  description: Replace part of existing 1.2m high aluminium fence with a 1.85m brick
+    and aluminium fence to screen a pool pump and other equipment from the street
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0057&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: MOD2021/0060
+  address: 19B Red Gum Road BOOMERANG BEACH NSW 2428
+  description: Extend the primary deck and add a BBQ shelter
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0060&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: MOD2021/0071
+  address: 13-15 Britten Street GLOUCESTER NSW 2422
+  description: Include boundary adjustment to alleviate encroachment of existing shed
+    and relocation of shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0071&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: MOD2021/0072
+  address: 151 Forest Glen Road LIMEBURNERS CREEK NSW 2324
+  description: Modification to DA-236/2016 to remove condition 8 of the development
+    consent - (Damage Bond)
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0072&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: MOD2021/0073
+  address: 19B Red Gum Road BOOMERANG BEACH NSW 2428
+  description: Extend bedroom 1, move pool north of front deck and increased in size,
+    covered BBQ area added to east of family room and minor adjustments to the basement
+    floor plans
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: MOD2021/0074
+  address: 210 Diamond Beach Road DIAMOND BEACH NSW 2430
+  description: Modify Bushfire Safety Authority requirements to remove APZ along northern
+    boundary adjoining another residential subdivision
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0074&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: MOD2021/0075
+  address: 39 Hadley Street FORSTER NSW 2428
+  description: Change approved roof deck addition to a bedroom
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: MOD2021/0077
+  address: 71 Nabiac Street NABIAC NSW 2312
+  description: Minor changes to original approved dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0077&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: MOD2021/0078
+  address: 31 The Boulevarde HAWKS NEST NSW 2324
+  description: Minor changes to original approved dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0078&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: MOD2021/0079
+  address: 97 Kentia Drive FORSTER NSW 2428
+  description: Addition of pergola to eastern side of dwelling and Pycon signage at
+    the front of the property
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0079&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: MOD2021/0080
+  address: 58 Patsys Flat Road SMITHS LAKE NSW 2428
+  description: Modification to DA-130/2017 to lower proposed floor level of garage
+    by 925mm. Reconfigure entry to level 1 with an internal stair to level 2. Addition
+    of south-facing window into the stairs. Change in material.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0080&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: MOD2021/0081
+  address: Cape Hawke Drive FORSTER NSW 2428
+  description: Link Road and Bulk Earthworks - Amend conditions 10 & 11 of the Notice
+    of Determination in relation to the conditioned culvert/ pipeline extension for
+    DA-247/2018.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0081&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: MOD2021/0082
+  address: Cape Hawke Drive FORSTER NSW 2428
+  description: 'Concept Approval: Subdivision (62 Lots) and Constructions of sixteen
+    (16) dwellings - Modification relates to fencing conditions and breaking up the
+    developer contributions into relevant sub-stages. Conditions proposed to be modified
+    : Condition13 (a) and (b), Condition 41, 43 and 54.'
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0082&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: MOD2021/0083
+  address: 35 Green Point Drive GREEN POINT NSW 2428
+  description: 1 bedroom dwelling, studio and carport - Modification to DA-81/2021
+    - The carport has been moved from 1451m to 2450m to maintain most of the existing
+    trees on the east south boundary corner.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0083&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: MOD2021/0084
+  address: 21 Hesper Drive FORSTER NSW 2428
+  description: Proposed driveway extension and carport modification - DA-105/2018
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0084&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: MOD2021/0085
+  address: 12 Kendall Street GLOUCESTER NSW 2422
+  description: Shed Extension Modification
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0085&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: MOD2021/0086
+  address: 194 Amaroo Drive SMITHS LAKE NSW 2428
+  description: DWELLING AND DETACHED GARAGE - Modification to roof and ceiling level
+    & change to windows & doors.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0086&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: MOD2021/0087
+  address: 32-36 Head Street FORSTER NSW 2428
+  description: Amendments to conditions 10,11,22 and removal of conditions 33 and
+    68
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0087&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: MOD2021/0088
+  address: 223 The Lakes Way FORSTER NSW 2428
+  description: Manufactured Home Estate - Modification to DA-279/2016/A
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0088&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: MOD2021/0089
+  address: 7 Petrel Place TEA GARDENS NSW 2324
+  description: Modification to DA-167/2020 to remove an existing drainage easement
+    and Asset Protection Zone (APZ) totalling 3.631 hectares from Lot 2 of the approved
+    development.
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0089&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: MOD2021/0090
+  address: Mereweather Lane TUGRABAKH NSW 2422
+  description: compliance (or otherwise) in accordance with Table 4.6 of Austroads
+    and Safety Audit of Mereweather Road
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0090&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: MOD2021/0091
+  address: 4 Henley Place RED HEAD NSW 2430
+  description: 'Modification to 545/2018/DA to undertake subdivision in two stages:
+    Stage 1 - Lot 1 and residue & Stage 2 - Lots 2 & 3 with driveway'
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0091&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: MOD2021/0092
+  address: 16 Emerton Close CUNDLETOWN NSW 2430
+  description: "143/2017/DA - The proposed four stages of works, buildings and use
+    of the site is as follows. \r\nStage 1 Bulk Earthworks, Pavement Construction,
+    Stormwater Drainage/Treatment\r\nFacilities, Yard Lighting, and all in ground
+    services for future buildings. 300kL above ground rainwater tank for roof water
+    storage/reuse. Fuel Tank Enclosure plus 2 x 150kL Diesel Fuel Tanks. Fuel Bowsers,
+    including small pump shed and a SPEL “Puraceptor”.\r\nStage 2 Freight Shed\r\nStage
+    3 Workshop\r\nStage 4 2 x 150kL Diesel Tanks"
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0092&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: MOD2021/0093
+  address: 165 Boomerang Drive BOOMERANG BEACH NSW 2428
+  description: Modification to DA-1133/1999 - Windows & doors changed to reflect original
+    development consent and change to verandah gable from east to west side due to
+    safety issue with clearance above driveway
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0093&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: MOD2021/0094
+  address: 165 Boomerang Drive BOOMERANG BEACH NSW 2428
+  description: Modification - Windows & doors changed to reflect original development
+    consent and change to verandah gable from east to west side due to safety issue
+    with clearance above driveway
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0094&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: MOD2021/0095
+  address: 5 The Point BUNDABAH NSW 2324
+  description: Modification to detached garage and carport due to change in position
+    on the site
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0095&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: MOD2021/0096
+  address: 43 Wallis Street FORSTER NSW 2428
+  description: Remove studio additions and amend carport design
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0096&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: MOD2021/0097
+  address: 4 Kendall Street GLOUCESTER NSW 2422
+  description: Replace the approved workshop with storage units. The building will
+    be slightly larger than the proposed workshop
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0097&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: MOD2021/0098
+  address: 13 Timbertop Avenue FORSTER NSW 2428
+  description: Reduce size of dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0098&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: MOD2021/0099
+  address: 20 Laguna Court BLACK HEAD NSW 2430
+  description: Modification to 63/2017/DA to delete condition 8 as incorrectly applied
+    as Greater Taree Section 94 & 94A Plan 2016 does not apply to the development
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0099&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: MOD2021/0100
+  address: 66 Cambage Street PINDIMAR NSW 2324
+  description: Removal of Conditions 8, 22 & 23 for DA-72/2021
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0100&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: MOD2021/0101
+  address: 22 Cowan Road TAREE NSW 2430
+  description: Include ramp from front yard to top storey for wheelchair access, increase
+    size of south facing window in new bedroom, include rebuild of retaining wall
+    in footings for proposed bedroom addition
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0101&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: MOD2021/0102
+  address: 361 Gloucester Road BURRELL CREEK NSW 2429
+  description: Modification to 386/2017/DA - Relocation of approved hay shed & minor
+    increase in area and overall height of the proposed shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD2021%2F0102&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: PCA2021/0273
+  address: 1004 Nowendoc Road MOUNT GEORGE NSW 2424
+  description: PCA - Single Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0273&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: PCA2021/0274
+  address: 35 Irrawang Road GLOUCESTER NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+    - Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0274&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: PCA2021/0275
+  address: 21 Fishermans Walk HAWKS NEST NSW 2324
+  description: Three Level Residence Modification CC 86/2016
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0275&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: PCA2021/0276
+  address: 48 Amanda Crescent FORSTER NSW 2428
+  description: Dwelling with attached work shed & garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0276&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: PCA2021/0277
+  address: 221 Glen Ayr Road GIRVAN NSW 2425
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0277&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-16'
+- council_reference: PCA2021/0278
+  address: 13 Koorainghat Close RAINBOW FLAT NSW 2430
+  description: Single Storey Dwelling (replacement due to bushfire)
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0278&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-19'
+- council_reference: PCA2021/0279
+  address: 1004 Nowendoc Road MOUNT GEORGE NSW 2424
+  description: PCA - Single Storey Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0279&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: PCA2021/0280
+  address: 8 Spotted Gum Drive OLD BAR NSW 2430
+  description: Development Application - Residential Single Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0280&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: PCA2021/0281
+  address: 60 Cove Boulevard NORTH ARM COVE NSW 2324
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0281&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: PCA2021/0282
+  address: 17 Spinnaker Cove WALLABI POINT NSW 2430
+  description: Two Storey Dwelling Additions
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0282&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: PCA2021/0283
+  address: 24 Begonia Place RAINBOW FLAT NSW 2430
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0283&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: PCA2021/0284
+  address: 42 Heather Close FAILFORD NSW 2430
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0284&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: PCA2021/0285
+  address: 42 Heather Close FAILFORD NSW 2430
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0285&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: PCA2021/0286
+  address: 27 Cove Boulevard NORTH ARM COVE NSW 2324
+  description: Carport to rear of existing residence
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0286&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: PCA2021/0287
+  address: 319 Willow Point Road FAILFORD NSW 2430
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0287&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: PCA2021/0288
+  address: 45 Burgess Road FORSTER NSW 2428
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0288&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: PCA2021/0289
+  address: 86 Koree Street PINDIMAR NSW 2324
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0289&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: PCA2021/0290
+  address: 14 Lake Street FORSTER NSW 2428
+  description: Private manager residence - Sunseeker Holiday Park
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0290&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: PCA2021/0291
+  address: 852 Wherrol Flat Road WHERROL FLAT NSW 2429
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA-for
+    plumbing inspections
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0291&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-21'
+- council_reference: PCA2021/0292
+  address: 1 Bunyan Avenue OLD BAR NSW 2430
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0292&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0294
+  address: 1 Combo Road GLOUCESTER NSW 2422
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0294&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0295
+  address: 15 Phascogale Crescent BARRINGTON NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0295&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0296
+  address: 42 Bundook Road TUGRABAKH NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0296&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0297
+  address: 171 Jacks Road GLOUCESTER NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0297&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0298
+  address: 219 Oakey Creek Road BOWMAN FARM NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0298&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0299
+  address: 10 Manning Street GLOUCESTER NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0299&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0300
+  address: 4 Cook Street GLOUCESTER NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0300&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0301
+  address: 4 Kendall Street GLOUCESTER NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0301&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0302
+  address: 75-81 Denison Street GLOUCESTER NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0302&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0303
+  address: 2613 Gloucester Tops Road INVERGORDON NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0303&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0304
+  address: 46 Wombo Street PINDIMAR NSW 2324
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0304&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0305
+  address: 47 Coonabarabran Road COOMBA PARK NSW 2428
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0305&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCA2021/0306
+  address: 213 Church Street GLOUCESTER NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0306&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: PCA2021/0307
+  address: River Street TAREE NSW 2430
+  description: Rebuild & upgrade of the Manning River Rowing Club inclusive of restaurant/cafe
+    and function centre
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0307&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-23'
+- council_reference: PCA2021/0308
+  address: 78 Cove Boulevard NORTH ARM COVE NSW 2324
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0308&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: PCA2021/0309
+  address: 708 Bakers Creek Road BAKERS CREEK NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0309&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: PCA2021/0310
+  address: 55 Fairbairns Road FORBESDALE NSW 2422
+  description: Additions to Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0310&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: PCA2021/0311
+  address: 233 Mt Coxcomb Road UPPER LANSDOWNE NSW 2430
+  description: Dwelling & Carport
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0311&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: PCA2021/0312
+  address: 124 Waterman Street OLD BAR NSW 2430
+  description: Patio
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0312&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-27'
+- council_reference: PCA2021/0313
+  address: 84 Hume Street GLOUCESTER NSW 2422
+  description: Additions to Dwelling, New Garage & New Pergola
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0313&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: PCA2021/0314
+  address: 20 Peel Street TUNCURRY NSW 2428
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0314&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: PCA2021/0315
+  address: 139 Bootawa Dam Road BOOTAWA NSW 2430
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0315&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: PCA2021/0316
+  address: 8 Gap Hill Road STROUD ROAD NSW 2415
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0316&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: PCA2021/0317
+  address: 363 Diamond Beach Road HALLIDAYS POINT NSW 2430
+  description: The provision of adequate clothes washing facilities comprising of
+    at east one washtub and space in the same room for a washing machine for proposed
+    strata Lots 2-11
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0317&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: PCA2021/0318
+  address: 140 Cove Boulevard NORTH ARM COVE NSW 2324
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0318&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: PCA2021/0319
+  address: 9 Philip Street GLOUCESTER NSW 2422
+  description: Covered deck
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0319&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: PCA2021/0320
+  address: 321 Boomerang Drive BLUEYS BEACH NSW 2428
+  description: Demolition of the service station awning, removal of underground petroleum
+    storage system and remediation
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0320&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: PCA2021/0321
+  address: 36 Cunningham Street PINDIMAR NSW 2324
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0321&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: PCA2021/0322
+  address: 68 Cove Boulevard NORTH ARM COVE NSW 2324
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0322&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: PCA2021/0323
+  address: 260 Victoria Street TAREE NSW 2430
+  description: Tyre Service
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0323&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: PCA2021/0324
+  address: 7 The Boulevarde HAWKS NEST NSW 2324
+  description: Alterations to ex 2 story brick veneer residence, including removal
+    of existing
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: PCA2021/0325
+  address: 482 Waitui Road WAITUI NSW 2443
+  description: New single storey dwelling to create Dual Occupancy
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0325&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: PCA2021/0326
+  address: 13 Myall Street TEA GARDENS NSW 2324
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0326&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: PCA2021/0327
+  address: 15-17 Church Street CARRINGTON NSW 2324
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0327&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: PCA2021/0328
+  address: UNIT 1/166 Boomerang Drive BOOMERANG BEACH NSW 2428
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0328&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-03'
+- council_reference: PCA2021/0329
+  address: 352 Barrington West Road BARRINGTON NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0329&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: PCA2021/0330
+  address: 7 Laurie Street GLOUCESTER NSW 2422
+  description: Pergola
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0330&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: PCA2021/0331
+  address: 66 King Street GLOUCESTER NSW 2422
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0331&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: PCA2021/0332
+  address: 12406 Pacific Highway COOLONGOLOOK NSW 2423
+  description: Private Certifier Application
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0332&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: PCA2021/0333
+  address: 3A Moonlight Circuit GLOUCESTER NSW 2422
+  description: "Complying Development Certificates - Council Issued Complying Development
+    Certificate - Other Residential\r\nSteel Shed"
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0333&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: PCA2021/0334
+  address: 14 Cambage Street PINDIMAR NSW 2324
+  description: Detached garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0334&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: PCA2021/0335
+  address: 28 Stephen Street FORSTER NSW 2428
+  description: Residential alterations and additions and detached shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0335&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: PCA2021/0336
+  address: 8 Gap Hill Road STROUD ROAD NSW 2415
+  description: Addition of laundry, store and swimming pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0336&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: PCA2021/0337
+  address: 434 Barrington East Road BARRINGTON NSW 2422
+  description: Tourist development - Cabin 6
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0337&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: PCA2021/0338
+  address: 6 The Saddle TALLWOODS VILLAGE NSW 2430
+  description: Retaining Wall
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0338&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: PCA2021/0339
+  address: 494 Mud Hut Road COBARK NSW 2422
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0339&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: PCA2021/0340
+  address: 4 Pearl Place DIAMOND BEACH NSW 2430
+  description: Two storey dwelling and pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0340&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: PCA2021/0341
+  address: 139 Sawpit Lane BUCCA WAUKA NSW 2429
+  description: Development Application - Residential Single Dwelling (PRIVATE CERTIFIER)
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0341&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: PCA2021/0342
+  address: 82 Brooks Road GIRVAN NSW 2425
+  description: Retention and ongoing use of existing dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0342&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: PCA2021/0343
+  address: 7 Tyrell Street GLOUCESTER NSW 2422
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0343&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: PCA2021/0344
+  address: 22 Phillip Road SMITHS LAKE NSW 2428
+  description: Garage
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0344&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: PCA2021/0345
+  address: 1318 Gloucester Tops Road FAULKLAND NSW 2422
+  description: Additions to existing Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0345&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-10'
+- council_reference: PCA2021/0346
+  address: 6 Divide Street FORSTER NSW 2428
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0346&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: PCA2021/0347
+  address: 21 Elluisa Close FORSTER NSW 2428
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0347&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: PCA2021/0348
+  address: 1739 Coomba Road COOMBA BAY NSW 2428
+  description: Private Certifier application
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0348&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: PCA2021/0349
+  address: Hereford Place FAILFORD NSW 2430
+  description: Shed
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0349&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: PCA2021/0350
+  address: 35 Green Point Drive GREEN POINT NSW 2428
+  description: Council Appointed as Principal Certifier - Council Appointed as PCA
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCA2021%2F0350&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: PCCC109/2020
+  address: 313-317 Markwell Road BULAHDELAH NSW 2423
+  description: Construction of 3 unit robotic dairy including effluent system
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC109%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: PCCC113/2021
+  address: 30 Grange Crescent FORSTER NSW 2428
+  description: Erection of Dual Occupancy
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC113%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: PCCC141/2020
+  address: 1290 Willina Road BUNYAH NSW 2429
+  description: Two storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC141%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-04'
+- council_reference: PCCC145/2017
+  address: 1445 Wattley Hill Road BUNGWAHL NSW 2423
+  description: External walls changed to rammed earth. Some internal walls chabnged
+    to light ea
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC145%2F2017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: PCCC155/2019
+  address: 7780 Pacific Highway NERONG NSW 2423
+  description: Civil works associated with a dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC155%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCCC255/2020
+  address: 12406 Pacific Highway COOLONGOLOOK NSW 2423
+  description: Extension to garage side of house
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC255%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: PCCC264/2017
+  address: 21 Keith Crescent SMITHS LAKE NSW 2428
+  description: Two Storey residence
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC264%2F2017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: PCCC303/2020
+  address: 51 Moorooba Road COOMBA PARK NSW 2428
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC303%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: PCCC304/2020
+  address: 51 Moorooba Road COOMBA PARK NSW 2428
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC304%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: PCCC310/2019
+  address: 87 Mill Creek Road STROUD NSW 2425
+  description: 2x turkey sheds
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC310%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-07'
+- council_reference: PCCC369/2020
+  address: 19 Reef Circuit BLUEYS BEACH NSW 2428
+  description: Dwelling and secondary dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC369%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-05'
+- council_reference: PCCC372/2016
+  address: 3-17 Breese Parade FORSTER NSW 2428
+  description: Retail Sale and Fitting of Tyres (Shop 17 JAX Tyres)
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC372%2F2016&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCCC383/2020
+  address: 495 Hillcrest Road NABIAC NSW 2312
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC383%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-06'
+- council_reference: PCCC385/2020
+  address: 21 The Lakes Way TARBUCK BAY NSW 2428
+  description: Single storey three bedroom residence
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC385%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: PCCC427/2020
+  address: 117 Booner Street HAWKS NEST NSW 2324
+  description: Alterations & additions to Tea Gardens/Hawks Nest Surf Club
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC427%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-26'
+- council_reference: PCCC442/2020
+  address: 39 Parkes Street TUNCURRY NSW 2428
+  description: 2 storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC442%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-28'
+- council_reference: PCCC444/2019
+  address: 80 Bullocky Way FAILFORD NSW 2430
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC444%2F2019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-20'
+- council_reference: PCCC452/2020
+  address: 12 Wallaby Creek Close FAILFORD NSW 2430
+  description: Single storey dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC452%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-30'
+- council_reference: PCCC47/2020
+  address: 66 Pipers Bay Drive FORSTER NSW 2428
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC47%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-22'
+- council_reference: PCCC474/2020
+  address: 1739 Coomba Road COOMBA BAY NSW 2428
+  description: Dwelling, shed, swimming pool and associated change room, water tanks
+    (Stage 1 n
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC474%2F2020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
+- council_reference: PCCC52/2021
+  address: 12A Lee Street BULAHDELAH NSW 2423
+  description: Dwelling
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC52%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-04-29'
+- council_reference: PCCC79/2021
+  address: 1739 Coomba Road COOMBA BAY NSW 2428
+  description: Stage 2 - dwelling and pool
+  info_url: https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCCC79%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2021-05-11'
