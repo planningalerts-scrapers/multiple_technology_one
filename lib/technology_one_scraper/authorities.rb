@@ -128,14 +128,6 @@ module TechnologyOneScraper
       url: "https://eproperty.wyndham.vic.gov.au/ePropertyPROD",
       period: "L28"
     },
-    charles_sturt: {
-      url: "https://eproperty.charlessturt.sa.gov.au/eProperty",
-      period: "L28"
-    },
-    mitcham: {
-      url: "https://com-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
-      period: "L28"
-    },
     goulburn: {
       url: "https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty",
       period: "TW",
