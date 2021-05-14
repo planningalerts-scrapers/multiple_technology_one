@@ -2,6 +2,10 @@
 
 module TechnologyOneScraper
   AUTHORITIES = {
+    casey: {
+      url: "https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty",
+      period: "L28"
+    },
     cassowary_coast: {
       url: "https://ccrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
